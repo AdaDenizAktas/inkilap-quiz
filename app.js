@@ -182,7 +182,7 @@ createApp({
               <span class="stat-label">Toplam</span>
               <strong>{{ questions.length }}</strong>
             </div>
-            <div class="stat-pill">
+            <div class="stat-pill" style="display:none">
               <span class="stat-label">Tur</span>
               <strong>{{ stats.round }}</strong>
             </div>
@@ -206,7 +206,7 @@ createApp({
 
           <section class="question-card" v-if="currentQuestion">
             <div class="question-topline">
-              <span class="badge">Kalan {{ remainingInRound }}</span>
+              <span class="badge" style="display:none">Kalan {{ remainingInRound }}</span>
               <span class="badge accent">Soru #{{ currentQuestion.id }}</span>
             </div>
 
