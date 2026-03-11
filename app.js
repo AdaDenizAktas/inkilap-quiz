@@ -226,10 +226,9 @@ createApp({
             </div>
 
             <div v-if="hasAnswered" class="feedback-box" :class="lastAnswerCorrect ? 'feedback-good' : 'feedback-bad'">
-              <p v-if="lastAnswerCorrect">Doğru cevap seçildi. Harika, devam edebilirsin.</p>
+              <p v-if="lastAnswerCorrect">Doğru cevap. Harikasın.</p>
               <p v-else>
-                Yanlış seçim yapıldı. Doğru şık yeşil ile gösterildi.
-                İstersen tekrar deneyip şıkları yeniden karıştırabilirsin.
+                Yanlış seçim. İstersen tekrar deneyip şıkları karıştırabilirsin.
               </p>
             </div>
 
