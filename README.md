@@ -12,4 +12,3 @@ Tek sayfalık, mobil uyumlu, Vue tabanlı soru uygulaması.
 - Yanlış durumda **Tekrar dene** ile aynı soru sıfırlanır ve şıklar yeniden karışır
 - Kısa şıklarda 2x2 görünüm, uzun şıklarda tek kolon görünüm
 - Mobil öncelikli tasarım
-- 
