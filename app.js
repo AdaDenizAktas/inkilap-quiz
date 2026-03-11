@@ -220,7 +220,7 @@ createApp({
                 @click="selectOption(option)"
                 type="button"
               >
-                <span class="option-letter">{{ option.key.toUpperCase() }}</span>
+                <span class="option-letter" style="display:none;">{{ option.key.toUpperCase() }}</span>
                 <span class="option-text">{{ option.text }}</span>
               </button>
             </div>
