@@ -1,4 +1,4 @@
-# İnkılap Tarihi Girly Quiz
+# İnkılap Tarihi Quiz
 
 Tek sayfalık, mobil uyumlu, Vue tabanlı soru uygulaması.
 
