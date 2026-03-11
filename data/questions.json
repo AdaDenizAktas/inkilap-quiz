@@ -1,0 +1,5809 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "question": "Mustafa Kemal'in doğum yılı nedir?",
+      "o1": "1918",
+      "o2": "1919",
+      "o3": "1881",
+      "o4": "15 Mayıs 1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 2,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in doğum yılı?",
+      "o1": "19 Şubat 1915",
+      "o2": "20-22 Ekim 1919",
+      "o3": "30 Nisan 1939",
+      "o4": "1881",
+      "correctOption": "o4"
+    },
+    {
+      "id": 3,
+      "question": "Mustafa Kemal'in doğum yılı olarak doğru seçenek hangisidir?",
+      "o1": "24 Temmuz 1923",
+      "o2": "1919",
+      "o3": "1881",
+      "o4": "12-28 Ocak 1920",
+      "correctOption": "o3"
+    },
+    {
+      "id": 4,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in doğum yılı ____.",
+      "o1": "12 Ağustos 1930",
+      "o2": "1934",
+      "o3": "1881",
+      "o4": "23 Temmuz 1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 5,
+      "question": "Mustafa Kemal'in doğum yılı sorusunun cevabı hangisidir?",
+      "o1": "1881",
+      "o2": "1928",
+      "o3": "29 Ekim 1923",
+      "o4": "10 Ocak 1920",
+      "correctOption": "o1"
+    },
+    {
+      "id": 6,
+      "question": "Mustafa Kemal'in doğduğu şehir nedir?",
+      "o1": "Montrö",
+      "o2": "Selanik",
+      "o3": "Sivas",
+      "o4": "Bağdat",
+      "correctOption": "o2"
+    },
+    {
+      "id": 7,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in doğduğu şehir?",
+      "o1": "Selanik",
+      "o2": "Amasya",
+      "o3": "Lozan",
+      "o4": "Dörtyol",
+      "correctOption": "o1"
+    },
+    {
+      "id": 8,
+      "question": "Mustafa Kemal'in doğduğu şehir olarak doğru seçenek hangisidir?",
+      "o1": "Halep",
+      "o2": "Samsun",
+      "o3": "Erzurum",
+      "o4": "Selanik",
+      "correctOption": "o4"
+    },
+    {
+      "id": 9,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in doğduğu şehir ____.",
+      "o1": "Locarno",
+      "o2": "Selanik",
+      "o3": "Kars",
+      "o4": "Samsun",
+      "correctOption": "o2"
+    },
+    {
+      "id": 10,
+      "question": "Mustafa Kemal'in doğduğu şehir sorusunun cevabı hangisidir?",
+      "o1": "Erzurum",
+      "o2": "Edirne",
+      "o3": "Kars",
+      "o4": "Selanik",
+      "correctOption": "o4"
+    },
+    {
+      "id": 11,
+      "question": "Mustafa Kemal'in annesi nedir?",
+      "o1": "İsmet İnönü",
+      "o2": "Rauf Orbay",
+      "o3": "Zübeyde Hanım",
+      "o4": "Fethi Okyar",
+      "correctOption": "o3"
+    },
+    {
+      "id": 12,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in annesi?",
+      "o1": "Giritli Şevki",
+      "o2": "Zübeyde Hanım",
+      "o3": "Enver Paşa",
+      "o4": "Mustafa Kemal",
+      "correctOption": "o2"
+    },
+    {
+      "id": 13,
+      "question": "Mustafa Kemal'in annesi olarak doğru seçenek hangisidir?",
+      "o1": "Wilson",
+      "o2": "Giritli Şevki",
+      "o3": "Zübeyde Hanım",
+      "o4": "Ali Fuat Cebesoy",
+      "correctOption": "o3"
+    },
+    {
+      "id": 14,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in annesi ____.",
+      "o1": "Zübeyde Hanım",
+      "o2": "Enver Paşa",
+      "o3": "Fethi Okyar",
+      "o4": "Rauf Orbay",
+      "correctOption": "o1"
+    },
+    {
+      "id": 15,
+      "question": "Mustafa Kemal'in annesi sorusunun cevabı hangisidir?",
+      "o1": "Kubilay",
+      "o2": "Mustafa Kemal",
+      "o3": "Ali Rıza Efendi",
+      "o4": "Zübeyde Hanım",
+      "correctOption": "o4"
+    },
+    {
+      "id": 16,
+      "question": "Mustafa Kemal'in babası nedir?",
+      "o1": "Fethi Okyar",
+      "o2": "Salih Paşa",
+      "o3": "Ali Rıza Efendi",
+      "o4": "Şerif Bey",
+      "correctOption": "o3"
+    },
+    {
+      "id": 17,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in babası?",
+      "o1": "Fahrettin Paşa",
+      "o2": "Rauf Orbay",
+      "o3": "Ali Rıza Efendi",
+      "o4": "Giritli Şevki",
+      "correctOption": "o3"
+    },
+    {
+      "id": 18,
+      "question": "Mustafa Kemal'in babası olarak doğru seçenek hangisidir?",
+      "o1": "Ali Rıza Efendi",
+      "o2": "Ali Fuat Cebesoy",
+      "o3": "Zübeyde Hanım",
+      "o4": "Fethi Okyar",
+      "correctOption": "o1"
+    },
+    {
+      "id": 19,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in babası ____.",
+      "o1": "Ali Rıza Efendi",
+      "o2": "Fethi Okyar",
+      "o3": "Kazım Karabekir",
+      "o4": "Rauf Orbay",
+      "correctOption": "o1"
+    },
+    {
+      "id": 20,
+      "question": "Mustafa Kemal'in babası sorusunun cevabı hangisidir?",
+      "o1": "Mustafa Kemal",
+      "o2": "Rauf Orbay",
+      "o3": "Topçu Ferik Rıza Paşa",
+      "o4": "Ali Rıza Efendi",
+      "correctOption": "o4"
+    },
+    {
+      "id": 21,
+      "question": "Mustafa Kemal'in Şam'da kurduğu cemiyet nedir?",
+      "o1": "Hareket Ordusu",
+      "o2": "Cemiyet-i Akvam",
+      "o3": "Nusret Mayın Gemisi",
+      "o4": "Vatan ve Hürriyet Cemiyeti",
+      "correctOption": "o4"
+    },
+    {
+      "id": 22,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in şam'da kurduğu cemiyet?",
+      "o1": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Vatan ve Hürriyet Cemiyeti",
+      "o3": "Halifelik Ordusu",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o2"
+    },
+    {
+      "id": 23,
+      "question": "Mustafa Kemal'in Şam'da kurduğu cemiyet olarak doğru seçenek hangisidir?",
+      "o1": "Vatan ve Hürriyet Cemiyeti",
+      "o2": "Cemiyet-i Akvam",
+      "o3": "Hakimiyet-i Milliye",
+      "o4": "Kafkas İslam Ordusu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 24,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in Şam'da kurduğu cemiyet ____.",
+      "o1": "Anadolu Ajansı",
+      "o2": "Vatan ve Hürriyet Cemiyeti",
+      "o3": "Hareket Ordusu",
+      "o4": "Hakimiyet-i Milliye",
+      "correctOption": "o2"
+    },
+    {
+      "id": 25,
+      "question": "Mustafa Kemal'in Şam'da kurduğu cemiyet sorusunun cevabı hangisidir?",
+      "o1": "Anadolu Ajansı",
+      "o2": "Vatan ve Hürriyet Cemiyeti",
+      "o3": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Kafkas İslam Ordusu",
+      "correctOption": "o2"
+    },
+    {
+      "id": 26,
+      "question": "II. Meşrutiyet'in ilan yılı nedir?",
+      "o1": "27 Aralık 1919",
+      "o2": "1921",
+      "o3": "1908",
+      "o4": "1918",
+      "correctOption": "o3"
+    },
+    {
+      "id": 27,
+      "question": "Aşağıdakilerden hangisi ii. meşrutiyet'in ilan yılı?",
+      "o1": "1934",
+      "o2": "24 Ekim 1929",
+      "o3": "19 Mayıs 1919",
+      "o4": "1908",
+      "correctOption": "o4"
+    },
+    {
+      "id": 28,
+      "question": "II. Meşrutiyet'in ilan yılı olarak doğru seçenek hangisidir?",
+      "o1": "15 Mayıs 1919",
+      "o2": "1908",
+      "o3": "1924",
+      "o4": "1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 29,
+      "question": "Boşluğu doğru tamamlayınız: II. Meşrutiyet'in ilan yılı ____.",
+      "o1": "22 Haziran 1919",
+      "o2": "1920",
+      "o3": "10 Ocak 1920",
+      "o4": "1908",
+      "correctOption": "o4"
+    },
+    {
+      "id": 30,
+      "question": "II. Meşrutiyet'in ilan yılı sorusunun cevabı hangisidir?",
+      "o1": "24 Ekim 1929",
+      "o2": "1934",
+      "o3": "1908",
+      "o4": "23 Aralık 1930",
+      "correctOption": "o3"
+    },
+    {
+      "id": 31,
+      "question": "31 Mart Ayaklanması'nı bastıran ordu nedir?",
+      "o1": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Papalık",
+      "o3": "Hareket Ordusu",
+      "o4": "Anadolu Ajansı",
+      "correctOption": "o3"
+    },
+    {
+      "id": 32,
+      "question": "Aşağıdakilerden hangisi 31 mart ayaklanması'nı bastıran ordu?",
+      "o1": "Hareket Ordusu",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Vatan ve Hürriyet Cemiyeti",
+      "o4": "Anadolu Ajansı",
+      "correctOption": "o1"
+    },
+    {
+      "id": 33,
+      "question": "31 Mart Ayaklanması'nı bastıran ordu olarak doğru seçenek hangisidir?",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o2": "Yavuz",
+      "o3": "Hakimiyet-i Milliye",
+      "o4": "Hareket Ordusu",
+      "correctOption": "o4"
+    },
+    {
+      "id": 34,
+      "question": "Boşluğu doğru tamamlayınız: 31 Mart Ayaklanması'nı bastıran ordu ____.",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o2": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Hareket Ordusu",
+      "o4": "Cemiyet-i Akvam",
+      "correctOption": "o3"
+    },
+    {
+      "id": 35,
+      "question": "31 Mart Ayaklanması'nı bastıran ordu sorusunun cevabı hangisidir?",
+      "o1": "İrade-i Milliye",
+      "o2": "Kafkas İslam Ordusu",
+      "o3": "Hareket Ordusu",
+      "o4": "Vatan ve Hürriyet Cemiyeti",
+      "correctOption": "o3"
+    },
+    {
+      "id": 36,
+      "question": "Suriye-Filistin Cephesi'nde İngilizlerin durdurulduğu yer nedir?",
+      "o1": "Halep",
+      "o2": "Lozan",
+      "o3": "Musul",
+      "o4": "Bağdat",
+      "correctOption": "o1"
+    },
+    {
+      "id": 37,
+      "question": "Aşağıdakilerden hangisi suriye-filistin cephesi'nde i̇ngilizlerin durdurulduğu yer?",
+      "o1": "Samsun",
+      "o2": "İzmir",
+      "o3": "Halep",
+      "o4": "Sivas",
+      "correctOption": "o3"
+    },
+    {
+      "id": 38,
+      "question": "Suriye-Filistin Cephesi'nde İngilizlerin durdurulduğu yer olarak doğru seçenek hangisidir?",
+      "o1": "Amasya",
+      "o2": "Dörtyol",
+      "o3": "İzmir",
+      "o4": "Halep",
+      "correctOption": "o4"
+    },
+    {
+      "id": 39,
+      "question": "Boşluğu doğru tamamlayınız: Suriye-Filistin Cephesi'nde İngilizlerin durdurulduğu yer ____.",
+      "o1": "Locarno",
+      "o2": "Halep",
+      "o3": "Dörtyol",
+      "o4": "Ankara",
+      "correctOption": "o2"
+    },
+    {
+      "id": 40,
+      "question": "Suriye-Filistin Cephesi'nde İngilizlerin durdurulduğu yer sorusunun cevabı hangisidir?",
+      "o1": "Halep",
+      "o2": "Havza",
+      "o3": "Amasya",
+      "o4": "Erzurum",
+      "correctOption": "o1"
+    },
+    {
+      "id": 41,
+      "question": "Irak Cephesi'nde başarılı olunan yer nedir?",
+      "o1": "Batı Trakya",
+      "o2": "Allahuekber Dağları",
+      "o3": "Kut-ül Amare",
+      "o4": "Boğazlar",
+      "correctOption": "o3"
+    },
+    {
+      "id": 42,
+      "question": "Aşağıdakilerden hangisi irak cephesi'nde başarılı olunan yer?",
+      "o1": "Boğazlar",
+      "o2": "Kut-ül Amare",
+      "o3": "Allahuekber Dağları",
+      "o4": "Karaağaç",
+      "correctOption": "o2"
+    },
+    {
+      "id": 43,
+      "question": "Irak Cephesi'nde başarılı olunan yer olarak doğru seçenek hangisidir?",
+      "o1": "Boğazlar",
+      "o2": "Batı Trakya",
+      "o3": "Karaağaç",
+      "o4": "Kut-ül Amare",
+      "correctOption": "o4"
+    },
+    {
+      "id": 44,
+      "question": "Boşluğu doğru tamamlayınız: Irak Cephesi'nde başarılı olunan yer ____.",
+      "o1": "Kut-ül Amare",
+      "o2": "Allahuekber Dağları",
+      "o3": "Batı Trakya",
+      "o4": "Meriç Nehri",
+      "correctOption": "o1"
+    },
+    {
+      "id": 45,
+      "question": "Irak Cephesi'nde başarılı olunan yer sorusunun cevabı hangisidir?",
+      "o1": "Karaağaç",
+      "o2": "Kut-ül Amare",
+      "o3": "Batı Trakya",
+      "o4": "Allahuekber Dağları",
+      "correctOption": "o2"
+    },
+    {
+      "id": 46,
+      "question": "Irak Cephesi'nde İngilizlerin ele geçirdiği şehir nedir?",
+      "o1": "Bağdat",
+      "o2": "Halep",
+      "o3": "Dörtyol",
+      "o4": "Montrö",
+      "correctOption": "o1"
+    },
+    {
+      "id": 47,
+      "question": "Aşağıdakilerden hangisi irak cephesi'nde i̇ngilizlerin ele geçirdiği şehir?",
+      "o1": "Kars",
+      "o2": "İzmir",
+      "o3": "Bağdat",
+      "o4": "Sivas",
+      "correctOption": "o3"
+    },
+    {
+      "id": 48,
+      "question": "Irak Cephesi'nde İngilizlerin ele geçirdiği şehir olarak doğru seçenek hangisidir?",
+      "o1": "Locarno",
+      "o2": "Bağdat",
+      "o3": "Erzurum",
+      "o4": "Ankara",
+      "correctOption": "o2"
+    },
+    {
+      "id": 49,
+      "question": "Boşluğu doğru tamamlayınız: Irak Cephesi'nde İngilizlerin ele geçirdiği şehir ____.",
+      "o1": "Lozan",
+      "o2": "Musul",
+      "o3": "Bağdat",
+      "o4": "Erzurum",
+      "correctOption": "o3"
+    },
+    {
+      "id": 50,
+      "question": "Irak Cephesi'nde İngilizlerin ele geçirdiği şehir sorusunun cevabı hangisidir?",
+      "o1": "Amasya",
+      "o2": "Bağdat",
+      "o3": "Dörtyol",
+      "o4": "Edirne",
+      "correctOption": "o2"
+    },
+    {
+      "id": 51,
+      "question": "Çanakkale Savaşı'nın başladığı tarih nedir?",
+      "o1": "1929",
+      "o2": "19 Şubat 1915",
+      "o3": "1922",
+      "o4": "24 Temmuz 1923",
+      "correctOption": "o2"
+    },
+    {
+      "id": 52,
+      "question": "Aşağıdakilerden hangisi çanakkale savaşı'nın başladığı tarih?",
+      "o1": "19 Şubat 1915",
+      "o2": "23 Temmuz 1919",
+      "o3": "5 Eylül 1919",
+      "o4": "8 Temmuz 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 53,
+      "question": "Çanakkale Savaşı'nın başladığı tarih olarak doğru seçenek hangisidir?",
+      "o1": "19 Şubat 1915",
+      "o2": "1936",
+      "o3": "9 Ocak 1916",
+      "o4": "8 Temmuz 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 54,
+      "question": "Boşluğu doğru tamamlayınız: Çanakkale Savaşı'nın başladığı tarih ____.",
+      "o1": "24 Ekim 1929",
+      "o2": "19 Şubat 1915",
+      "o3": "23 Aralık 1930",
+      "o4": "1928",
+      "correctOption": "o2"
+    },
+    {
+      "id": 55,
+      "question": "Çanakkale Savaşı'nın başladığı tarih sorusunun cevabı hangisidir?",
+      "o1": "1926",
+      "o2": "23 Aralık 1930",
+      "o3": "19 Şubat 1915",
+      "o4": "1934",
+      "correctOption": "o3"
+    },
+    {
+      "id": 56,
+      "question": "Çanakkale'de mayınlarıyla etkili olan gemi nedir?",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o2": "Nusret Mayın Gemisi",
+      "o3": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Hakimiyet-i Milliye",
+      "correctOption": "o2"
+    },
+    {
+      "id": 57,
+      "question": "Aşağıdakilerden hangisi çanakkale'de mayınlarıyla etkili olan gemi?",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Nusret Mayın Gemisi",
+      "o3": "Halifelik Ordusu",
+      "o4": "Yavuz",
+      "correctOption": "o2"
+    },
+    {
+      "id": 58,
+      "question": "Çanakkale'de mayınlarıyla etkili olan gemi olarak doğru seçenek hangisidir?",
+      "o1": "Cemiyet-i Akvam",
+      "o2": "Nusret Mayın Gemisi",
+      "o3": "Halifelik Ordusu",
+      "o4": "Yavuz",
+      "correctOption": "o2"
+    },
+    {
+      "id": 59,
+      "question": "Boşluğu doğru tamamlayınız: Çanakkale'de mayınlarıyla etkili olan gemi ____.",
+      "o1": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Papalık",
+      "o3": "Anadolu Ajansı",
+      "o4": "Nusret Mayın Gemisi",
+      "correctOption": "o4"
+    },
+    {
+      "id": 60,
+      "question": "Çanakkale'de mayınlarıyla etkili olan gemi sorusunun cevabı hangisidir?",
+      "o1": "Nusret Mayın Gemisi",
+      "o2": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Anadolu Ajansı",
+      "correctOption": "o1"
+    },
+    {
+      "id": 61,
+      "question": "Çanakkale'de düşmanın çekildiği tarih nedir?",
+      "o1": "9 Ocak 1916",
+      "o2": "1926",
+      "o3": "1918",
+      "o4": "4 Eylül 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 62,
+      "question": "Aşağıdakilerden hangisi çanakkale'de düşmanın çekildiği tarih?",
+      "o1": "1920",
+      "o2": "9 Ocak 1916",
+      "o3": "29 Ekim 1923",
+      "o4": "24 Temmuz 1923",
+      "correctOption": "o2"
+    },
+    {
+      "id": 63,
+      "question": "Çanakkale'de düşmanın çekildiği tarih olarak doğru seçenek hangisidir?",
+      "o1": "20-22 Ekim 1919",
+      "o2": "1928",
+      "o3": "9 Ocak 1916",
+      "o4": "30 Ekim 1918",
+      "correctOption": "o3"
+    },
+    {
+      "id": 64,
+      "question": "Boşluğu doğru tamamlayınız: Çanakkale'de düşmanın çekildiği tarih ____.",
+      "o1": "1932",
+      "o2": "23 Temmuz 1919",
+      "o3": "16 Mart 1920",
+      "o4": "9 Ocak 1916",
+      "correctOption": "o4"
+    },
+    {
+      "id": 65,
+      "question": "Çanakkale'de düşmanın çekildiği tarih sorusunun cevabı hangisidir?",
+      "o1": "19 Mayıs 1919",
+      "o2": "1934",
+      "o3": "1923",
+      "o4": "9 Ocak 1916",
+      "correctOption": "o4"
+    },
+    {
+      "id": 66,
+      "question": "Fahrettin Paşa'nın lakabı nedir?",
+      "o1": "Gazi",
+      "o2": "Çöl Kaplanı",
+      "o3": "Mareşal",
+      "o4": "9. Ordu Müfettişliği",
+      "correctOption": "o2"
+    },
+    {
+      "id": 67,
+      "question": "Aşağıdakilerden hangisi fahrettin paşa'nın lakabı?",
+      "o1": "Gazi",
+      "o2": "9. Ordu Müfettişliği",
+      "o3": "Mareşal",
+      "o4": "Çöl Kaplanı",
+      "correctOption": "o4"
+    },
+    {
+      "id": 68,
+      "question": "Fahrettin Paşa'nın lakabı olarak doğru seçenek hangisidir?",
+      "o1": "9. Ordu Müfettişliği",
+      "o2": "Mareşal",
+      "o3": "Çöl Kaplanı",
+      "o4": "Gazi",
+      "correctOption": "o3"
+    },
+    {
+      "id": 69,
+      "question": "Boşluğu doğru tamamlayınız: Fahrettin Paşa'nın lakabı ____.",
+      "o1": "9. Ordu Müfettişliği",
+      "o2": "Çöl Kaplanı",
+      "o3": "Gazi",
+      "o4": "Mareşal",
+      "correctOption": "o2"
+    },
+    {
+      "id": 70,
+      "question": "Fahrettin Paşa'nın lakabı sorusunun cevabı hangisidir?",
+      "o1": "9. Ordu Müfettişliği",
+      "o2": "Mareşal",
+      "o3": "Çöl Kaplanı",
+      "o4": "Gazi",
+      "correctOption": "o3"
+    },
+    {
+      "id": 71,
+      "question": "Osmanlı'yı savaşa sokan gemilerin Osmanlı'daki adlarından biri nedir?",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Yavuz",
+      "o3": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o4": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o2"
+    },
+    {
+      "id": 72,
+      "question": "Aşağıdakilerden hangisi osmanlı'yı savaşa sokan gemilerin osmanlı'daki adlarından biri?",
+      "o1": "Yavuz",
+      "o2": "İrade-i Milliye",
+      "o3": "Cemiyet-i Akvam",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 73,
+      "question": "Osmanlı'yı savaşa sokan gemilerin Osmanlı'daki adlarından biri olarak doğru seçenek hangisidir?",
+      "o1": "Yavuz",
+      "o2": "Hakimiyet-i Milliye",
+      "o3": "Anadolu Ajansı",
+      "o4": "Nusret Mayın Gemisi",
+      "correctOption": "o1"
+    },
+    {
+      "id": 74,
+      "question": "Boşluğu doğru tamamlayınız: Osmanlı'yı savaşa sokan gemilerin Osmanlı'daki adlarından biri ____.",
+      "o1": "Cemiyet-i Akvam",
+      "o2": "Halifelik Ordusu",
+      "o3": "Yavuz",
+      "o4": "Nusret Mayın Gemisi",
+      "correctOption": "o3"
+    },
+    {
+      "id": 75,
+      "question": "Osmanlı'yı savaşa sokan gemilerin Osmanlı'daki adlarından biri sorusunun cevabı hangisidir?",
+      "o1": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Papalık",
+      "o3": "Yavuz",
+      "o4": "Anadolu Ajansı",
+      "correctOption": "o3"
+    },
+    {
+      "id": 76,
+      "question": "Osmanlı'yı savaşa sokan gemilerin bombaladığı limanlardan biri nedir?",
+      "o1": "Locarno",
+      "o2": "Sivastopol",
+      "o3": "Ankara",
+      "o4": "Dörtyol",
+      "correctOption": "o2"
+    },
+    {
+      "id": 77,
+      "question": "Aşağıdakilerden hangisi osmanlı'yı savaşa sokan gemilerin bombaladığı limanlardan biri?",
+      "o1": "İzmir",
+      "o2": "Selanik",
+      "o3": "Sivastopol",
+      "o4": "Samsun",
+      "correctOption": "o3"
+    },
+    {
+      "id": 78,
+      "question": "Osmanlı'yı savaşa sokan gemilerin bombaladığı limanlardan biri olarak doğru seçenek hangisidir?",
+      "o1": "Sivastopol",
+      "o2": "İstanbul",
+      "o3": "Musul",
+      "o4": "San Remo",
+      "correctOption": "o1"
+    },
+    {
+      "id": 79,
+      "question": "Boşluğu doğru tamamlayınız: Osmanlı'yı savaşa sokan gemilerin bombaladığı limanlardan biri ____.",
+      "o1": "Ankara",
+      "o2": "Lozan",
+      "o3": "Bağdat",
+      "o4": "Sivastopol",
+      "correctOption": "o4"
+    },
+    {
+      "id": 80,
+      "question": "Osmanlı'yı savaşa sokan gemilerin bombaladığı limanlardan biri sorusunun cevabı hangisidir?",
+      "o1": "Sivastopol",
+      "o2": "Dörtyol",
+      "o3": "İstanbul",
+      "o4": "Kars",
+      "correctOption": "o1"
+    },
+    {
+      "id": 81,
+      "question": "Kafkas Cephesi'nde düzenlenen harekât nedir?",
+      "o1": "Sarıkamış Harekâtı",
+      "o2": "Saraybosna Suikastı",
+      "o3": "Kara Perşembe",
+      "o4": "Menemen Olayı",
+      "correctOption": "o1"
+    },
+    {
+      "id": 82,
+      "question": "Aşağıdakilerden hangisi kafkas cephesi'nde düzenlenen harekât?",
+      "o1": "Saraybosna Suikastı",
+      "o2": "Sarıkamış Harekâtı",
+      "o3": "Kara Perşembe",
+      "o4": "Menemen Olayı",
+      "correctOption": "o2"
+    },
+    {
+      "id": 83,
+      "question": "Kafkas Cephesi'nde düzenlenen harekât olarak doğru seçenek hangisidir?",
+      "o1": "Sarıkamış Harekâtı",
+      "o2": "Menemen Olayı",
+      "o3": "Saraybosna Suikastı",
+      "o4": "Kara Perşembe",
+      "correctOption": "o1"
+    },
+    {
+      "id": 84,
+      "question": "Boşluğu doğru tamamlayınız: Kafkas Cephesi'nde düzenlenen harekât ____.",
+      "o1": "Sarıkamış Harekâtı",
+      "o2": "Kara Perşembe",
+      "o3": "Saraybosna Suikastı",
+      "o4": "Menemen Olayı",
+      "correctOption": "o1"
+    },
+    {
+      "id": 85,
+      "question": "Kafkas Cephesi'nde düzenlenen harekât sorusunun cevabı hangisidir?",
+      "o1": "Sarıkamış Harekâtı",
+      "o2": "Saraybosna Suikastı",
+      "o3": "Menemen Olayı",
+      "o4": "Kara Perşembe",
+      "correctOption": "o1"
+    },
+    {
+      "id": 86,
+      "question": "Sarıkamış'ta askerlerin donarak şehit olduğu dağlar nedir?",
+      "o1": "Karaağaç",
+      "o2": "Midye-Enez Hattı",
+      "o3": "Allahuekber Dağları",
+      "o4": "Batı Trakya",
+      "correctOption": "o3"
+    },
+    {
+      "id": 87,
+      "question": "Aşağıdakilerden hangisi sarıkamış'ta askerlerin donarak şehit olduğu dağlar?",
+      "o1": "Batı Trakya",
+      "o2": "Allahuekber Dağları",
+      "o3": "Boğazlar",
+      "o4": "Midye-Enez Hattı",
+      "correctOption": "o2"
+    },
+    {
+      "id": 88,
+      "question": "Sarıkamış'ta askerlerin donarak şehit olduğu dağlar olarak doğru seçenek hangisidir?",
+      "o1": "Allahuekber Dağları",
+      "o2": "Dumlupınar",
+      "o3": "Boğazlar",
+      "o4": "Kut-ül Amare",
+      "correctOption": "o1"
+    },
+    {
+      "id": 89,
+      "question": "Boşluğu doğru tamamlayınız: Sarıkamış'ta askerlerin donarak şehit olduğu dağlar ____.",
+      "o1": "Midye-Enez Hattı",
+      "o2": "Allahuekber Dağları",
+      "o3": "Boğazlar",
+      "o4": "Kut-ül Amare",
+      "correctOption": "o2"
+    },
+    {
+      "id": 90,
+      "question": "Sarıkamış'ta askerlerin donarak şehit olduğu dağlar sorusunun cevabı hangisidir?",
+      "o1": "Batı Trakya",
+      "o2": "Kut-ül Amare",
+      "o3": "Allahuekber Dağları",
+      "o4": "Boğazlar",
+      "correctOption": "o3"
+    },
+    {
+      "id": 91,
+      "question": "Rusya'nın savaştan çekildiği antlaşma nedir?",
+      "o1": "Ankara Antlaşması",
+      "o2": "Montrö Boğazlar Sözleşmesi",
+      "o3": "Paris Barış Konferansı",
+      "o4": "Brest Litowsk Antlaşması",
+      "correctOption": "o4"
+    },
+    {
+      "id": 92,
+      "question": "Aşağıdakilerden hangisi rusya'nın savaştan çekildiği antlaşma?",
+      "o1": "Brest Litowsk Antlaşması",
+      "o2": "Gümrü Antlaşması",
+      "o3": "Ankara Antlaşması",
+      "o4": "Lozan Barış Antlaşması",
+      "correctOption": "o1"
+    },
+    {
+      "id": 93,
+      "question": "Rusya'nın savaştan çekildiği antlaşma olarak doğru seçenek hangisidir?",
+      "o1": "Brest Litowsk Antlaşması",
+      "o2": "Gümrü Antlaşması",
+      "o3": "Ankara Antlaşması",
+      "o4": "Mudanya Ateşkes Antlaşması",
+      "correctOption": "o1"
+    },
+    {
+      "id": 94,
+      "question": "Boşluğu doğru tamamlayınız: Rusya'nın savaştan çekildiği antlaşma ____.",
+      "o1": "Brest Litowsk Antlaşması",
+      "o2": "Londra Antlaşması",
+      "o3": "Gümrü Antlaşması",
+      "o4": "Montrö Boğazlar Sözleşmesi",
+      "correctOption": "o1"
+    },
+    {
+      "id": 95,
+      "question": "Rusya'nın savaştan çekildiği antlaşma sorusunun cevabı hangisidir?",
+      "o1": "Brest Litowsk Antlaşması",
+      "o2": "Montrö Boğazlar Sözleşmesi",
+      "o3": "Ankara Antlaşması (1926)",
+      "o4": "Londra Antlaşması",
+      "correctOption": "o1"
+    },
+    {
+      "id": 96,
+      "question": "Brest Litowsk ile geri alınan yerlerden biri nedir?",
+      "o1": "Lozan",
+      "o2": "Sivas",
+      "o3": "Kars",
+      "o4": "Samsun",
+      "correctOption": "o3"
+    },
+    {
+      "id": 97,
+      "question": "Aşağıdakilerden hangisi brest litowsk ile geri alınan yerlerden biri?",
+      "o1": "Kars",
+      "o2": "İzmir",
+      "o3": "Sivas",
+      "o4": "Lozan",
+      "correctOption": "o1"
+    },
+    {
+      "id": 98,
+      "question": "Brest Litowsk ile geri alınan yerlerden biri olarak doğru seçenek hangisidir?",
+      "o1": "Halep",
+      "o2": "Samsun",
+      "o3": "Menemen",
+      "o4": "Kars",
+      "correctOption": "o4"
+    },
+    {
+      "id": 99,
+      "question": "Boşluğu doğru tamamlayınız: Brest Litowsk ile geri alınan yerlerden biri ____.",
+      "o1": "Sivastopol",
+      "o2": "Kars",
+      "o3": "Dörtyol",
+      "o4": "San Remo",
+      "correctOption": "o2"
+    },
+    {
+      "id": 100,
+      "question": "Brest Litowsk ile geri alınan yerlerden biri sorusunun cevabı hangisidir?",
+      "o1": "Selanik",
+      "o2": "Kars",
+      "o3": "Bağdat",
+      "o4": "Dörtyol",
+      "correctOption": "o2"
+    },
+    {
+      "id": 101,
+      "question": "Kanal Cephesi'nin amaçlarından biri olarak gösterilen yer nedir?",
+      "o1": "Türkiye",
+      "o2": "Mısır",
+      "o3": "Fransa",
+      "o4": "ABD",
+      "correctOption": "o2"
+    },
+    {
+      "id": 102,
+      "question": "Aşağıdakilerden hangisi kanal cephesi'nin amaçlarından biri olarak gösterilen yer?",
+      "o1": "Afganistan",
+      "o2": "Mısır",
+      "o3": "Yunanistan",
+      "o4": "Fransa",
+      "correctOption": "o2"
+    },
+    {
+      "id": 103,
+      "question": "Kanal Cephesi'nin amaçlarından biri olarak gösterilen yer olarak doğru seçenek hangisidir?",
+      "o1": "ABD",
+      "o2": "Suriye",
+      "o3": "Yugoslavya",
+      "o4": "Mısır",
+      "correctOption": "o4"
+    },
+    {
+      "id": 104,
+      "question": "Boşluğu doğru tamamlayınız: Kanal Cephesi'nin amaçlarından biri olarak gösterilen yer ____.",
+      "o1": "Romanya",
+      "o2": "İran",
+      "o3": "Mısır",
+      "o4": "Japonya",
+      "correctOption": "o3"
+    },
+    {
+      "id": 105,
+      "question": "Kanal Cephesi'nin amaçlarından biri olarak gösterilen yer sorusunun cevabı hangisidir?",
+      "o1": "Mısır",
+      "o2": "Afganistan",
+      "o3": "İngiltere",
+      "o4": "Rusya",
+      "correctOption": "o1"
+    },
+    {
+      "id": 106,
+      "question": "Trablusgarp'a saldıran devlet nedir?",
+      "o1": "Afganistan",
+      "o2": "İtalya",
+      "o3": "Yunanistan",
+      "o4": "ABD",
+      "correctOption": "o2"
+    },
+    {
+      "id": 107,
+      "question": "Aşağıdakilerden hangisi trablusgarp'a saldıran devlet?",
+      "o1": "Mısır",
+      "o2": "Almanya",
+      "o3": "Fransa",
+      "o4": "İtalya",
+      "correctOption": "o4"
+    },
+    {
+      "id": 108,
+      "question": "Trablusgarp'a saldıran devlet olarak doğru seçenek hangisidir?",
+      "o1": "Bulgaristan",
+      "o2": "Ermeniler",
+      "o3": "Afganistan",
+      "o4": "İtalya",
+      "correctOption": "o4"
+    },
+    {
+      "id": 109,
+      "question": "Boşluğu doğru tamamlayınız: Trablusgarp'a saldıran devlet ____.",
+      "o1": "ABD",
+      "o2": "İtalya",
+      "o3": "Romanya",
+      "o4": "Mısır",
+      "correctOption": "o2"
+    },
+    {
+      "id": 110,
+      "question": "Trablusgarp'a saldıran devlet sorusunun cevabı hangisidir?",
+      "o1": "Almanya",
+      "o2": "İtalya",
+      "o3": "Irak",
+      "o4": "Yugoslavya",
+      "correctOption": "o2"
+    },
+    {
+      "id": 111,
+      "question": "Trablusgarp Savaşı'nı bitiren antlaşma nedir?",
+      "o1": "Mondros Ateşkes Antlaşması",
+      "o2": "Ankara Antlaşması (1926)",
+      "o3": "Uşi Antlaşması",
+      "o4": "Paris Barış Konferansı",
+      "correctOption": "o3"
+    },
+    {
+      "id": 112,
+      "question": "Aşağıdakilerden hangisi trablusgarp savaşı'nı bitiren antlaşma?",
+      "o1": "Ankara Antlaşması",
+      "o2": "Lozan Barış Antlaşması",
+      "o3": "Uşi Antlaşması",
+      "o4": "Montrö Boğazlar Sözleşmesi",
+      "correctOption": "o3"
+    },
+    {
+      "id": 113,
+      "question": "Trablusgarp Savaşı'nı bitiren antlaşma olarak doğru seçenek hangisidir?",
+      "o1": "Mondros Ateşkes Antlaşması",
+      "o2": "Montrö Boğazlar Sözleşmesi",
+      "o3": "Paris Barış Konferansı",
+      "o4": "Uşi Antlaşması",
+      "correctOption": "o4"
+    },
+    {
+      "id": 114,
+      "question": "Boşluğu doğru tamamlayınız: Trablusgarp Savaşı'nı bitiren antlaşma ____.",
+      "o1": "Mondros Ateşkes Antlaşması",
+      "o2": "Paris Barış Konferansı",
+      "o3": "Londra Antlaşması",
+      "o4": "Uşi Antlaşması",
+      "correctOption": "o4"
+    },
+    {
+      "id": 115,
+      "question": "Trablusgarp Savaşı'nı bitiren antlaşma sorusunun cevabı hangisidir?",
+      "o1": "Paris Barış Konferansı",
+      "o2": "Uşi Antlaşması",
+      "o3": "Lozan Barış Antlaşması",
+      "o4": "Londra Antlaşması",
+      "correctOption": "o2"
+    },
+    {
+      "id": 116,
+      "question": "I. Balkan Savaşı sonunda imzalanan antlaşma nedir?",
+      "o1": "Londra Antlaşması",
+      "o2": "Ankara Antlaşması (1926)",
+      "o3": "Uşi Antlaşması",
+      "o4": "Montrö Boğazlar Sözleşmesi",
+      "correctOption": "o1"
+    },
+    {
+      "id": 117,
+      "question": "Aşağıdakilerden hangisi i. balkan savaşı sonunda imzalanan antlaşma?",
+      "o1": "Montrö Boğazlar Sözleşmesi",
+      "o2": "Lozan Barış Antlaşması",
+      "o3": "Londra Antlaşması",
+      "o4": "Mondros Ateşkes Antlaşması",
+      "correctOption": "o3"
+    },
+    {
+      "id": 118,
+      "question": "I. Balkan Savaşı sonunda imzalanan antlaşma olarak doğru seçenek hangisidir?",
+      "o1": "Mudanya Ateşkes Antlaşması",
+      "o2": "Londra Antlaşması",
+      "o3": "Gümrü Antlaşması",
+      "o4": "Mondros Ateşkes Antlaşması",
+      "correctOption": "o2"
+    },
+    {
+      "id": 119,
+      "question": "Boşluğu doğru tamamlayınız: I. Balkan Savaşı sonunda imzalanan antlaşma ____.",
+      "o1": "Lozan Barış Antlaşması",
+      "o2": "Gümrü Antlaşması",
+      "o3": "Londra Antlaşması",
+      "o4": "Ankara Antlaşması (1926)",
+      "correctOption": "o3"
+    },
+    {
+      "id": 120,
+      "question": "I. Balkan Savaşı sonunda imzalanan antlaşma sorusunun cevabı hangisidir?",
+      "o1": "Montrö Boğazlar Sözleşmesi",
+      "o2": "Londra Antlaşması",
+      "o3": "Mondros Ateşkes Antlaşması",
+      "o4": "Lozan Barış Antlaşması",
+      "correctOption": "o2"
+    },
+    {
+      "id": 121,
+      "question": "I. Balkan Savaşı sonunda sınır kabul edilen hat nedir?",
+      "o1": "Midye-Enez Hattı",
+      "o2": "Batı Trakya",
+      "o3": "Allahuekber Dağları",
+      "o4": "Dumlupınar",
+      "correctOption": "o1"
+    },
+    {
+      "id": 122,
+      "question": "Aşağıdakilerden hangisi i. balkan savaşı sonunda sınır kabul edilen hat?",
+      "o1": "Midye-Enez Hattı",
+      "o2": "Kut-ül Amare",
+      "o3": "Dumlupınar",
+      "o4": "Allahuekber Dağları",
+      "correctOption": "o1"
+    },
+    {
+      "id": 123,
+      "question": "I. Balkan Savaşı sonunda sınır kabul edilen hat olarak doğru seçenek hangisidir?",
+      "o1": "Meriç Nehri",
+      "o2": "Kut-ül Amare",
+      "o3": "Midye-Enez Hattı",
+      "o4": "Batı Trakya",
+      "correctOption": "o3"
+    },
+    {
+      "id": 124,
+      "question": "Boşluğu doğru tamamlayınız: I. Balkan Savaşı sonunda sınır kabul edilen hat ____.",
+      "o1": "Midye-Enez Hattı",
+      "o2": "Karaağaç",
+      "o3": "Meriç Nehri",
+      "o4": "Allahuekber Dağları",
+      "correctOption": "o1"
+    },
+    {
+      "id": 125,
+      "question": "I. Balkan Savaşı sonunda sınır kabul edilen hat sorusunun cevabı hangisidir?",
+      "o1": "Midye-Enez Hattı",
+      "o2": "Dumlupınar",
+      "o3": "Kut-ül Amare",
+      "o4": "Meriç Nehri",
+      "correctOption": "o1"
+    },
+    {
+      "id": 126,
+      "question": "II. Balkan Savaşı'nda geri alınan şehirlerden biri nedir?",
+      "o1": "Havza",
+      "o2": "Bağdat",
+      "o3": "Edirne",
+      "o4": "Kars",
+      "correctOption": "o3"
+    },
+    {
+      "id": 127,
+      "question": "Aşağıdakilerden hangisi ii. balkan savaşı'nda geri alınan şehirlerden biri?",
+      "o1": "Samsun",
+      "o2": "Amasya",
+      "o3": "Edirne",
+      "o4": "Locarno",
+      "correctOption": "o3"
+    },
+    {
+      "id": 128,
+      "question": "II. Balkan Savaşı'nda geri alınan şehirlerden biri olarak doğru seçenek hangisidir?",
+      "o1": "İstanbul",
+      "o2": "Sivastopol",
+      "o3": "Edirne",
+      "o4": "Kars",
+      "correctOption": "o3"
+    },
+    {
+      "id": 129,
+      "question": "Boşluğu doğru tamamlayınız: II. Balkan Savaşı'nda geri alınan şehirlerden biri ____.",
+      "o1": "Montrö",
+      "o2": "Edirne",
+      "o3": "Selanik",
+      "o4": "Bağdat",
+      "correctOption": "o2"
+    },
+    {
+      "id": 130,
+      "question": "II. Balkan Savaşı'nda geri alınan şehirlerden biri sorusunun cevabı hangisidir?",
+      "o1": "Sivas",
+      "o2": "Samsun",
+      "o3": "Kars",
+      "o4": "Edirne",
+      "correctOption": "o4"
+    },
+    {
+      "id": 131,
+      "question": "I. Dünya Savaşı'nın çıkışında kıvılcım olan olay nedir?",
+      "o1": "Kara Perşembe",
+      "o2": "Sarıkamış Harekâtı",
+      "o3": "Menemen Olayı",
+      "o4": "Saraybosna Suikastı",
+      "correctOption": "o4"
+    },
+    {
+      "id": 132,
+      "question": "Aşağıdakilerden hangisi i. dünya savaşı'nın çıkışında kıvılcım olan olay?",
+      "o1": "Menemen Olayı",
+      "o2": "Kara Perşembe",
+      "o3": "Saraybosna Suikastı",
+      "o4": "Sarıkamış Harekâtı",
+      "correctOption": "o3"
+    },
+    {
+      "id": 133,
+      "question": "I. Dünya Savaşı'nın çıkışında kıvılcım olan olay olarak doğru seçenek hangisidir?",
+      "o1": "Kara Perşembe",
+      "o2": "Sarıkamış Harekâtı",
+      "o3": "Menemen Olayı",
+      "o4": "Saraybosna Suikastı",
+      "correctOption": "o4"
+    },
+    {
+      "id": 134,
+      "question": "Boşluğu doğru tamamlayınız: I. Dünya Savaşı'nın çıkışında kıvılcım olan olay ____.",
+      "o1": "Saraybosna Suikastı",
+      "o2": "Menemen Olayı",
+      "o3": "Sarıkamış Harekâtı",
+      "o4": "Kara Perşembe",
+      "correctOption": "o1"
+    },
+    {
+      "id": 135,
+      "question": "I. Dünya Savaşı'nın çıkışında kıvılcım olan olay sorusunun cevabı hangisidir?",
+      "o1": "Kara Perşembe",
+      "o2": "Saraybosna Suikastı",
+      "o3": "Sarıkamış Harekâtı",
+      "o4": "Menemen Olayı",
+      "correctOption": "o2"
+    },
+    {
+      "id": 136,
+      "question": "İttifak Bloğu devletlerinden biri nedir?",
+      "o1": "Almanya",
+      "o2": "Afganistan",
+      "o3": "Japonya",
+      "o4": "Irak",
+      "correctOption": "o1"
+    },
+    {
+      "id": 137,
+      "question": "Aşağıdakilerden hangisi i̇ttifak bloğu devletlerinden biri?",
+      "o1": "Rusya",
+      "o2": "Ermeniler",
+      "o3": "Japonya",
+      "o4": "Almanya",
+      "correctOption": "o4"
+    },
+    {
+      "id": 138,
+      "question": "İttifak Bloğu devletlerinden biri olarak doğru seçenek hangisidir?",
+      "o1": "Fransa",
+      "o2": "Bulgaristan",
+      "o3": "Almanya",
+      "o4": "Türkiye",
+      "correctOption": "o3"
+    },
+    {
+      "id": 139,
+      "question": "Boşluğu doğru tamamlayınız: İttifak Bloğu devletlerinden biri ____.",
+      "o1": "Almanya",
+      "o2": "ABD",
+      "o3": "Mısır",
+      "o4": "İngiltere",
+      "correctOption": "o1"
+    },
+    {
+      "id": 140,
+      "question": "İttifak Bloğu devletlerinden biri sorusunun cevabı hangisidir?",
+      "o1": "Almanya",
+      "o2": "Rusya",
+      "o3": "Romanya",
+      "o4": "Ermeniler",
+      "correctOption": "o1"
+    },
+    {
+      "id": 141,
+      "question": "ABD'nin savaşa girmesiyle terk ettiği doktrin nedir?",
+      "o1": "yasama ve yürütme",
+      "o2": "Monroe Doktrini",
+      "o3": "Milliyetçilik",
+      "o4": "Kara Perşembe",
+      "correctOption": "o2"
+    },
+    {
+      "id": 142,
+      "question": "Aşağıdakilerden hangisi abd'nin savaşa girmesiyle terk ettiği doktrin?",
+      "o1": "manda ve himaye",
+      "o2": "Monroe Doktrini",
+      "o3": "Saltanat",
+      "o4": "Akılcılık",
+      "correctOption": "o2"
+    },
+    {
+      "id": 143,
+      "question": "ABD'nin savaşa girmesiyle terk ettiği doktrin olarak doğru seçenek hangisidir?",
+      "o1": "siyasal alan",
+      "o2": "yoktur",
+      "o3": "bölgesel",
+      "o4": "Monroe Doktrini",
+      "correctOption": "o4"
+    },
+    {
+      "id": 144,
+      "question": "Boşluğu doğru tamamlayınız: ABD'nin savaşa girmesiyle terk ettiği doktrin ____.",
+      "o1": "İnkılapçılık",
+      "o2": "Monroe Doktrini",
+      "o3": "Musul meselesi",
+      "o4": "çok partili hayat",
+      "correctOption": "o2"
+    },
+    {
+      "id": 145,
+      "question": "ABD'nin savaşa girmesiyle terk ettiği doktrin sorusunun cevabı hangisidir?",
+      "o1": "Monroe Doktrini",
+      "o2": "Kara Perşembe",
+      "o3": "yasama ve yürütme",
+      "o4": "çok partili hayat",
+      "correctOption": "o1"
+    },
+    {
+      "id": 146,
+      "question": "Osmanlı Devleti ile yapılan ateşkes nedir?",
+      "o1": "Mondros Ateşkes Antlaşması",
+      "o2": "Uşi Antlaşması",
+      "o3": "Paris Barış Konferansı",
+      "o4": "Brest Litowsk Antlaşması",
+      "correctOption": "o1"
+    },
+    {
+      "id": 147,
+      "question": "Aşağıdakilerden hangisi osmanlı devleti ile yapılan ateşkes?",
+      "o1": "Ankara Antlaşması",
+      "o2": "Montrö Boğazlar Sözleşmesi",
+      "o3": "Brest Litowsk Antlaşması",
+      "o4": "Mondros Ateşkes Antlaşması",
+      "correctOption": "o4"
+    },
+    {
+      "id": 148,
+      "question": "Osmanlı Devleti ile yapılan ateşkes olarak doğru seçenek hangisidir?",
+      "o1": "Mondros Ateşkes Antlaşması",
+      "o2": "Montrö Boğazlar Sözleşmesi",
+      "o3": "Brest Litowsk Antlaşması",
+      "o4": "Ankara Antlaşması (1926)",
+      "correctOption": "o1"
+    },
+    {
+      "id": 149,
+      "question": "Boşluğu doğru tamamlayınız: Osmanlı Devleti ile yapılan ateşkes ____.",
+      "o1": "Ankara Antlaşması (1926)",
+      "o2": "Montrö Boğazlar Sözleşmesi",
+      "o3": "Mondros Ateşkes Antlaşması",
+      "o4": "Lozan Barış Antlaşması",
+      "correctOption": "o3"
+    },
+    {
+      "id": 150,
+      "question": "Osmanlı Devleti ile yapılan ateşkes sorusunun cevabı hangisidir?",
+      "o1": "Londra Antlaşması",
+      "o2": "Mondros Ateşkes Antlaşması",
+      "o3": "Ankara Antlaşması",
+      "o4": "Lozan Barış Antlaşması",
+      "correctOption": "o2"
+    },
+    {
+      "id": 151,
+      "question": "I. Dünya Savaşı'ndan en kârlı çıkan devlet nedir?",
+      "o1": "İngiltere",
+      "o2": "Yunanistan",
+      "o3": "ABD",
+      "o4": "Irak",
+      "correctOption": "o1"
+    },
+    {
+      "id": 152,
+      "question": "Aşağıdakilerden hangisi i. dünya savaşı'ndan en kârlı çıkan devlet?",
+      "o1": "İngiltere",
+      "o2": "Japonya",
+      "o3": "Ermeniler",
+      "o4": "Yugoslavya",
+      "correctOption": "o1"
+    },
+    {
+      "id": 153,
+      "question": "I. Dünya Savaşı'ndan en kârlı çıkan devlet olarak doğru seçenek hangisidir?",
+      "o1": "İran",
+      "o2": "Romanya",
+      "o3": "Afganistan",
+      "o4": "İngiltere",
+      "correctOption": "o4"
+    },
+    {
+      "id": 154,
+      "question": "Boşluğu doğru tamamlayınız: I. Dünya Savaşı'ndan en kârlı çıkan devlet ____.",
+      "o1": "İngiltere",
+      "o2": "İran",
+      "o3": "Romanya",
+      "o4": "Ermeniler",
+      "correctOption": "o1"
+    },
+    {
+      "id": 155,
+      "question": "I. Dünya Savaşı'ndan en kârlı çıkan devlet sorusunun cevabı hangisidir?",
+      "o1": "Yugoslavya",
+      "o2": "İngiltere",
+      "o3": "Romanya",
+      "o4": "Ermeniler",
+      "correctOption": "o2"
+    },
+    {
+      "id": 156,
+      "question": "Dünya barışını korumak amacıyla kurulan cemiyet nedir?",
+      "o1": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Anadolu Ajansı",
+      "o3": "Cemiyet-i Akvam",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o3"
+    },
+    {
+      "id": 157,
+      "question": "Aşağıdakilerden hangisi dünya barışını korumak amacıyla kurulan cemiyet?",
+      "o1": "Nusret Mayın Gemisi",
+      "o2": "Cemiyet-i Akvam",
+      "o3": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Kafkas İslam Ordusu",
+      "correctOption": "o2"
+    },
+    {
+      "id": 158,
+      "question": "Dünya barışını korumak amacıyla kurulan cemiyet olarak doğru seçenek hangisidir?",
+      "o1": "Anadolu Ajansı",
+      "o2": "Halifelik Ordusu",
+      "o3": "Cemiyet-i Akvam",
+      "o4": "İrade-i Milliye",
+      "correctOption": "o3"
+    },
+    {
+      "id": 159,
+      "question": "Boşluğu doğru tamamlayınız: Dünya barışını korumak amacıyla kurulan cemiyet ____.",
+      "o1": "Yavuz",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Hakimiyet-i Milliye",
+      "o4": "Cemiyet-i Akvam",
+      "correctOption": "o4"
+    },
+    {
+      "id": 160,
+      "question": "Dünya barışını korumak amacıyla kurulan cemiyet sorusunun cevabı hangisidir?",
+      "o1": "Cemiyet-i Akvam",
+      "o2": "Anadolu Ajansı",
+      "o3": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Vatan ve Hürriyet Cemiyeti",
+      "correctOption": "o1"
+    },
+    {
+      "id": 161,
+      "question": "Yenilen devletlerle barış şartlarının görüşüldüğü konferans nedir?",
+      "o1": "Montrö Boğazlar Sözleşmesi",
+      "o2": "Paris Barış Konferansı",
+      "o3": "Mondros Ateşkes Antlaşması",
+      "o4": "Gümrü Antlaşması",
+      "correctOption": "o2"
+    },
+    {
+      "id": 162,
+      "question": "Aşağıdakilerden hangisi yenilen devletlerle barış şartlarının görüşüldüğü konferans?",
+      "o1": "Mudanya Ateşkes Antlaşması",
+      "o2": "Ankara Antlaşması",
+      "o3": "Mondros Ateşkes Antlaşması",
+      "o4": "Paris Barış Konferansı",
+      "correctOption": "o4"
+    },
+    {
+      "id": 163,
+      "question": "Yenilen devletlerle barış şartlarının görüşüldüğü konferans olarak doğru seçenek hangisidir?",
+      "o1": "Londra Antlaşması",
+      "o2": "Ankara Antlaşması",
+      "o3": "Lozan Barış Antlaşması",
+      "o4": "Paris Barış Konferansı",
+      "correctOption": "o4"
+    },
+    {
+      "id": 164,
+      "question": "Boşluğu doğru tamamlayınız: Yenilen devletlerle barış şartlarının görüşüldüğü konferans ____.",
+      "o1": "Paris Barış Konferansı",
+      "o2": "Mondros Ateşkes Antlaşması",
+      "o3": "Gümrü Antlaşması",
+      "o4": "Mudanya Ateşkes Antlaşması",
+      "correctOption": "o1"
+    },
+    {
+      "id": 165,
+      "question": "Yenilen devletlerle barış şartlarının görüşüldüğü konferans sorusunun cevabı hangisidir?",
+      "o1": "Mondros Ateşkes Antlaşması",
+      "o2": "Paris Barış Konferansı",
+      "o3": "Lozan Barış Antlaşması",
+      "o4": "Uşi Antlaşması",
+      "correctOption": "o2"
+    },
+    {
+      "id": 166,
+      "question": "Mondros'un imzalandığı tarih nedir?",
+      "o1": "22 Haziran 1919",
+      "o2": "1923",
+      "o3": "30 Ekim 1918",
+      "o4": "10 Ocak 1920",
+      "correctOption": "o3"
+    },
+    {
+      "id": 167,
+      "question": "Aşağıdakilerden hangisi mondros'un imzalandığı tarih?",
+      "o1": "30 Ekim 1918",
+      "o2": "12-28 Ocak 1920",
+      "o3": "7-8 Ağustos 1921",
+      "o4": "30 Nisan 1939",
+      "correctOption": "o1"
+    },
+    {
+      "id": 168,
+      "question": "Mondros'un imzalandığı tarih olarak doğru seçenek hangisidir?",
+      "o1": "8 Temmuz 1919",
+      "o2": "30 Ekim 1918",
+      "o3": "1936",
+      "o4": "1 Kasım 1922",
+      "correctOption": "o2"
+    },
+    {
+      "id": 169,
+      "question": "Boşluğu doğru tamamlayınız: Mondros'un imzalandığı tarih ____.",
+      "o1": "1881",
+      "o2": "20-22 Ekim 1919",
+      "o3": "30 Ekim 1918",
+      "o4": "1921",
+      "correctOption": "o3"
+    },
+    {
+      "id": 170,
+      "question": "Mondros'un imzalandığı tarih sorusunun cevabı hangisidir?",
+      "o1": "19 Şubat 1915",
+      "o2": "1916",
+      "o3": "23 Nisan 1920",
+      "o4": "30 Ekim 1918",
+      "correctOption": "o4"
+    },
+    {
+      "id": 171,
+      "question": "Mondros'tan sonra ilk işgal edilen yer nedir?",
+      "o1": "Musul",
+      "o2": "Sivas",
+      "o3": "Dörtyol",
+      "o4": "Lozan",
+      "correctOption": "o1"
+    },
+    {
+      "id": 172,
+      "question": "Aşağıdakilerden hangisi mondros'tan sonra ilk işgal edilen yer?",
+      "o1": "Musul",
+      "o2": "Ankara",
+      "o3": "Lozan",
+      "o4": "Selanik",
+      "correctOption": "o1"
+    },
+    {
+      "id": 173,
+      "question": "Mondros'tan sonra ilk işgal edilen yer olarak doğru seçenek hangisidir?",
+      "o1": "Bağdat",
+      "o2": "Samsun",
+      "o3": "Halep",
+      "o4": "Musul",
+      "correctOption": "o4"
+    },
+    {
+      "id": 174,
+      "question": "Boşluğu doğru tamamlayınız: Mondros'tan sonra ilk işgal edilen yer ____.",
+      "o1": "Kars",
+      "o2": "Havza",
+      "o3": "Edirne",
+      "o4": "Musul",
+      "correctOption": "o4"
+    },
+    {
+      "id": 175,
+      "question": "Mondros'tan sonra ilk işgal edilen yer sorusunun cevabı hangisidir?",
+      "o1": "Musul",
+      "o2": "Menemen",
+      "o3": "Amasya",
+      "o4": "Havza",
+      "correctOption": "o1"
+    },
+    {
+      "id": 176,
+      "question": "İzmir'in işgal tarihi nedir?",
+      "o1": "5 Eylül 1919",
+      "o2": "12-28 Ocak 1920",
+      "o3": "1919",
+      "o4": "15 Mayıs 1919",
+      "correctOption": "o4"
+    },
+    {
+      "id": 177,
+      "question": "Aşağıdakilerden hangisi i̇zmir'in işgal tarihi?",
+      "o1": "15 Mayıs 1919",
+      "o2": "19 Mayıs 1919",
+      "o3": "16 Mart 1920",
+      "o4": "1925",
+      "correctOption": "o1"
+    },
+    {
+      "id": 178,
+      "question": "İzmir'in işgal tarihi olarak doğru seçenek hangisidir?",
+      "o1": "12 Ağustos 1930",
+      "o2": "4 Eylül 1919",
+      "o3": "15 Mayıs 1919",
+      "o4": "10 Ocak 1920",
+      "correctOption": "o3"
+    },
+    {
+      "id": 179,
+      "question": "Boşluğu doğru tamamlayınız: İzmir'in işgal tarihi ____.",
+      "o1": "1 Kasım 1922",
+      "o2": "15 Mayıs 1919",
+      "o3": "4 Eylül 1919",
+      "o4": "1922",
+      "correctOption": "o2"
+    },
+    {
+      "id": 180,
+      "question": "İzmir'in işgal tarihi sorusunun cevabı hangisidir?",
+      "o1": "15 Mayıs 1919",
+      "o2": "1918",
+      "o3": "22 Haziran 1919",
+      "o4": "1916",
+      "correctOption": "o1"
+    },
+    {
+      "id": 181,
+      "question": "İzmir işgalinde ilk kurşunu sıkıp şehit olan kişi nedir?",
+      "o1": "Kubilay",
+      "o2": "Hasan Tahsin",
+      "o3": "Topçu Ferik Rıza Paşa",
+      "o4": "Zübeyde Hanım",
+      "correctOption": "o2"
+    },
+    {
+      "id": 182,
+      "question": "Aşağıdakilerden hangisi i̇zmir işgalinde ilk kurşunu sıkıp şehit olan kişi?",
+      "o1": "Hasan Tahsin",
+      "o2": "Şerif Bey",
+      "o3": "Ali Fuat Cebesoy",
+      "o4": "İsmet İnönü",
+      "correctOption": "o1"
+    },
+    {
+      "id": 183,
+      "question": "İzmir işgalinde ilk kurşunu sıkıp şehit olan kişi olarak doğru seçenek hangisidir?",
+      "o1": "Rauf Orbay",
+      "o2": "Wilson",
+      "o3": "Hasan Tahsin",
+      "o4": "İsmet İnönü",
+      "correctOption": "o3"
+    },
+    {
+      "id": 184,
+      "question": "Boşluğu doğru tamamlayınız: İzmir işgalinde ilk kurşunu sıkıp şehit olan kişi ____.",
+      "o1": "Hasan Tahsin",
+      "o2": "Fahrettin Paşa",
+      "o3": "Ali Rıza Efendi",
+      "o4": "Mustafa Kemal",
+      "correctOption": "o1"
+    },
+    {
+      "id": 185,
+      "question": "İzmir işgalinde ilk kurşunu sıkıp şehit olan kişi sorusunun cevabı hangisidir?",
+      "o1": "Fethi Okyar",
+      "o2": "Salih Paşa",
+      "o3": "Giritli Şevki",
+      "o4": "Hasan Tahsin",
+      "correctOption": "o4"
+    },
+    {
+      "id": 186,
+      "question": "İşgallere karşı kurulan yerel direniş teşkilatının adı nedir?",
+      "o1": "Monroe Doktrini",
+      "o2": "siyasal alan",
+      "o3": "savaşı kanun dışı saymak",
+      "o4": "Kuvay-ı Milliye",
+      "correctOption": "o4"
+    },
+    {
+      "id": 187,
+      "question": "Aşağıdakilerden hangisi i̇şgallere karşı kurulan yerel direniş teşkilatının adı?",
+      "o1": "Kuvay-ı Milliye",
+      "o2": "Vatanseverlik",
+      "o3": "çok partili hayat",
+      "o4": "yoktur",
+      "correctOption": "o1"
+    },
+    {
+      "id": 188,
+      "question": "İşgallere karşı kurulan yerel direniş teşkilatının adı olarak doğru seçenek hangisidir?",
+      "o1": "Cumhuriyetçilik",
+      "o2": "Kuvay-ı Milliye",
+      "o3": "Yurttaşlık bilinci",
+      "o4": "din ve devlet işlerinin ayrılması",
+      "correctOption": "o2"
+    },
+    {
+      "id": 189,
+      "question": "Boşluğu doğru tamamlayınız: İşgallere karşı kurulan yerel direniş teşkilatının adı ____.",
+      "o1": "parlamento",
+      "o2": "Kuvay-ı Milliye",
+      "o3": "din ve devlet işlerinin ayrılması",
+      "o4": "Saltanat",
+      "correctOption": "o2"
+    },
+    {
+      "id": 190,
+      "question": "İşgallere karşı kurulan yerel direniş teşkilatının adı sorusunun cevabı hangisidir?",
+      "o1": "Amerikan mandası",
+      "o2": "sürekli yenilenme",
+      "o3": "Kuvay-ı Milliye",
+      "o4": "Monroe Doktrini",
+      "correctOption": "o3"
+    },
+    {
+      "id": 191,
+      "question": "İlk silahlı halk direnişinin başladığı yer nedir?",
+      "o1": "Menemen",
+      "o2": "Karaağaç",
+      "o3": "Dörtyol",
+      "o4": "Bağdat",
+      "correctOption": "o3"
+    },
+    {
+      "id": 192,
+      "question": "Aşağıdakilerden hangisi i̇lk silahlı halk direnişinin başladığı yer?",
+      "o1": "Dörtyol",
+      "o2": "Havza",
+      "o3": "Montrö",
+      "o4": "Musul",
+      "correctOption": "o1"
+    },
+    {
+      "id": 193,
+      "question": "İlk silahlı halk direnişinin başladığı yer olarak doğru seçenek hangisidir?",
+      "o1": "Kars",
+      "o2": "Bağdat",
+      "o3": "Dörtyol",
+      "o4": "Amasya",
+      "correctOption": "o3"
+    },
+    {
+      "id": 194,
+      "question": "Boşluğu doğru tamamlayınız: İlk silahlı halk direnişinin başladığı yer ____.",
+      "o1": "Samsun",
+      "o2": "Edirne",
+      "o3": "Dörtyol",
+      "o4": "Selanik",
+      "correctOption": "o3"
+    },
+    {
+      "id": 195,
+      "question": "İlk silahlı halk direnişinin başladığı yer sorusunun cevabı hangisidir?",
+      "o1": "Samsun",
+      "o2": "Montrö",
+      "o3": "San Remo",
+      "o4": "Dörtyol",
+      "correctOption": "o4"
+    },
+    {
+      "id": 196,
+      "question": "Mavri Mira Cemiyeti'nin amacı nedir?",
+      "o1": "Büyük Yunanistan'ı kurmak",
+      "o2": "Cumhuriyet",
+      "o3": "sürekli yenilenme",
+      "o4": "siyasal alan",
+      "correctOption": "o1"
+    },
+    {
+      "id": 197,
+      "question": "Aşağıdakilerden hangisi mavri mira cemiyeti'nin amacı?",
+      "o1": "Cumhuriyet",
+      "o2": "Saltanat",
+      "o3": "Büyük Yunanistan'ı kurmak",
+      "o4": "Cumhuriyetçilik",
+      "correctOption": "o3"
+    },
+    {
+      "id": 198,
+      "question": "Mavri Mira Cemiyeti'nin amacı olarak doğru seçenek hangisidir?",
+      "o1": "din ve devlet işlerinin ayrılması",
+      "o2": "İnkılapçılık",
+      "o3": "Cumhuriyetçilik",
+      "o4": "Büyük Yunanistan'ı kurmak",
+      "correctOption": "o4"
+    },
+    {
+      "id": 199,
+      "question": "Boşluğu doğru tamamlayınız: Mavri Mira Cemiyeti'nin amacı ____.",
+      "o1": "Kara Perşembe",
+      "o2": "çok partili hayat",
+      "o3": "Büyük Yunanistan'ı kurmak",
+      "o4": "din ve devlet işlerinin ayrılması",
+      "correctOption": "o3"
+    },
+    {
+      "id": 200,
+      "question": "Mavri Mira Cemiyeti'nin amacı sorusunun cevabı hangisidir?",
+      "o1": "parlamento",
+      "o2": "çok partili hayat",
+      "o3": "ekonomi",
+      "o4": "Büyük Yunanistan'ı kurmak",
+      "correctOption": "o4"
+    },
+    {
+      "id": 201,
+      "question": "Wilson İlkeleri Cemiyeti'nin savunduğu manda nedir?",
+      "o1": "Amerikan mandası",
+      "o2": "bölgesel",
+      "o3": "Monroe Doktrini",
+      "o4": "Akılcılık",
+      "correctOption": "o1"
+    },
+    {
+      "id": 202,
+      "question": "Aşağıdakilerden hangisi wilson i̇lkeleri cemiyeti'nin savunduğu manda?",
+      "o1": "Kuvay-ı Milliye",
+      "o2": "Amerikan mandası",
+      "o3": "sürekli yenilenme",
+      "o4": "bölgesel",
+      "correctOption": "o2"
+    },
+    {
+      "id": 203,
+      "question": "Wilson İlkeleri Cemiyeti'nin savunduğu manda olarak doğru seçenek hangisidir?",
+      "o1": "Büyük Yunanistan'ı kurmak",
+      "o2": "Amerikan mandası",
+      "o3": "yoktur",
+      "o4": "İnkılapçılık",
+      "correctOption": "o2"
+    },
+    {
+      "id": 204,
+      "question": "Boşluğu doğru tamamlayınız: Wilson İlkeleri Cemiyeti'nin savunduğu manda ____.",
+      "o1": "İngiliz mandası",
+      "o2": "Amerikan mandası",
+      "o3": "Kara Perşembe",
+      "o4": "Yurttaşlık bilinci",
+      "correctOption": "o2"
+    },
+    {
+      "id": 205,
+      "question": "Wilson İlkeleri Cemiyeti'nin savunduğu manda sorusunun cevabı hangisidir?",
+      "o1": "Amerikan mandası",
+      "o2": "İngiliz mandası",
+      "o3": "Cumhuriyet",
+      "o4": "Saltanat",
+      "correctOption": "o1"
+    },
+    {
+      "id": 206,
+      "question": "İngiliz Muhipleri Cemiyeti'nin savunduğu manda nedir?",
+      "o1": "Akılcılık",
+      "o2": "siyasal alan",
+      "o3": "İngiliz mandası",
+      "o4": "parlamento",
+      "correctOption": "o3"
+    },
+    {
+      "id": 207,
+      "question": "Aşağıdakilerden hangisi i̇ngiliz muhipleri cemiyeti'nin savunduğu manda?",
+      "o1": "Cumhuriyet",
+      "o2": "Milliyetçilik",
+      "o3": "Yurttaşlık bilinci",
+      "o4": "İngiliz mandası",
+      "correctOption": "o4"
+    },
+    {
+      "id": 208,
+      "question": "İngiliz Muhipleri Cemiyeti'nin savunduğu manda olarak doğru seçenek hangisidir?",
+      "o1": "Musul meselesi",
+      "o2": "bölgesel",
+      "o3": "İngiliz mandası",
+      "o4": "Cumhuriyetçilik",
+      "correctOption": "o3"
+    },
+    {
+      "id": 209,
+      "question": "Boşluğu doğru tamamlayınız: İngiliz Muhipleri Cemiyeti'nin savunduğu manda ____.",
+      "o1": "Yurttaşlık bilinci",
+      "o2": "İngiliz mandası",
+      "o3": "yoktur",
+      "o4": "Kuvay-ı Milliye",
+      "correctOption": "o2"
+    },
+    {
+      "id": 210,
+      "question": "İngiliz Muhipleri Cemiyeti'nin savunduğu manda sorusunun cevabı hangisidir?",
+      "o1": "Musul meselesi",
+      "o2": "savaşı kanun dışı saymak",
+      "o3": "İngiliz mandası",
+      "o4": "İnkılapçılık",
+      "correctOption": "o3"
+    },
+    {
+      "id": 211,
+      "question": "Lüleburgaz ve Edirne kongrelerini düzenleyen cemiyet nedir?",
+      "o1": "Nusret Mayın Gemisi",
+      "o2": "Anadolu Ajansı",
+      "o3": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Halifelik Ordusu",
+      "correctOption": "o3"
+    },
+    {
+      "id": 212,
+      "question": "Aşağıdakilerden hangisi lüleburgaz ve edirne kongrelerini düzenleyen cemiyet?",
+      "o1": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Boğazlar Komisyonu",
+      "o3": "İrade-i Milliye",
+      "o4": "Papalık",
+      "correctOption": "o1"
+    },
+    {
+      "id": 213,
+      "question": "Lüleburgaz ve Edirne kongrelerini düzenleyen cemiyet olarak doğru seçenek hangisidir?",
+      "o1": "Papalık",
+      "o2": "İrade-i Milliye",
+      "o3": "Anadolu Ajansı",
+      "o4": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o4"
+    },
+    {
+      "id": 214,
+      "question": "Boşluğu doğru tamamlayınız: Lüleburgaz ve Edirne kongrelerini düzenleyen cemiyet ____.",
+      "o1": "Vatan ve Hürriyet Cemiyeti",
+      "o2": "Hakimiyet-i Milliye",
+      "o3": "Halifelik Ordusu",
+      "o4": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o4"
+    },
+    {
+      "id": 215,
+      "question": "Lüleburgaz ve Edirne kongrelerini düzenleyen cemiyet sorusunun cevabı hangisidir?",
+      "o1": "Boğazlar Komisyonu",
+      "o2": "Halifelik Ordusu",
+      "o3": "Nusret Mayın Gemisi",
+      "o4": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o4"
+    },
+    {
+      "id": 216,
+      "question": "Erzurum Kongresi'ni düzenleyen cemiyetlerden biri nedir?",
+      "o1": "Kafkas İslam Ordusu",
+      "o2": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "İrade-i Milliye",
+      "correctOption": "o2"
+    },
+    {
+      "id": 217,
+      "question": "Aşağıdakilerden hangisi erzurum kongresi'ni düzenleyen cemiyetlerden biri?",
+      "o1": "İrade-i Milliye",
+      "o2": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Hareket Ordusu",
+      "correctOption": "o2"
+    },
+    {
+      "id": 218,
+      "question": "Erzurum Kongresi'ni düzenleyen cemiyetlerden biri olarak doğru seçenek hangisidir?",
+      "o1": "Kafkas İslam Ordusu",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Yavuz",
+      "o4": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o4"
+    },
+    {
+      "id": 219,
+      "question": "Boşluğu doğru tamamlayınız: Erzurum Kongresi'ni düzenleyen cemiyetlerden biri ____.",
+      "o1": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Papalık",
+      "o3": "Hakimiyet-i Milliye",
+      "o4": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o1"
+    },
+    {
+      "id": 220,
+      "question": "Erzurum Kongresi'ni düzenleyen cemiyetlerden biri sorusunun cevabı hangisidir?",
+      "o1": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Halifelik Ordusu",
+      "o3": "Hareket Ordusu",
+      "o4": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o1"
+    },
+    {
+      "id": 221,
+      "question": "Mustafa Kemal'in Samsun'a çıkış tarihi nedir?",
+      "o1": "19 Mayıs 1919",
+      "o2": "1923",
+      "o3": "15 Mayıs 1919",
+      "o4": "19 Şubat 1915",
+      "correctOption": "o1"
+    },
+    {
+      "id": 222,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in samsun'a çıkış tarihi?",
+      "o1": "19 Mayıs 1919",
+      "o2": "1929",
+      "o3": "22 Haziran 1919",
+      "o4": "30 Ekim 1918",
+      "correctOption": "o1"
+    },
+    {
+      "id": 223,
+      "question": "Mustafa Kemal'in Samsun'a çıkış tarihi olarak doğru seçenek hangisidir?",
+      "o1": "19 Mayıs 1919",
+      "o2": "19 Şubat 1915",
+      "o3": "1915",
+      "o4": "5 Eylül 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 224,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in Samsun'a çıkış tarihi ____.",
+      "o1": "1925",
+      "o2": "9 Ocak 1916",
+      "o3": "19 Mayıs 1919",
+      "o4": "4 Eylül 1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 225,
+      "question": "Mustafa Kemal'in Samsun'a çıkış tarihi sorusunun cevabı hangisidir?",
+      "o1": "24 Temmuz 1923",
+      "o2": "19 Şubat 1915",
+      "o3": "19 Mayıs 1919",
+      "o4": "16 Mart 1920",
+      "correctOption": "o3"
+    },
+    {
+      "id": 226,
+      "question": "Samsun'a gönderilirken verilen görev unvanı nedir?",
+      "o1": "9. Ordu Müfettişliği",
+      "o2": "Gazi",
+      "o3": "Mareşal",
+      "o4": "Çöl Kaplanı",
+      "correctOption": "o1"
+    },
+    {
+      "id": 227,
+      "question": "Aşağıdakilerden hangisi samsun'a gönderilirken verilen görev unvanı?",
+      "o1": "Gazi",
+      "o2": "9. Ordu Müfettişliği",
+      "o3": "Mareşal",
+      "o4": "Çöl Kaplanı",
+      "correctOption": "o2"
+    },
+    {
+      "id": 228,
+      "question": "Samsun'a gönderilirken verilen görev unvanı olarak doğru seçenek hangisidir?",
+      "o1": "Mareşal",
+      "o2": "Çöl Kaplanı",
+      "o3": "9. Ordu Müfettişliği",
+      "o4": "Gazi",
+      "correctOption": "o3"
+    },
+    {
+      "id": 229,
+      "question": "Boşluğu doğru tamamlayınız: Samsun'a gönderilirken verilen görev unvanı ____.",
+      "o1": "Gazi",
+      "o2": "9. Ordu Müfettişliği",
+      "o3": "Çöl Kaplanı",
+      "o4": "Mareşal",
+      "correctOption": "o2"
+    },
+    {
+      "id": 230,
+      "question": "Samsun'a gönderilirken verilen görev unvanı sorusunun cevabı hangisidir?",
+      "o1": "Çöl Kaplanı",
+      "o2": "Gazi",
+      "o3": "Mareşal",
+      "o4": "9. Ordu Müfettişliği",
+      "correctOption": "o4"
+    },
+    {
+      "id": 231,
+      "question": "Mustafa Kemal'in Samsun sonrası geçtiği yer nedir?",
+      "o1": "Kars",
+      "o2": "Bağdat",
+      "o3": "Locarno",
+      "o4": "Havza",
+      "correctOption": "o4"
+    },
+    {
+      "id": 232,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in samsun sonrası geçtiği yer?",
+      "o1": "Lozan",
+      "o2": "Havza",
+      "o3": "Selanik",
+      "o4": "Samsun",
+      "correctOption": "o2"
+    },
+    {
+      "id": 233,
+      "question": "Mustafa Kemal'in Samsun sonrası geçtiği yer olarak doğru seçenek hangisidir?",
+      "o1": "Havza",
+      "o2": "İstanbul",
+      "o3": "Lozan",
+      "o4": "İzmir",
+      "correctOption": "o1"
+    },
+    {
+      "id": 234,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in Samsun sonrası geçtiği yer ____.",
+      "o1": "Havza",
+      "o2": "Bağdat",
+      "o3": "Locarno",
+      "o4": "Karaağaç",
+      "correctOption": "o1"
+    },
+    {
+      "id": 235,
+      "question": "Mustafa Kemal'in Samsun sonrası geçtiği yer sorusunun cevabı hangisidir?",
+      "o1": "Samsun",
+      "o2": "Sivastopol",
+      "o3": "Lozan",
+      "o4": "Havza",
+      "correctOption": "o4"
+    },
+    {
+      "id": 236,
+      "question": "Amasya Genelgesi'nin yayımlanma tarihi nedir?",
+      "o1": "1920",
+      "o2": "1922",
+      "o3": "24 Ekim 1929",
+      "o4": "22 Haziran 1919",
+      "correctOption": "o4"
+    },
+    {
+      "id": 237,
+      "question": "Aşağıdakilerden hangisi amasya genelgesi'nin yayımlanma tarihi?",
+      "o1": "22 Haziran 1919",
+      "o2": "16 Mart 1920",
+      "o3": "8 Temmuz 1919",
+      "o4": "1924",
+      "correctOption": "o1"
+    },
+    {
+      "id": 238,
+      "question": "Amasya Genelgesi'nin yayımlanma tarihi olarak doğru seçenek hangisidir?",
+      "o1": "1921",
+      "o2": "24 Ekim 1929",
+      "o3": "1939",
+      "o4": "22 Haziran 1919",
+      "correctOption": "o4"
+    },
+    {
+      "id": 239,
+      "question": "Boşluğu doğru tamamlayınız: Amasya Genelgesi'nin yayımlanma tarihi ____.",
+      "o1": "22 Haziran 1919",
+      "o2": "15 Mayıs 1919",
+      "o3": "27 Aralık 1919",
+      "o4": "4 Eylül 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 240,
+      "question": "Amasya Genelgesi'nin yayımlanma tarihi sorusunun cevabı hangisidir?",
+      "o1": "12-28 Ocak 1920",
+      "o2": "1926",
+      "o3": "2 Eylül 1938",
+      "o4": "22 Haziran 1919",
+      "correctOption": "o4"
+    },
+    {
+      "id": 241,
+      "question": "Amasya Genelgesi'ndeki temel ilke nedir?",
+      "o1": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "o2": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o3": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "o4": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "correctOption": "o1"
+    },
+    {
+      "id": 242,
+      "question": "Aşağıdakilerden hangisi amasya genelgesi'ndeki temel ilke?",
+      "o1": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "o2": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o3": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "o4": "Ya istiklal ya ölüm",
+      "correctOption": "o3"
+    },
+    {
+      "id": 243,
+      "question": "Amasya Genelgesi'ndeki temel ilke olarak doğru seçenek hangisidir?",
+      "o1": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "o2": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o3": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "o4": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "correctOption": "o3"
+    },
+    {
+      "id": 244,
+      "question": "Boşluğu doğru tamamlayınız: Amasya Genelgesi'ndeki temel ilke ____.",
+      "o1": "Ya istiklal ya ölüm",
+      "o2": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "o3": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "o4": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "correctOption": "o3"
+    },
+    {
+      "id": 245,
+      "question": "Amasya Genelgesi'ndeki temel ilke sorusunun cevabı hangisidir?",
+      "o1": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "o2": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "o3": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o4": "Ya istiklal ya ölüm",
+      "correctOption": "o2"
+    },
+    {
+      "id": 246,
+      "question": "Mustafa Kemal'in askerlikten istifa ettiği tarih nedir?",
+      "o1": "8 Temmuz 1919",
+      "o2": "7-8 Ağustos 1921",
+      "o3": "1919",
+      "o4": "1 Kasım 1922",
+      "correctOption": "o1"
+    },
+    {
+      "id": 247,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in askerlikten istifa ettiği tarih?",
+      "o1": "1923",
+      "o2": "1914",
+      "o3": "8 Temmuz 1919",
+      "o4": "24 Temmuz 1923",
+      "correctOption": "o3"
+    },
+    {
+      "id": 248,
+      "question": "Mustafa Kemal'in askerlikten istifa ettiği tarih olarak doğru seçenek hangisidir?",
+      "o1": "1 Kasım 1922",
+      "o2": "10 Ocak 1920",
+      "o3": "1929",
+      "o4": "8 Temmuz 1919",
+      "correctOption": "o4"
+    },
+    {
+      "id": 249,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in askerlikten istifa ettiği tarih ____.",
+      "o1": "30 Nisan 1939",
+      "o2": "1926",
+      "o3": "8 Temmuz 1919",
+      "o4": "5 Eylül 1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 250,
+      "question": "Mustafa Kemal'in askerlikten istifa ettiği tarih sorusunun cevabı hangisidir?",
+      "o1": "8 Temmuz 1919",
+      "o2": "1922",
+      "o3": "15 Mayıs 1919",
+      "o4": "1924",
+      "correctOption": "o1"
+    },
+    {
+      "id": 251,
+      "question": "Erzurum Kongresi'nin başlangıç tarihi nedir?",
+      "o1": "9 Ocak 1916",
+      "o2": "1918",
+      "o3": "23 Temmuz 1919",
+      "o4": "1915",
+      "correctOption": "o3"
+    },
+    {
+      "id": 252,
+      "question": "Aşağıdakilerden hangisi erzurum kongresi'nin başlangıç tarihi?",
+      "o1": "17 Kasım 1924",
+      "o2": "23 Temmuz 1919",
+      "o3": "12 Ağustos 1930",
+      "o4": "1930",
+      "correctOption": "o2"
+    },
+    {
+      "id": 253,
+      "question": "Erzurum Kongresi'nin başlangıç tarihi olarak doğru seçenek hangisidir?",
+      "o1": "23 Temmuz 1919",
+      "o2": "17 Kasım 1924",
+      "o3": "1922",
+      "o4": "3 Mart 1924",
+      "correctOption": "o1"
+    },
+    {
+      "id": 254,
+      "question": "Boşluğu doğru tamamlayınız: Erzurum Kongresi'nin başlangıç tarihi ____.",
+      "o1": "23 Temmuz 1919",
+      "o2": "8 Temmuz 1919",
+      "o3": "1918",
+      "o4": "1932",
+      "correctOption": "o1"
+    },
+    {
+      "id": 255,
+      "question": "Erzurum Kongresi'nin başlangıç tarihi sorusunun cevabı hangisidir?",
+      "o1": "23 Temmuz 1919",
+      "o2": "16 Mart 1920",
+      "o3": "9 Ocak 1916",
+      "o4": "23 Aralık 1930",
+      "correctOption": "o1"
+    },
+    {
+      "id": 256,
+      "question": "Erzurum Kongresi'nde ilk kez reddedilen düşünce nedir?",
+      "o1": "siyasal alan",
+      "o2": "Kuvay-ı Milliye",
+      "o3": "Musul meselesi",
+      "o4": "manda ve himaye",
+      "correctOption": "o4"
+    },
+    {
+      "id": 257,
+      "question": "Aşağıdakilerden hangisi erzurum kongresi'nde ilk kez reddedilen düşünce?",
+      "o1": "parlamento",
+      "o2": "yasama ve yürütme",
+      "o3": "çok partili hayat",
+      "o4": "manda ve himaye",
+      "correctOption": "o4"
+    },
+    {
+      "id": 258,
+      "question": "Erzurum Kongresi'nde ilk kez reddedilen düşünce olarak doğru seçenek hangisidir?",
+      "o1": "din ve devlet işlerinin ayrılması",
+      "o2": "manda ve himaye",
+      "o3": "Milliyetçilik",
+      "o4": "İnkılapçılık",
+      "correctOption": "o2"
+    },
+    {
+      "id": 259,
+      "question": "Boşluğu doğru tamamlayınız: Erzurum Kongresi'nde ilk kez reddedilen düşünce ____.",
+      "o1": "manda ve himaye",
+      "o2": "Musul meselesi",
+      "o3": "Kuvay-ı Milliye",
+      "o4": "yasama ve yürütme",
+      "correctOption": "o1"
+    },
+    {
+      "id": 260,
+      "question": "Erzurum Kongresi'nde ilk kez reddedilen düşünce sorusunun cevabı hangisidir?",
+      "o1": "bölgesel",
+      "o2": "Büyük Yunanistan'ı kurmak",
+      "o3": "manda ve himaye",
+      "o4": "parlamento",
+      "correctOption": "o3"
+    },
+    {
+      "id": 261,
+      "question": "Erzurum Kongresi'nin toplanış bakımından niteliği nedir?",
+      "o1": "manda ve himaye",
+      "o2": "Milliyetçilik",
+      "o3": "bölgesel",
+      "o4": "Kara Perşembe",
+      "correctOption": "o3"
+    },
+    {
+      "id": 262,
+      "question": "Aşağıdakilerden hangisi erzurum kongresi'nin toplanış bakımından niteliği?",
+      "o1": "bölgesel",
+      "o2": "ekonomi",
+      "o3": "manda ve himaye",
+      "o4": "Kara Perşembe",
+      "correctOption": "o1"
+    },
+    {
+      "id": 263,
+      "question": "Erzurum Kongresi'nin toplanış bakımından niteliği olarak doğru seçenek hangisidir?",
+      "o1": "Bilimsellik",
+      "o2": "bölgesel",
+      "o3": "yasama ve yürütme",
+      "o4": "Akılcılık",
+      "correctOption": "o2"
+    },
+    {
+      "id": 264,
+      "question": "Boşluğu doğru tamamlayınız: Erzurum Kongresi'nin toplanış bakımından niteliği ____.",
+      "o1": "din ve devlet işlerinin ayrılması",
+      "o2": "Amerikan mandası",
+      "o3": "Musul meselesi",
+      "o4": "bölgesel",
+      "correctOption": "o4"
+    },
+    {
+      "id": 265,
+      "question": "Erzurum Kongresi'nin toplanış bakımından niteliği sorusunun cevabı hangisidir?",
+      "o1": "Akılcılık",
+      "o2": "bölgesel",
+      "o3": "Monroe Doktrini",
+      "o4": "Cumhuriyet",
+      "correctOption": "o2"
+    },
+    {
+      "id": 266,
+      "question": "Sivas Kongresi'nin başlangıç tarihi nedir?",
+      "o1": "4 Eylül 1919",
+      "o2": "24 Temmuz 1923",
+      "o3": "10 Ocak 1920",
+      "o4": "5 Eylül 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 267,
+      "question": "Aşağıdakilerden hangisi sivas kongresi'nin başlangıç tarihi?",
+      "o1": "1918",
+      "o2": "1923",
+      "o3": "4 Eylül 1919",
+      "o4": "1936",
+      "correctOption": "o3"
+    },
+    {
+      "id": 268,
+      "question": "Sivas Kongresi'nin başlangıç tarihi olarak doğru seçenek hangisidir?",
+      "o1": "27 Aralık 1919",
+      "o2": "1925",
+      "o3": "4 Eylül 1919",
+      "o4": "1934",
+      "correctOption": "o3"
+    },
+    {
+      "id": 269,
+      "question": "Boşluğu doğru tamamlayınız: Sivas Kongresi'nin başlangıç tarihi ____.",
+      "o1": "1929",
+      "o2": "1918",
+      "o3": "4 Eylül 1919",
+      "o4": "1936",
+      "correctOption": "o3"
+    },
+    {
+      "id": 270,
+      "question": "Sivas Kongresi'nin başlangıç tarihi sorusunun cevabı hangisidir?",
+      "o1": "1939",
+      "o2": "4 Eylül 1919",
+      "o3": "27 Aralık 1919",
+      "o4": "17 Kasım 1924",
+      "correctOption": "o2"
+    },
+    {
+      "id": 271,
+      "question": "Sivas Kongresi'nde tüm cemiyetlerin birleştirildiği çatı nedir?",
+      "o1": "Papalık",
+      "o2": "Yavuz",
+      "o3": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o4"
+    },
+    {
+      "id": 272,
+      "question": "Aşağıdakilerden hangisi sivas kongresi'nde tüm cemiyetlerin birleştirildiği çatı?",
+      "o1": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Nusret Mayın Gemisi",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o4"
+    },
+    {
+      "id": 273,
+      "question": "Sivas Kongresi'nde tüm cemiyetlerin birleştirildiği çatı olarak doğru seçenek hangisidir?",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Cemiyet-i Akvam",
+      "o3": "Nusret Mayın Gemisi",
+      "o4": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o1"
+    },
+    {
+      "id": 274,
+      "question": "Boşluğu doğru tamamlayınız: Sivas Kongresi'nde tüm cemiyetlerin birleştirildiği çatı ____.",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Yavuz",
+      "o3": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Papalık",
+      "correctOption": "o1"
+    },
+    {
+      "id": 275,
+      "question": "Sivas Kongresi'nde tüm cemiyetlerin birleştirildiği çatı sorusunun cevabı hangisidir?",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Hareket Ordusu",
+      "o3": "Boğazlar Komisyonu",
+      "o4": "İrade-i Milliye",
+      "correctOption": "o1"
+    },
+    {
+      "id": 276,
+      "question": "Sivas Kongresi'nde çıkarılması kararlaştırılan gazete nedir?",
+      "o1": "Nusret Mayın Gemisi",
+      "o2": "Vatan ve Hürriyet Cemiyeti",
+      "o3": "İrade-i Milliye",
+      "o4": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o3"
+    },
+    {
+      "id": 277,
+      "question": "Aşağıdakilerden hangisi sivas kongresi'nde çıkarılması kararlaştırılan gazete?",
+      "o1": "Nusret Mayın Gemisi",
+      "o2": "Boğazlar Komisyonu",
+      "o3": "İrade-i Milliye",
+      "o4": "Yavuz",
+      "correctOption": "o3"
+    },
+    {
+      "id": 278,
+      "question": "Sivas Kongresi'nde çıkarılması kararlaştırılan gazete olarak doğru seçenek hangisidir?",
+      "o1": "İrade-i Milliye",
+      "o2": "Cemiyet-i Akvam",
+      "o3": "Kafkas İslam Ordusu",
+      "o4": "Halifelik Ordusu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 279,
+      "question": "Boşluğu doğru tamamlayınız: Sivas Kongresi'nde çıkarılması kararlaştırılan gazete ____.",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o3": "İrade-i Milliye",
+      "o4": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o3"
+    },
+    {
+      "id": 280,
+      "question": "Sivas Kongresi'nde çıkarılması kararlaştırılan gazete sorusunun cevabı hangisidir?",
+      "o1": "Boğazlar Komisyonu",
+      "o2": "İrade-i Milliye",
+      "o3": "Yavuz",
+      "o4": "Hakimiyet-i Milliye",
+      "correctOption": "o2"
+    },
+    {
+      "id": 281,
+      "question": "Amasya Görüşmeleri'nin tarih aralığı nedir?",
+      "o1": "23 Temmuz 1919",
+      "o2": "15 Mayıs 1919",
+      "o3": "20-22 Ekim 1919",
+      "o4": "23 Nisan 1920",
+      "correctOption": "o3"
+    },
+    {
+      "id": 282,
+      "question": "Aşağıdakilerden hangisi amasya görüşmeleri'nin tarih aralığı?",
+      "o1": "1908",
+      "o2": "20-22 Ekim 1919",
+      "o3": "1921",
+      "o4": "1938",
+      "correctOption": "o2"
+    },
+    {
+      "id": 283,
+      "question": "Amasya Görüşmeleri'nin tarih aralığı olarak doğru seçenek hangisidir?",
+      "o1": "1908",
+      "o2": "1914",
+      "o3": "22 Haziran 1919",
+      "o4": "20-22 Ekim 1919",
+      "correctOption": "o4"
+    },
+    {
+      "id": 284,
+      "question": "Boşluğu doğru tamamlayınız: Amasya Görüşmeleri'nin tarih aralığı ____.",
+      "o1": "1921",
+      "o2": "20-22 Ekim 1919",
+      "o3": "1925",
+      "o4": "2 Eylül 1938",
+      "correctOption": "o2"
+    },
+    {
+      "id": 285,
+      "question": "Amasya Görüşmeleri'nin tarih aralığı sorusunun cevabı hangisidir?",
+      "o1": "1919",
+      "o2": "1925",
+      "o3": "20-22 Ekim 1919",
+      "o4": "22 Haziran 1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 286,
+      "question": "Amasya Görüşmeleri'nde Mustafa Kemal'in görüştüğü kişi nedir?",
+      "o1": "Topçu Ferik Rıza Paşa",
+      "o2": "Salih Paşa",
+      "o3": "Fethi Okyar",
+      "o4": "Şerif Bey",
+      "correctOption": "o2"
+    },
+    {
+      "id": 287,
+      "question": "Aşağıdakilerden hangisi amasya görüşmeleri'nde mustafa kemal'in görüştüğü kişi?",
+      "o1": "Hasan Tahsin",
+      "o2": "İsmet İnönü",
+      "o3": "Enver Paşa",
+      "o4": "Salih Paşa",
+      "correctOption": "o4"
+    },
+    {
+      "id": 288,
+      "question": "Amasya Görüşmeleri'nde Mustafa Kemal'in görüştüğü kişi olarak doğru seçenek hangisidir?",
+      "o1": "Salih Paşa",
+      "o2": "Kubilay",
+      "o3": "Mustafa Kemal",
+      "o4": "Wilson",
+      "correctOption": "o1"
+    },
+    {
+      "id": 289,
+      "question": "Boşluğu doğru tamamlayınız: Amasya Görüşmeleri'nde Mustafa Kemal'in görüştüğü kişi ____.",
+      "o1": "Rauf Orbay",
+      "o2": "Salih Paşa",
+      "o3": "Fethi Okyar",
+      "o4": "Mustafa Kemal",
+      "correctOption": "o2"
+    },
+    {
+      "id": 290,
+      "question": "Amasya Görüşmeleri'nde Mustafa Kemal'in görüştüğü kişi sorusunun cevabı hangisidir?",
+      "o1": "Ali Rıza Efendi",
+      "o2": "Mustafa Kemal",
+      "o3": "Salih Paşa",
+      "o4": "Kazım Karabekir",
+      "correctOption": "o3"
+    },
+    {
+      "id": 291,
+      "question": "Temsil Heyeti'nin Ankara'ya geliş tarihi nedir?",
+      "o1": "1924",
+      "o2": "1934",
+      "o3": "10 Ağustos 1920",
+      "o4": "27 Aralık 1919",
+      "correctOption": "o4"
+    },
+    {
+      "id": 292,
+      "question": "Aşağıdakilerden hangisi temsil heyeti'nin ankara'ya geliş tarihi?",
+      "o1": "9 Ocak 1916",
+      "o2": "23 Temmuz 1919",
+      "o3": "27 Aralık 1919",
+      "o4": "1938",
+      "correctOption": "o3"
+    },
+    {
+      "id": 293,
+      "question": "Temsil Heyeti'nin Ankara'ya geliş tarihi olarak doğru seçenek hangisidir?",
+      "o1": "1929",
+      "o2": "27 Aralık 1919",
+      "o3": "10 Ocak 1920",
+      "o4": "22 Haziran 1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 294,
+      "question": "Boşluğu doğru tamamlayınız: Temsil Heyeti'nin Ankara'ya geliş tarihi ____.",
+      "o1": "23 Aralık 1930",
+      "o2": "1925",
+      "o3": "23 Nisan 1920",
+      "o4": "27 Aralık 1919",
+      "correctOption": "o4"
+    },
+    {
+      "id": 295,
+      "question": "Temsil Heyeti'nin Ankara'ya geliş tarihi sorusunun cevabı hangisidir?",
+      "o1": "1 Kasım 1922",
+      "o2": "27 Aralık 1919",
+      "o3": "12-28 Ocak 1920",
+      "o4": "1918",
+      "correctOption": "o2"
+    },
+    {
+      "id": 296,
+      "question": "Mustafa Kemal'in mebus seçildiği il nedir?",
+      "o1": "Havza",
+      "o2": "Erzurum",
+      "o3": "Amasya",
+      "o4": "Selanik",
+      "correctOption": "o2"
+    },
+    {
+      "id": 297,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in mebus seçildiği il?",
+      "o1": "Karaağaç",
+      "o2": "Locarno",
+      "o3": "Sivastopol",
+      "o4": "Erzurum",
+      "correctOption": "o4"
+    },
+    {
+      "id": 298,
+      "question": "Mustafa Kemal'in mebus seçildiği il olarak doğru seçenek hangisidir?",
+      "o1": "Havza",
+      "o2": "Erzurum",
+      "o3": "İzmir",
+      "o4": "Halep",
+      "correctOption": "o2"
+    },
+    {
+      "id": 299,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in mebus seçildiği il ____.",
+      "o1": "Amasya",
+      "o2": "Halep",
+      "o3": "Karaağaç",
+      "o4": "Erzurum",
+      "correctOption": "o4"
+    },
+    {
+      "id": 300,
+      "question": "Mustafa Kemal'in mebus seçildiği il sorusunun cevabı hangisidir?",
+      "o1": "Erzurum",
+      "o2": "Havza",
+      "o3": "Lozan",
+      "o4": "Edirne",
+      "correctOption": "o1"
+    },
+    {
+      "id": 301,
+      "question": "Müdafaa-i Hukuk Grubu yerine mecliste kurulan grup nedir?",
+      "o1": "Felah-ı Vatan Grubu",
+      "o2": "I. Grup",
+      "o3": "Temsil Heyeti",
+      "o4": "Müdafaa-i Hukuk Grubu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 302,
+      "question": "Aşağıdakilerden hangisi müdafaa-i hukuk grubu yerine mecliste kurulan grup?",
+      "o1": "I. Grup",
+      "o2": "Temsil Heyeti",
+      "o3": "Felah-ı Vatan Grubu",
+      "o4": "II. Grup",
+      "correctOption": "o3"
+    },
+    {
+      "id": 303,
+      "question": "Müdafaa-i Hukuk Grubu yerine mecliste kurulan grup olarak doğru seçenek hangisidir?",
+      "o1": "I. Grup",
+      "o2": "Felah-ı Vatan Grubu",
+      "o3": "Müdafaa-i Hukuk Grubu",
+      "o4": "II. Grup",
+      "correctOption": "o2"
+    },
+    {
+      "id": 304,
+      "question": "Boşluğu doğru tamamlayınız: Müdafaa-i Hukuk Grubu yerine mecliste kurulan grup ____.",
+      "o1": "Felah-ı Vatan Grubu",
+      "o2": "Müdafaa-i Hukuk Grubu",
+      "o3": "I. Grup",
+      "o4": "II. Grup",
+      "correctOption": "o1"
+    },
+    {
+      "id": 305,
+      "question": "Müdafaa-i Hukuk Grubu yerine mecliste kurulan grup sorusunun cevabı hangisidir?",
+      "o1": "II. Grup",
+      "o2": "I. Grup",
+      "o3": "Temsil Heyeti",
+      "o4": "Felah-ı Vatan Grubu",
+      "correctOption": "o4"
+    },
+    {
+      "id": 306,
+      "question": "Misak-ı Milli'nin kabul edildiği tarih aralığı nedir?",
+      "o1": "27 Aralık 1919",
+      "o2": "1934",
+      "o3": "5 Eylül 1919",
+      "o4": "12-28 Ocak 1920",
+      "correctOption": "o4"
+    },
+    {
+      "id": 307,
+      "question": "Aşağıdakilerden hangisi misak-ı milli'nin kabul edildiği tarih aralığı?",
+      "o1": "12-28 Ocak 1920",
+      "o2": "8 Temmuz 1919",
+      "o3": "27 Aralık 1919",
+      "o4": "7-8 Ağustos 1921",
+      "correctOption": "o1"
+    },
+    {
+      "id": 308,
+      "question": "Misak-ı Milli'nin kabul edildiği tarih aralığı olarak doğru seçenek hangisidir?",
+      "o1": "1908",
+      "o2": "12-28 Ocak 1920",
+      "o3": "17 Kasım 1924",
+      "o4": "1923",
+      "correctOption": "o2"
+    },
+    {
+      "id": 309,
+      "question": "Boşluğu doğru tamamlayınız: Misak-ı Milli'nin kabul edildiği tarih aralığı ____.",
+      "o1": "1914",
+      "o2": "12-28 Ocak 1920",
+      "o3": "1915",
+      "o4": "1922",
+      "correctOption": "o2"
+    },
+    {
+      "id": 310,
+      "question": "Misak-ı Milli'nin kabul edildiği tarih aralığı sorusunun cevabı hangisidir?",
+      "o1": "8 Temmuz 1919",
+      "o2": "12-28 Ocak 1920",
+      "o3": "24 Temmuz 1923",
+      "o4": "1918",
+      "correctOption": "o2"
+    },
+    {
+      "id": 311,
+      "question": "İstanbul'un işgal edildiği tarih nedir?",
+      "o1": "1919",
+      "o2": "9 Ocak 1916",
+      "o3": "16 Mart 1920",
+      "o4": "10 Ağustos 1920",
+      "correctOption": "o3"
+    },
+    {
+      "id": 312,
+      "question": "Aşağıdakilerden hangisi i̇stanbul'un işgal edildiği tarih?",
+      "o1": "16 Mart 1920",
+      "o2": "1936",
+      "o3": "23 Aralık 1930",
+      "o4": "22 Haziran 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 313,
+      "question": "İstanbul'un işgal edildiği tarih olarak doğru seçenek hangisidir?",
+      "o1": "16 Mart 1920",
+      "o2": "10 Ağustos 1920",
+      "o3": "12-28 Ocak 1920",
+      "o4": "10 Ocak 1920",
+      "correctOption": "o1"
+    },
+    {
+      "id": 314,
+      "question": "Boşluğu doğru tamamlayınız: İstanbul'un işgal edildiği tarih ____.",
+      "o1": "1914",
+      "o2": "24 Ekim 1929",
+      "o3": "1908",
+      "o4": "16 Mart 1920",
+      "correctOption": "o4"
+    },
+    {
+      "id": 315,
+      "question": "İstanbul'un işgal edildiği tarih sorusunun cevabı hangisidir?",
+      "o1": "16 Mart 1920",
+      "o2": "23 Nisan 1920",
+      "o3": "1 Kasım 1922",
+      "o4": "1914",
+      "correctOption": "o1"
+    },
+    {
+      "id": 316,
+      "question": "TBMM'nin açıldığı tarih nedir?",
+      "o1": "23 Nisan 1920",
+      "o2": "15 Mayıs 1919",
+      "o3": "1919",
+      "o4": "22 Haziran 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 317,
+      "question": "Aşağıdakilerden hangisi tbmm'nin açıldığı tarih?",
+      "o1": "23 Nisan 1920",
+      "o2": "1932",
+      "o3": "1930",
+      "o4": "15 Mayıs 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 318,
+      "question": "TBMM'nin açıldığı tarih olarak doğru seçenek hangisidir?",
+      "o1": "1939",
+      "o2": "1922",
+      "o3": "23 Nisan 1920",
+      "o4": "1938",
+      "correctOption": "o3"
+    },
+    {
+      "id": 319,
+      "question": "Boşluğu doğru tamamlayınız: TBMM'nin açıldığı tarih ____.",
+      "o1": "23 Nisan 1920",
+      "o2": "16 Mart 1920",
+      "o3": "23 Aralık 1930",
+      "o4": "20-22 Ekim 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 320,
+      "question": "TBMM'nin açıldığı tarih sorusunun cevabı hangisidir?",
+      "o1": "24 Temmuz 1923",
+      "o2": "23 Nisan 1920",
+      "o3": "7-8 Ağustos 1921",
+      "o4": "4 Eylül 1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 321,
+      "question": "TBMM açıldığında en yaşlı üye sıfatıyla başkan olan kişi nedir?",
+      "o1": "Ali Fuat Cebesoy",
+      "o2": "Şerif Bey",
+      "o3": "Fahrettin Paşa",
+      "o4": "Enver Paşa",
+      "correctOption": "o2"
+    },
+    {
+      "id": 322,
+      "question": "Aşağıdakilerden hangisi tbmm açıldığında en yaşlı üye sıfatıyla başkan olan kişi?",
+      "o1": "Zübeyde Hanım",
+      "o2": "Salih Paşa",
+      "o3": "Fethi Okyar",
+      "o4": "Şerif Bey",
+      "correctOption": "o4"
+    },
+    {
+      "id": 323,
+      "question": "TBMM açıldığında en yaşlı üye sıfatıyla başkan olan kişi olarak doğru seçenek hangisidir?",
+      "o1": "Hasan Tahsin",
+      "o2": "Rauf Orbay",
+      "o3": "Wilson",
+      "o4": "Şerif Bey",
+      "correctOption": "o4"
+    },
+    {
+      "id": 324,
+      "question": "Boşluğu doğru tamamlayınız: TBMM açıldığında en yaşlı üye sıfatıyla başkan olan kişi ____.",
+      "o1": "Salih Paşa",
+      "o2": "Şerif Bey",
+      "o3": "Rauf Orbay",
+      "o4": "Fahrettin Paşa",
+      "correctOption": "o2"
+    },
+    {
+      "id": 325,
+      "question": "TBMM açıldığında en yaşlı üye sıfatıyla başkan olan kişi sorusunun cevabı hangisidir?",
+      "o1": "Şerif Bey",
+      "o2": "Mustafa Kemal",
+      "o3": "Ali Fuat Cebesoy",
+      "o4": "İsmet İnönü",
+      "correctOption": "o1"
+    },
+    {
+      "id": 326,
+      "question": "24 Nisan kararlarına göre meclisin üstündeki güç nedir?",
+      "o1": "Akılcılık",
+      "o2": "sürekli yenilenme",
+      "o3": "Musul meselesi",
+      "o4": "yoktur",
+      "correctOption": "o4"
+    },
+    {
+      "id": 327,
+      "question": "Aşağıdakilerden hangisi 24 nisan kararlarına göre meclisin üstündeki güç?",
+      "o1": "yoktur",
+      "o2": "İnkılapçılık",
+      "o3": "Milliyetçilik",
+      "o4": "yasama ve yürütme",
+      "correctOption": "o1"
+    },
+    {
+      "id": 328,
+      "question": "24 Nisan kararlarına göre meclisin üstündeki güç olarak doğru seçenek hangisidir?",
+      "o1": "Musul meselesi",
+      "o2": "sürekli yenilenme",
+      "o3": "yoktur",
+      "o4": "bölgesel",
+      "correctOption": "o3"
+    },
+    {
+      "id": 329,
+      "question": "Boşluğu doğru tamamlayınız: 24 Nisan kararlarına göre meclisin üstündeki güç ____.",
+      "o1": "Büyük Yunanistan'ı kurmak",
+      "o2": "Musul meselesi",
+      "o3": "parlamento",
+      "o4": "yoktur",
+      "correctOption": "o4"
+    },
+    {
+      "id": 330,
+      "question": "24 Nisan kararlarına göre meclisin üstündeki güç sorusunun cevabı hangisidir?",
+      "o1": "yoktur",
+      "o2": "kapitülasyonlar",
+      "o3": "Bilimsellik",
+      "o4": "çok partili hayat",
+      "correctOption": "o1"
+    },
+    {
+      "id": 331,
+      "question": "TBMM'nin kendinde topladığı yetkiler nedir?",
+      "o1": "Yurttaşlık bilinci",
+      "o2": "Milliyetçilik",
+      "o3": "yasama ve yürütme",
+      "o4": "siyasal alan",
+      "correctOption": "o3"
+    },
+    {
+      "id": 332,
+      "question": "Aşağıdakilerden hangisi tbmm'nin kendinde topladığı yetkiler?",
+      "o1": "Milliyetçilik",
+      "o2": "yasama ve yürütme",
+      "o3": "Monroe Doktrini",
+      "o4": "İnkılapçılık",
+      "correctOption": "o2"
+    },
+    {
+      "id": 333,
+      "question": "TBMM'nin kendinde topladığı yetkiler olarak doğru seçenek hangisidir?",
+      "o1": "kapitülasyonlar",
+      "o2": "yasama ve yürütme",
+      "o3": "İnkılapçılık",
+      "o4": "Cumhuriyet",
+      "correctOption": "o2"
+    },
+    {
+      "id": 334,
+      "question": "Boşluğu doğru tamamlayınız: TBMM'nin kendinde topladığı yetkiler ____.",
+      "o1": "Milliyetçilik",
+      "o2": "yoktur",
+      "o3": "savaşı kanun dışı saymak",
+      "o4": "yasama ve yürütme",
+      "correctOption": "o4"
+    },
+    {
+      "id": 335,
+      "question": "TBMM'nin kendinde topladığı yetkiler sorusunun cevabı hangisidir?",
+      "o1": "din ve devlet işlerinin ayrılması",
+      "o2": "yasama ve yürütme",
+      "o3": "Yurttaşlık bilinci",
+      "o4": "Vatanseverlik",
+      "correctOption": "o2"
+    },
+    {
+      "id": 336,
+      "question": "Kuva-yı İnzibatiye'nin diğer adı nedir?",
+      "o1": "Halifelik Ordusu",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Kafkas İslam Ordusu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 337,
+      "question": "Aşağıdakilerden hangisi kuva-yı i̇nzibatiye'nin diğer adı?",
+      "o1": "Halifelik Ordusu",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o3": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Nusret Mayın Gemisi",
+      "correctOption": "o1"
+    },
+    {
+      "id": 338,
+      "question": "Kuva-yı İnzibatiye'nin diğer adı olarak doğru seçenek hangisidir?",
+      "o1": "Halifelik Ordusu",
+      "o2": "Vatan ve Hürriyet Cemiyeti",
+      "o3": "İrade-i Milliye",
+      "o4": "Hakimiyet-i Milliye",
+      "correctOption": "o1"
+    },
+    {
+      "id": 339,
+      "question": "Boşluğu doğru tamamlayınız: Kuva-yı İnzibatiye'nin diğer adı ____.",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Halifelik Ordusu",
+      "o3": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o4": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o2"
+    },
+    {
+      "id": 340,
+      "question": "Kuva-yı İnzibatiye'nin diğer adı sorusunun cevabı hangisidir?",
+      "o1": "Halifelik Ordusu",
+      "o2": "Boğazlar Komisyonu",
+      "o3": "Vatan ve Hürriyet Cemiyeti",
+      "o4": "Yavuz",
+      "correctOption": "o1"
+    },
+    {
+      "id": 341,
+      "question": "Ermeni isyanlarını bastıran komutan nedir?",
+      "o1": "Rauf Orbay",
+      "o2": "Kazım Karabekir",
+      "o3": "Hasan Tahsin",
+      "o4": "Şerif Bey",
+      "correctOption": "o2"
+    },
+    {
+      "id": 342,
+      "question": "Aşağıdakilerden hangisi ermeni isyanlarını bastıran komutan?",
+      "o1": "Wilson",
+      "o2": "Mustafa Kemal",
+      "o3": "Giritli Şevki",
+      "o4": "Kazım Karabekir",
+      "correctOption": "o4"
+    },
+    {
+      "id": 343,
+      "question": "Ermeni isyanlarını bastıran komutan olarak doğru seçenek hangisidir?",
+      "o1": "Ali Rıza Efendi",
+      "o2": "Şerif Bey",
+      "o3": "Wilson",
+      "o4": "Kazım Karabekir",
+      "correctOption": "o4"
+    },
+    {
+      "id": 344,
+      "question": "Boşluğu doğru tamamlayınız: Ermeni isyanlarını bastıran komutan ____.",
+      "o1": "Kazım Karabekir",
+      "o2": "Mustafa Kemal",
+      "o3": "Hasan Tahsin",
+      "o4": "Kubilay",
+      "correctOption": "o1"
+    },
+    {
+      "id": 345,
+      "question": "Ermeni isyanlarını bastıran komutan sorusunun cevabı hangisidir?",
+      "o1": "Kazım Karabekir",
+      "o2": "İsmet İnönü",
+      "o3": "Rauf Orbay",
+      "o4": "Şerif Bey",
+      "correctOption": "o1"
+    },
+    {
+      "id": 346,
+      "question": "İsyanlara karşı çıkarılan kanun nedir?",
+      "o1": "Tevhid-i Tedrisat Kanunu",
+      "o2": "Başkomutanlık Yasası",
+      "o3": "Türk Medeni Kanunu",
+      "o4": "Hıyanet-i Vataniye Kanunu",
+      "correctOption": "o4"
+    },
+    {
+      "id": 347,
+      "question": "Aşağıdakilerden hangisi i̇syanlara karşı çıkarılan kanun?",
+      "o1": "Başkomutanlık Yasası",
+      "o2": "Türk Medeni Kanunu",
+      "o3": "Hıyanet-i Vataniye Kanunu",
+      "o4": "Kabotaj Kanunu",
+      "correctOption": "o3"
+    },
+    {
+      "id": 348,
+      "question": "İsyanlara karşı çıkarılan kanun olarak doğru seçenek hangisidir?",
+      "o1": "Türk Medeni Kanunu",
+      "o2": "Hıyanet-i Vataniye Kanunu",
+      "o3": "Başkomutanlık Yasası",
+      "o4": "Tevhid-i Tedrisat Kanunu",
+      "correctOption": "o2"
+    },
+    {
+      "id": 349,
+      "question": "Boşluğu doğru tamamlayınız: İsyanlara karşı çıkarılan kanun ____.",
+      "o1": "Hıyanet-i Vataniye Kanunu",
+      "o2": "Kabotaj Kanunu",
+      "o3": "Başkomutanlık Yasası",
+      "o4": "Tevhid-i Tedrisat Kanunu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 350,
+      "question": "İsyanlara karşı çıkarılan kanun sorusunun cevabı hangisidir?",
+      "o1": "Başkomutanlık Yasası",
+      "o2": "Tevhid-i Tedrisat Kanunu",
+      "o3": "Hıyanet-i Vataniye Kanunu",
+      "o4": "Kabotaj Kanunu",
+      "correctOption": "o3"
+    },
+    {
+      "id": 351,
+      "question": "Halkı doğru bilgilendirmek için kurulan kurum nedir?",
+      "o1": "Boğazlar Komisyonu",
+      "o2": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Hareket Ordusu",
+      "o4": "Anadolu Ajansı",
+      "correctOption": "o4"
+    },
+    {
+      "id": 352,
+      "question": "Aşağıdakilerden hangisi halkı doğru bilgilendirmek için kurulan kurum?",
+      "o1": "Nusret Mayın Gemisi",
+      "o2": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Boğazlar Komisyonu",
+      "o4": "Anadolu Ajansı",
+      "correctOption": "o4"
+    },
+    {
+      "id": 353,
+      "question": "Halkı doğru bilgilendirmek için kurulan kurum olarak doğru seçenek hangisidir?",
+      "o1": "Anadolu Ajansı",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Nusret Mayın Gemisi",
+      "o4": "Hareket Ordusu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 354,
+      "question": "Boşluğu doğru tamamlayınız: Halkı doğru bilgilendirmek için kurulan kurum ____.",
+      "o1": "Nusret Mayın Gemisi",
+      "o2": "Anadolu Ajansı",
+      "o3": "Papalık",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "correctOption": "o2"
+    },
+    {
+      "id": 355,
+      "question": "Halkı doğru bilgilendirmek için kurulan kurum sorusunun cevabı hangisidir?",
+      "o1": "Anadolu Ajansı",
+      "o2": "Papalık",
+      "o3": "İrade-i Milliye",
+      "o4": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o1"
+    },
+    {
+      "id": 356,
+      "question": "TBMM'nin çıkardığı yayın organı nedir?",
+      "o1": "Hakimiyet-i Milliye",
+      "o2": "Cemiyet-i Akvam",
+      "o3": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 357,
+      "question": "Aşağıdakilerden hangisi tbmm'nin çıkardığı yayın organı?",
+      "o1": "Hakimiyet-i Milliye",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o3": "Cemiyet-i Akvam",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o1"
+    },
+    {
+      "id": 358,
+      "question": "TBMM'nin çıkardığı yayın organı olarak doğru seçenek hangisidir?",
+      "o1": "Hakimiyet-i Milliye",
+      "o2": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Yavuz",
+      "o4": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o1"
+    },
+    {
+      "id": 359,
+      "question": "Boşluğu doğru tamamlayınız: TBMM'nin çıkardığı yayın organı ____.",
+      "o1": "İrade-i Milliye",
+      "o2": "Hakimiyet-i Milliye",
+      "o3": "Halifelik Ordusu",
+      "o4": "Yavuz",
+      "correctOption": "o2"
+    },
+    {
+      "id": 360,
+      "question": "TBMM'nin çıkardığı yayın organı sorusunun cevabı hangisidir?",
+      "o1": "Boğazlar Komisyonu",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Cemiyet-i Akvam",
+      "o4": "Hakimiyet-i Milliye",
+      "correctOption": "o4"
+    },
+    {
+      "id": 361,
+      "question": "Sevr Antlaşması'nın imza tarihi nedir?",
+      "o1": "10 Ocak 1920",
+      "o2": "10 Ağustos 1920",
+      "o3": "1936",
+      "o4": "1930",
+      "correctOption": "o2"
+    },
+    {
+      "id": 362,
+      "question": "Aşağıdakilerden hangisi sevr antlaşması'nın imza tarihi?",
+      "o1": "10 Ocak 1920",
+      "o2": "1916",
+      "o3": "10 Ağustos 1920",
+      "o4": "19 Mayıs 1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 363,
+      "question": "Sevr Antlaşması'nın imza tarihi olarak doğru seçenek hangisidir?",
+      "o1": "12-28 Ocak 1920",
+      "o2": "1932",
+      "o3": "1923",
+      "o4": "10 Ağustos 1920",
+      "correctOption": "o4"
+    },
+    {
+      "id": 364,
+      "question": "Boşluğu doğru tamamlayınız: Sevr Antlaşması'nın imza tarihi ____.",
+      "o1": "7-8 Ağustos 1921",
+      "o2": "10 Ağustos 1920",
+      "o3": "2 Eylül 1938",
+      "o4": "16 Mart 1920",
+      "correctOption": "o2"
+    },
+    {
+      "id": 365,
+      "question": "Sevr Antlaşması'nın imza tarihi sorusunun cevabı hangisidir?",
+      "o1": "2 Eylül 1938",
+      "o2": "10 Ağustos 1920",
+      "o3": "1924",
+      "o4": "1922",
+      "correctOption": "o2"
+    },
+    {
+      "id": 366,
+      "question": "Sevr'in hazırlandığı konferans kenti nedir?",
+      "o1": "San Remo",
+      "o2": "Karaağaç",
+      "o3": "Edirne",
+      "o4": "Musul",
+      "correctOption": "o1"
+    },
+    {
+      "id": 367,
+      "question": "Aşağıdakilerden hangisi sevr'in hazırlandığı konferans kenti?",
+      "o1": "San Remo",
+      "o2": "Dörtyol",
+      "o3": "Locarno",
+      "o4": "Musul",
+      "correctOption": "o1"
+    },
+    {
+      "id": 368,
+      "question": "Sevr'in hazırlandığı konferans kenti olarak doğru seçenek hangisidir?",
+      "o1": "Samsun",
+      "o2": "Selanik",
+      "o3": "San Remo",
+      "o4": "Kars",
+      "correctOption": "o3"
+    },
+    {
+      "id": 369,
+      "question": "Boşluğu doğru tamamlayınız: Sevr'in hazırlandığı konferans kenti ____.",
+      "o1": "San Remo",
+      "o2": "Samsun",
+      "o3": "Bağdat",
+      "o4": "Kars",
+      "correctOption": "o1"
+    },
+    {
+      "id": 370,
+      "question": "Sevr'in hazırlandığı konferans kenti sorusunun cevabı hangisidir?",
+      "o1": "San Remo",
+      "o2": "İstanbul",
+      "o3": "Edirne",
+      "o4": "Locarno",
+      "correctOption": "o1"
+    },
+    {
+      "id": 371,
+      "question": "Sevr'e karşı çıkan tek kişi nedir?",
+      "o1": "Topçu Ferik Rıza Paşa",
+      "o2": "Şerif Bey",
+      "o3": "Enver Paşa",
+      "o4": "Hasan Tahsin",
+      "correctOption": "o1"
+    },
+    {
+      "id": 372,
+      "question": "Aşağıdakilerden hangisi sevr'e karşı çıkan tek kişi?",
+      "o1": "Ali Fuat Cebesoy",
+      "o2": "Topçu Ferik Rıza Paşa",
+      "o3": "Ali Rıza Efendi",
+      "o4": "Hasan Tahsin",
+      "correctOption": "o2"
+    },
+    {
+      "id": 373,
+      "question": "Sevr'e karşı çıkan tek kişi olarak doğru seçenek hangisidir?",
+      "o1": "Topçu Ferik Rıza Paşa",
+      "o2": "Zübeyde Hanım",
+      "o3": "Wilson",
+      "o4": "Fahrettin Paşa",
+      "correctOption": "o1"
+    },
+    {
+      "id": 374,
+      "question": "Boşluğu doğru tamamlayınız: Sevr'e karşı çıkan tek kişi ____.",
+      "o1": "Topçu Ferik Rıza Paşa",
+      "o2": "İsmet İnönü",
+      "o3": "Kubilay",
+      "o4": "Fethi Okyar",
+      "correctOption": "o1"
+    },
+    {
+      "id": 375,
+      "question": "Sevr'e karşı çıkan tek kişi sorusunun cevabı hangisidir?",
+      "o1": "Enver Paşa",
+      "o2": "Şerif Bey",
+      "o3": "Topçu Ferik Rıza Paşa",
+      "o4": "Ali Fuat Cebesoy",
+      "correctOption": "o3"
+    },
+    {
+      "id": 376,
+      "question": "Doğu Cephesi'nde mücadele edilen topluluk nedir?",
+      "o1": "Yunanistan",
+      "o2": "Türkiye",
+      "o3": "Ermeniler",
+      "o4": "Japonya",
+      "correctOption": "o3"
+    },
+    {
+      "id": 377,
+      "question": "Aşağıdakilerden hangisi doğu cephesi'nde mücadele edilen topluluk?",
+      "o1": "İran",
+      "o2": "Yunanistan",
+      "o3": "Ermeniler",
+      "o4": "Almanya",
+      "correctOption": "o3"
+    },
+    {
+      "id": 378,
+      "question": "Doğu Cephesi'nde mücadele edilen topluluk olarak doğru seçenek hangisidir?",
+      "o1": "İngiltere",
+      "o2": "Ermeniler",
+      "o3": "Mısır",
+      "o4": "Irak",
+      "correctOption": "o2"
+    },
+    {
+      "id": 379,
+      "question": "Boşluğu doğru tamamlayınız: Doğu Cephesi'nde mücadele edilen topluluk ____.",
+      "o1": "Suriye",
+      "o2": "Yunanistan",
+      "o3": "ABD",
+      "o4": "Ermeniler",
+      "correctOption": "o4"
+    },
+    {
+      "id": 380,
+      "question": "Doğu Cephesi'nde mücadele edilen topluluk sorusunun cevabı hangisidir?",
+      "o1": "İngiltere",
+      "o2": "Irak",
+      "o3": "Ermeniler",
+      "o4": "Bulgaristan",
+      "correctOption": "o3"
+    },
+    {
+      "id": 381,
+      "question": "Güney Cephesi'nin kapandığı antlaşma nedir?",
+      "o1": "Ankara Antlaşması (1926)",
+      "o2": "Uşi Antlaşması",
+      "o3": "Montrö Boğazlar Sözleşmesi",
+      "o4": "Ankara Antlaşması",
+      "correctOption": "o4"
+    },
+    {
+      "id": 382,
+      "question": "Aşağıdakilerden hangisi güney cephesi'nin kapandığı antlaşma?",
+      "o1": "Ankara Antlaşması",
+      "o2": "Londra Antlaşması",
+      "o3": "Mondros Ateşkes Antlaşması",
+      "o4": "Paris Barış Konferansı",
+      "correctOption": "o1"
+    },
+    {
+      "id": 383,
+      "question": "Güney Cephesi'nin kapandığı antlaşma olarak doğru seçenek hangisidir?",
+      "o1": "Ankara Antlaşması (1926)",
+      "o2": "Uşi Antlaşması",
+      "o3": "Ankara Antlaşması",
+      "o4": "Gümrü Antlaşması",
+      "correctOption": "o3"
+    },
+    {
+      "id": 384,
+      "question": "Boşluğu doğru tamamlayınız: Güney Cephesi'nin kapandığı antlaşma ____.",
+      "o1": "Londra Antlaşması",
+      "o2": "Ankara Antlaşması",
+      "o3": "Uşi Antlaşması",
+      "o4": "Ankara Antlaşması (1926)",
+      "correctOption": "o2"
+    },
+    {
+      "id": 385,
+      "question": "Güney Cephesi'nin kapandığı antlaşma sorusunun cevabı hangisidir?",
+      "o1": "Londra Antlaşması",
+      "o2": "Montrö Boğazlar Sözleşmesi",
+      "o3": "Ankara Antlaşması",
+      "o4": "Brest Litowsk Antlaşması",
+      "correctOption": "o3"
+    },
+    {
+      "id": 386,
+      "question": "Başkomutanlık Yasası ile yetkilerin devredildiği kişi nedir?",
+      "o1": "Salih Paşa",
+      "o2": "Kazım Karabekir",
+      "o3": "Kubilay",
+      "o4": "Mustafa Kemal",
+      "correctOption": "o4"
+    },
+    {
+      "id": 387,
+      "question": "Aşağıdakilerden hangisi başkomutanlık yasası ile yetkilerin devredildiği kişi?",
+      "o1": "Kazım Karabekir",
+      "o2": "Wilson",
+      "o3": "Mustafa Kemal",
+      "o4": "Şerif Bey",
+      "correctOption": "o3"
+    },
+    {
+      "id": 388,
+      "question": "Başkomutanlık Yasası ile yetkilerin devredildiği kişi olarak doğru seçenek hangisidir?",
+      "o1": "Mustafa Kemal",
+      "o2": "İsmet İnönü",
+      "o3": "Salih Paşa",
+      "o4": "Fethi Okyar",
+      "correctOption": "o1"
+    },
+    {
+      "id": 389,
+      "question": "Boşluğu doğru tamamlayınız: Başkomutanlık Yasası ile yetkilerin devredildiği kişi ____.",
+      "o1": "Zübeyde Hanım",
+      "o2": "Hasan Tahsin",
+      "o3": "Enver Paşa",
+      "o4": "Mustafa Kemal",
+      "correctOption": "o4"
+    },
+    {
+      "id": 390,
+      "question": "Başkomutanlık Yasası ile yetkilerin devredildiği kişi sorusunun cevabı hangisidir?",
+      "o1": "Giritli Şevki",
+      "o2": "Topçu Ferik Rıza Paşa",
+      "o3": "Wilson",
+      "o4": "Mustafa Kemal",
+      "correctOption": "o4"
+    },
+    {
+      "id": 391,
+      "question": "Tekâlif-i Milliye Emirleri'nin yayımlandığı tarih aralığı nedir?",
+      "o1": "19 Mayıs 1919",
+      "o2": "7-8 Ağustos 1921",
+      "o3": "4 Eylül 1919",
+      "o4": "2 Eylül 1938",
+      "correctOption": "o2"
+    },
+    {
+      "id": 392,
+      "question": "Aşağıdakilerden hangisi tekâlif-i milliye emirleri'nin yayımlandığı tarih aralığı?",
+      "o1": "1925",
+      "o2": "1938",
+      "o3": "7-8 Ağustos 1921",
+      "o4": "1918",
+      "correctOption": "o3"
+    },
+    {
+      "id": 393,
+      "question": "Tekâlif-i Milliye Emirleri'nin yayımlandığı tarih aralığı olarak doğru seçenek hangisidir?",
+      "o1": "7-8 Ağustos 1921",
+      "o2": "1916",
+      "o3": "3 Mart 1924",
+      "o4": "9 Ocak 1916",
+      "correctOption": "o1"
+    },
+    {
+      "id": 394,
+      "question": "Boşluğu doğru tamamlayınız: Tekâlif-i Milliye Emirleri'nin yayımlandığı tarih aralığı ____.",
+      "o1": "8 Temmuz 1919",
+      "o2": "1934",
+      "o3": "7-8 Ağustos 1921",
+      "o4": "24 Ekim 1929",
+      "correctOption": "o3"
+    },
+    {
+      "id": 395,
+      "question": "Tekâlif-i Milliye Emirleri'nin yayımlandığı tarih aralığı sorusunun cevabı hangisidir?",
+      "o1": "23 Nisan 1920",
+      "o2": "23 Temmuz 1919",
+      "o3": "7-8 Ağustos 1921",
+      "o4": "1908",
+      "correctOption": "o3"
+    },
+    {
+      "id": 396,
+      "question": "Sakarya'da verilen ünlü emir nedir?",
+      "o1": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "o2": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o3": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "o4": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "correctOption": "o3"
+    },
+    {
+      "id": 397,
+      "question": "Aşağıdakilerden hangisi sakarya'da verilen ünlü emir?",
+      "o1": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "o2": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o3": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "o4": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "correctOption": "o3"
+    },
+    {
+      "id": 398,
+      "question": "Sakarya'da verilen ünlü emir olarak doğru seçenek hangisidir?",
+      "o1": "Ya istiklal ya ölüm",
+      "o2": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "o3": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "o4": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "correctOption": "o2"
+    },
+    {
+      "id": 399,
+      "question": "Boşluğu doğru tamamlayınız: Sakarya'da verilen ünlü emir ____.",
+      "o1": "Ya istiklal ya ölüm",
+      "o2": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "o3": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o4": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "correctOption": "o4"
+    },
+    {
+      "id": 400,
+      "question": "Sakarya'da verilen ünlü emir sorusunun cevabı hangisidir?",
+      "o1": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "o2": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "o3": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o4": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "correctOption": "o4"
+    },
+    {
+      "id": 401,
+      "question": "Sakarya sonrası Mustafa Kemal'e verilen rütbe nedir?",
+      "o1": "Çöl Kaplanı",
+      "o2": "Gazi",
+      "o3": "9. Ordu Müfettişliği",
+      "o4": "Mareşal",
+      "correctOption": "o4"
+    },
+    {
+      "id": 402,
+      "question": "Aşağıdakilerden hangisi sakarya sonrası mustafa kemal'e verilen rütbe?",
+      "o1": "Mareşal",
+      "o2": "Çöl Kaplanı",
+      "o3": "Gazi",
+      "o4": "9. Ordu Müfettişliği",
+      "correctOption": "o1"
+    },
+    {
+      "id": 403,
+      "question": "Sakarya sonrası Mustafa Kemal'e verilen rütbe olarak doğru seçenek hangisidir?",
+      "o1": "Gazi",
+      "o2": "Mareşal",
+      "o3": "9. Ordu Müfettişliği",
+      "o4": "Çöl Kaplanı",
+      "correctOption": "o2"
+    },
+    {
+      "id": 404,
+      "question": "Boşluğu doğru tamamlayınız: Sakarya sonrası Mustafa Kemal'e verilen rütbe ____.",
+      "o1": "Çöl Kaplanı",
+      "o2": "Gazi",
+      "o3": "9. Ordu Müfettişliği",
+      "o4": "Mareşal",
+      "correctOption": "o4"
+    },
+    {
+      "id": 405,
+      "question": "Sakarya sonrası Mustafa Kemal'e verilen rütbe sorusunun cevabı hangisidir?",
+      "o1": "Çöl Kaplanı",
+      "o2": "Gazi",
+      "o3": "9. Ordu Müfettişliği",
+      "o4": "Mareşal",
+      "correctOption": "o4"
+    },
+    {
+      "id": 406,
+      "question": "Sakarya sonrası Mustafa Kemal'e verilen unvan nedir?",
+      "o1": "Mareşal",
+      "o2": "Çöl Kaplanı",
+      "o3": "Gazi",
+      "o4": "9. Ordu Müfettişliği",
+      "correctOption": "o3"
+    },
+    {
+      "id": 407,
+      "question": "Aşağıdakilerden hangisi sakarya sonrası mustafa kemal'e verilen unvan?",
+      "o1": "Mareşal",
+      "o2": "Gazi",
+      "o3": "Çöl Kaplanı",
+      "o4": "9. Ordu Müfettişliği",
+      "correctOption": "o2"
+    },
+    {
+      "id": 408,
+      "question": "Sakarya sonrası Mustafa Kemal'e verilen unvan olarak doğru seçenek hangisidir?",
+      "o1": "Mareşal",
+      "o2": "9. Ordu Müfettişliği",
+      "o3": "Gazi",
+      "o4": "Çöl Kaplanı",
+      "correctOption": "o3"
+    },
+    {
+      "id": 409,
+      "question": "Boşluğu doğru tamamlayınız: Sakarya sonrası Mustafa Kemal'e verilen unvan ____.",
+      "o1": "Çöl Kaplanı",
+      "o2": "Mareşal",
+      "o3": "9. Ordu Müfettişliği",
+      "o4": "Gazi",
+      "correctOption": "o4"
+    },
+    {
+      "id": 410,
+      "question": "Sakarya sonrası Mustafa Kemal'e verilen unvan sorusunun cevabı hangisidir?",
+      "o1": "Çöl Kaplanı",
+      "o2": "Mareşal",
+      "o3": "Gazi",
+      "o4": "9. Ordu Müfettişliği",
+      "correctOption": "o3"
+    },
+    {
+      "id": 411,
+      "question": "Büyük Taarruz'da verilen ünlü emir nedir?",
+      "o1": "Ya istiklal ya ölüm",
+      "o2": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "o3": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o4": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "correctOption": "o3"
+    },
+    {
+      "id": 412,
+      "question": "Aşağıdakilerden hangisi büyük taarruz'da verilen ünlü emir?",
+      "o1": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o2": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "o3": "Ya istiklal ya ölüm",
+      "o4": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "correctOption": "o1"
+    },
+    {
+      "id": 413,
+      "question": "Büyük Taarruz'da verilen ünlü emir olarak doğru seçenek hangisidir?",
+      "o1": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o2": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "o3": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "o4": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "correctOption": "o1"
+    },
+    {
+      "id": 414,
+      "question": "Boşluğu doğru tamamlayınız: Büyük Taarruz'da verilen ünlü emir ____.",
+      "o1": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o2": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "o3": "Kırk asırlık Türk yurdu yabancı ellerde esir edilemez",
+      "o4": "Ya istiklal ya ölüm",
+      "correctOption": "o1"
+    },
+    {
+      "id": 415,
+      "question": "Büyük Taarruz'da verilen ünlü emir sorusunun cevabı hangisidir?",
+      "o1": "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.",
+      "o2": "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır",
+      "o3": "Ordular ilk hedefiniz Akdeniz’dir! İleri!",
+      "o4": "Ya istiklal ya ölüm",
+      "correctOption": "o3"
+    },
+    {
+      "id": 416,
+      "question": "Lozan'da Türk heyetine başkanlık eden kişi nedir?",
+      "o1": "Wilson",
+      "o2": "İsmet İnönü",
+      "o3": "Mustafa Kemal",
+      "o4": "Kubilay",
+      "correctOption": "o2"
+    },
+    {
+      "id": 417,
+      "question": "Aşağıdakilerden hangisi lozan'da türk heyetine başkanlık eden kişi?",
+      "o1": "Hasan Tahsin",
+      "o2": "İsmet İnönü",
+      "o3": "Fahrettin Paşa",
+      "o4": "Topçu Ferik Rıza Paşa",
+      "correctOption": "o2"
+    },
+    {
+      "id": 418,
+      "question": "Lozan'da Türk heyetine başkanlık eden kişi olarak doğru seçenek hangisidir?",
+      "o1": "Mustafa Kemal",
+      "o2": "İsmet İnönü",
+      "o3": "Fethi Okyar",
+      "o4": "Rauf Orbay",
+      "correctOption": "o2"
+    },
+    {
+      "id": 419,
+      "question": "Boşluğu doğru tamamlayınız: Lozan'da Türk heyetine başkanlık eden kişi ____.",
+      "o1": "Fahrettin Paşa",
+      "o2": "Ali Fuat Cebesoy",
+      "o3": "Kubilay",
+      "o4": "İsmet İnönü",
+      "correctOption": "o4"
+    },
+    {
+      "id": 420,
+      "question": "Lozan'da Türk heyetine başkanlık eden kişi sorusunun cevabı hangisidir?",
+      "o1": "Ali Rıza Efendi",
+      "o2": "Fethi Okyar",
+      "o3": "Kazım Karabekir",
+      "o4": "İsmet İnönü",
+      "correctOption": "o4"
+    },
+    {
+      "id": 421,
+      "question": "Lozan Antlaşması'nın imza tarihi nedir?",
+      "o1": "1881",
+      "o2": "24 Temmuz 1923",
+      "o3": "1915",
+      "o4": "24 Ekim 1929",
+      "correctOption": "o2"
+    },
+    {
+      "id": 422,
+      "question": "Aşağıdakilerden hangisi lozan antlaşması'nın imza tarihi?",
+      "o1": "1928",
+      "o2": "7-8 Ağustos 1921",
+      "o3": "24 Temmuz 1923",
+      "o4": "30 Ekim 1918",
+      "correctOption": "o3"
+    },
+    {
+      "id": 423,
+      "question": "Lozan Antlaşması'nın imza tarihi olarak doğru seçenek hangisidir?",
+      "o1": "3 Mart 1924",
+      "o2": "24 Temmuz 1923",
+      "o3": "24 Ekim 1929",
+      "o4": "30 Nisan 1939",
+      "correctOption": "o2"
+    },
+    {
+      "id": 424,
+      "question": "Boşluğu doğru tamamlayınız: Lozan Antlaşması'nın imza tarihi ____.",
+      "o1": "24 Temmuz 1923",
+      "o2": "1932",
+      "o3": "2 Eylül 1938",
+      "o4": "1930",
+      "correctOption": "o1"
+    },
+    {
+      "id": 425,
+      "question": "Lozan Antlaşması'nın imza tarihi sorusunun cevabı hangisidir?",
+      "o1": "24 Temmuz 1923",
+      "o2": "1936",
+      "o3": "1916",
+      "o4": "1934",
+      "correctOption": "o1"
+    },
+    {
+      "id": 426,
+      "question": "Lozan'a göre Türk-Yunan sınırını oluşturan nehir nedir?",
+      "o1": "Kut-ül Amare",
+      "o2": "Midye-Enez Hattı",
+      "o3": "Meriç Nehri",
+      "o4": "Karaağaç",
+      "correctOption": "o3"
+    },
+    {
+      "id": 427,
+      "question": "Aşağıdakilerden hangisi lozan'a göre türk-yunan sınırını oluşturan nehir?",
+      "o1": "Meriç Nehri",
+      "o2": "Allahuekber Dağları",
+      "o3": "Boğazlar",
+      "o4": "Midye-Enez Hattı",
+      "correctOption": "o1"
+    },
+    {
+      "id": 428,
+      "question": "Lozan'a göre Türk-Yunan sınırını oluşturan nehir olarak doğru seçenek hangisidir?",
+      "o1": "Kut-ül Amare",
+      "o2": "Allahuekber Dağları",
+      "o3": "Meriç Nehri",
+      "o4": "Batı Trakya",
+      "correctOption": "o3"
+    },
+    {
+      "id": 429,
+      "question": "Boşluğu doğru tamamlayınız: Lozan'a göre Türk-Yunan sınırını oluşturan nehir ____.",
+      "o1": "Boğazlar",
+      "o2": "Meriç Nehri",
+      "o3": "Kut-ül Amare",
+      "o4": "Dumlupınar",
+      "correctOption": "o2"
+    },
+    {
+      "id": 430,
+      "question": "Lozan'a göre Türk-Yunan sınırını oluşturan nehir sorusunun cevabı hangisidir?",
+      "o1": "Allahuekber Dağları",
+      "o2": "Meriç Nehri",
+      "o3": "Midye-Enez Hattı",
+      "o4": "Boğazlar",
+      "correctOption": "o2"
+    },
+    {
+      "id": 431,
+      "question": "Lozan'da sonraya bırakılan sınır sorunu nedir?",
+      "o1": "Musul meselesi",
+      "o2": "İnkılapçılık",
+      "o3": "ekonomi",
+      "o4": "manda ve himaye",
+      "correctOption": "o1"
+    },
+    {
+      "id": 432,
+      "question": "Aşağıdakilerden hangisi lozan'da sonraya bırakılan sınır sorunu?",
+      "o1": "İnkılapçılık",
+      "o2": "Kara Perşembe",
+      "o3": "Musul meselesi",
+      "o4": "ekonomi",
+      "correctOption": "o3"
+    },
+    {
+      "id": 433,
+      "question": "Lozan'da sonraya bırakılan sınır sorunu olarak doğru seçenek hangisidir?",
+      "o1": "kapitülasyonlar",
+      "o2": "bölgesel",
+      "o3": "Musul meselesi",
+      "o4": "Kara Perşembe",
+      "correctOption": "o3"
+    },
+    {
+      "id": 434,
+      "question": "Boşluğu doğru tamamlayınız: Lozan'da sonraya bırakılan sınır sorunu ____.",
+      "o1": "Büyük Yunanistan'ı kurmak",
+      "o2": "yoktur",
+      "o3": "parlamento",
+      "o4": "Musul meselesi",
+      "correctOption": "o4"
+    },
+    {
+      "id": 435,
+      "question": "Lozan'da sonraya bırakılan sınır sorunu sorusunun cevabı hangisidir?",
+      "o1": "Akılcılık",
+      "o2": "Musul meselesi",
+      "o3": "savaşı kanun dışı saymak",
+      "o4": "sürekli yenilenme",
+      "correctOption": "o2"
+    },
+    {
+      "id": 436,
+      "question": "Lozan'da savaş tazminatı olarak alınan yer nedir?",
+      "o1": "Karaağaç",
+      "o2": "San Remo",
+      "o3": "Sivas",
+      "o4": "Lozan",
+      "correctOption": "o1"
+    },
+    {
+      "id": 437,
+      "question": "Aşağıdakilerden hangisi lozan'da savaş tazminatı olarak alınan yer?",
+      "o1": "Selanik",
+      "o2": "Erzurum",
+      "o3": "Karaağaç",
+      "o4": "İstanbul",
+      "correctOption": "o3"
+    },
+    {
+      "id": 438,
+      "question": "Lozan'da savaş tazminatı olarak alınan yer olarak doğru seçenek hangisidir?",
+      "o1": "Havza",
+      "o2": "Samsun",
+      "o3": "Menemen",
+      "o4": "Karaağaç",
+      "correctOption": "o4"
+    },
+    {
+      "id": 439,
+      "question": "Boşluğu doğru tamamlayınız: Lozan'da savaş tazminatı olarak alınan yer ____.",
+      "o1": "Samsun",
+      "o2": "Bağdat",
+      "o3": "Karaağaç",
+      "o4": "San Remo",
+      "correctOption": "o3"
+    },
+    {
+      "id": 440,
+      "question": "Lozan'da savaş tazminatı olarak alınan yer sorusunun cevabı hangisidir?",
+      "o1": "Musul",
+      "o2": "Sivas",
+      "o3": "Karaağaç",
+      "o4": "Amasya",
+      "correctOption": "o3"
+    },
+    {
+      "id": 441,
+      "question": "Lozan ile kaldırılan ayrıcalık sistemi nedir?",
+      "o1": "İngiliz mandası",
+      "o2": "yoktur",
+      "o3": "kapitülasyonlar",
+      "o4": "çok partili hayat",
+      "correctOption": "o3"
+    },
+    {
+      "id": 442,
+      "question": "Aşağıdakilerden hangisi lozan ile kaldırılan ayrıcalık sistemi?",
+      "o1": "Kuvay-ı Milliye",
+      "o2": "kapitülasyonlar",
+      "o3": "ekonomi",
+      "o4": "Akılcılık",
+      "correctOption": "o2"
+    },
+    {
+      "id": 443,
+      "question": "Lozan ile kaldırılan ayrıcalık sistemi olarak doğru seçenek hangisidir?",
+      "o1": "Bilimsellik",
+      "o2": "yoktur",
+      "o3": "Cumhuriyet",
+      "o4": "kapitülasyonlar",
+      "correctOption": "o4"
+    },
+    {
+      "id": 444,
+      "question": "Boşluğu doğru tamamlayınız: Lozan ile kaldırılan ayrıcalık sistemi ____.",
+      "o1": "Milliyetçilik",
+      "o2": "Akılcılık",
+      "o3": "kapitülasyonlar",
+      "o4": "Monroe Doktrini",
+      "correctOption": "o3"
+    },
+    {
+      "id": 445,
+      "question": "Lozan ile kaldırılan ayrıcalık sistemi sorusunun cevabı hangisidir?",
+      "o1": "kapitülasyonlar",
+      "o2": "Yurttaşlık bilinci",
+      "o3": "Kara Perşembe",
+      "o4": "Milliyetçilik",
+      "correctOption": "o1"
+    },
+    {
+      "id": 446,
+      "question": "Lozan'a giden süreçte kaldırılan kurum nedir?",
+      "o1": "Kuvay-ı Milliye",
+      "o2": "bölgesel",
+      "o3": "manda ve himaye",
+      "o4": "Saltanat",
+      "correctOption": "o4"
+    },
+    {
+      "id": 447,
+      "question": "Aşağıdakilerden hangisi lozan'a giden süreçte kaldırılan kurum?",
+      "o1": "Kara Perşembe",
+      "o2": "Büyük Yunanistan'ı kurmak",
+      "o3": "Saltanat",
+      "o4": "Kuvay-ı Milliye",
+      "correctOption": "o3"
+    },
+    {
+      "id": 448,
+      "question": "Lozan'a giden süreçte kaldırılan kurum olarak doğru seçenek hangisidir?",
+      "o1": "çok partili hayat",
+      "o2": "Cumhuriyet",
+      "o3": "Monroe Doktrini",
+      "o4": "Saltanat",
+      "correctOption": "o4"
+    },
+    {
+      "id": 449,
+      "question": "Boşluğu doğru tamamlayınız: Lozan'a giden süreçte kaldırılan kurum ____.",
+      "o1": "Saltanat",
+      "o2": "Kuvay-ı Milliye",
+      "o3": "Cumhuriyetçilik",
+      "o4": "savaşı kanun dışı saymak",
+      "correctOption": "o1"
+    },
+    {
+      "id": 450,
+      "question": "Lozan'a giden süreçte kaldırılan kurum sorusunun cevabı hangisidir?",
+      "o1": "Saltanat",
+      "o2": "Yurttaşlık bilinci",
+      "o3": "Bilimsellik",
+      "o4": "Milliyetçilik",
+      "correctOption": "o1"
+    },
+    {
+      "id": 451,
+      "question": "Cumhuriyetçilik ilkesinin temel yönetim biçimi nedir?",
+      "o1": "din ve devlet işlerinin ayrılması",
+      "o2": "Cumhuriyet",
+      "o3": "manda ve himaye",
+      "o4": "Bilimsellik",
+      "correctOption": "o2"
+    },
+    {
+      "id": 452,
+      "question": "Aşağıdakilerden hangisi cumhuriyetçilik ilkesinin temel yönetim biçimi?",
+      "o1": "sürekli yenilenme",
+      "o2": "Musul meselesi",
+      "o3": "Kara Perşembe",
+      "o4": "Cumhuriyet",
+      "correctOption": "o4"
+    },
+    {
+      "id": 453,
+      "question": "Cumhuriyetçilik ilkesinin temel yönetim biçimi olarak doğru seçenek hangisidir?",
+      "o1": "Saltanat",
+      "o2": "Akılcılık",
+      "o3": "Cumhuriyet",
+      "o4": "parlamento",
+      "correctOption": "o3"
+    },
+    {
+      "id": 454,
+      "question": "Boşluğu doğru tamamlayınız: Cumhuriyetçilik ilkesinin temel yönetim biçimi ____.",
+      "o1": "İngiliz mandası",
+      "o2": "Kuvay-ı Milliye",
+      "o3": "Cumhuriyet",
+      "o4": "Vatanseverlik",
+      "correctOption": "o3"
+    },
+    {
+      "id": 455,
+      "question": "Cumhuriyetçilik ilkesinin temel yönetim biçimi sorusunun cevabı hangisidir?",
+      "o1": "Cumhuriyet",
+      "o2": "yasama ve yürütme",
+      "o3": "ekonomi",
+      "o4": "Musul meselesi",
+      "correctOption": "o1"
+    },
+    {
+      "id": 456,
+      "question": "Devletçilik ilkesinin ilgili olduğu temel alan nedir?",
+      "o1": "kapitülasyonlar",
+      "o2": "Akılcılık",
+      "o3": "ekonomi",
+      "o4": "Cumhuriyet",
+      "correctOption": "o3"
+    },
+    {
+      "id": 457,
+      "question": "Aşağıdakilerden hangisi devletçilik ilkesinin ilgili olduğu temel alan?",
+      "o1": "Cumhuriyetçilik",
+      "o2": "Musul meselesi",
+      "o3": "Kara Perşembe",
+      "o4": "ekonomi",
+      "correctOption": "o4"
+    },
+    {
+      "id": 458,
+      "question": "Devletçilik ilkesinin ilgili olduğu temel alan olarak doğru seçenek hangisidir?",
+      "o1": "ekonomi",
+      "o2": "Kara Perşembe",
+      "o3": "İngiliz mandası",
+      "o4": "bölgesel",
+      "correctOption": "o1"
+    },
+    {
+      "id": 459,
+      "question": "Boşluğu doğru tamamlayınız: Devletçilik ilkesinin ilgili olduğu temel alan ____.",
+      "o1": "Amerikan mandası",
+      "o2": "Bilimsellik",
+      "o3": "Saltanat",
+      "o4": "ekonomi",
+      "correctOption": "o4"
+    },
+    {
+      "id": 460,
+      "question": "Devletçilik ilkesinin ilgili olduğu temel alan sorusunun cevabı hangisidir?",
+      "o1": "yasama ve yürütme",
+      "o2": "Vatanseverlik",
+      "o3": "ekonomi",
+      "o4": "Amerikan mandası",
+      "correctOption": "o3"
+    },
+    {
+      "id": 461,
+      "question": "Laiklik ilkesinin temel anlamı nedir?",
+      "o1": "din ve devlet işlerinin ayrılması",
+      "o2": "Milliyetçilik",
+      "o3": "kapitülasyonlar",
+      "o4": "Akılcılık",
+      "correctOption": "o1"
+    },
+    {
+      "id": 462,
+      "question": "Aşağıdakilerden hangisi laiklik ilkesinin temel anlamı?",
+      "o1": "Saltanat",
+      "o2": "din ve devlet işlerinin ayrılması",
+      "o3": "Milliyetçilik",
+      "o4": "savaşı kanun dışı saymak",
+      "correctOption": "o2"
+    },
+    {
+      "id": 463,
+      "question": "Laiklik ilkesinin temel anlamı olarak doğru seçenek hangisidir?",
+      "o1": "Musul meselesi",
+      "o2": "Kuvay-ı Milliye",
+      "o3": "din ve devlet işlerinin ayrılması",
+      "o4": "Bilimsellik",
+      "correctOption": "o3"
+    },
+    {
+      "id": 464,
+      "question": "Boşluğu doğru tamamlayınız: Laiklik ilkesinin temel anlamı ____.",
+      "o1": "Akılcılık",
+      "o2": "Vatanseverlik",
+      "o3": "İngiliz mandası",
+      "o4": "din ve devlet işlerinin ayrılması",
+      "correctOption": "o4"
+    },
+    {
+      "id": 465,
+      "question": "Laiklik ilkesinin temel anlamı sorusunun cevabı hangisidir?",
+      "o1": "Monroe Doktrini",
+      "o2": "Büyük Yunanistan'ı kurmak",
+      "o3": "din ve devlet işlerinin ayrılması",
+      "o4": "kapitülasyonlar",
+      "correctOption": "o3"
+    },
+    {
+      "id": 466,
+      "question": "İnkılapçılık ilkesinin temel amacı nedir?",
+      "o1": "ekonomi",
+      "o2": "çok partili hayat",
+      "o3": "sürekli yenilenme",
+      "o4": "siyasal alan",
+      "correctOption": "o3"
+    },
+    {
+      "id": 467,
+      "question": "Aşağıdakilerden hangisi i̇nkılapçılık ilkesinin temel amacı?",
+      "o1": "siyasal alan",
+      "o2": "Akılcılık",
+      "o3": "sürekli yenilenme",
+      "o4": "çok partili hayat",
+      "correctOption": "o3"
+    },
+    {
+      "id": 468,
+      "question": "İnkılapçılık ilkesinin temel amacı olarak doğru seçenek hangisidir?",
+      "o1": "siyasal alan",
+      "o2": "sürekli yenilenme",
+      "o3": "Cumhuriyetçilik",
+      "o4": "Kara Perşembe",
+      "correctOption": "o2"
+    },
+    {
+      "id": 469,
+      "question": "Boşluğu doğru tamamlayınız: İnkılapçılık ilkesinin temel amacı ____.",
+      "o1": "bölgesel",
+      "o2": "yasama ve yürütme",
+      "o3": "sürekli yenilenme",
+      "o4": "Saltanat",
+      "correctOption": "o3"
+    },
+    {
+      "id": 470,
+      "question": "İnkılapçılık ilkesinin temel amacı sorusunun cevabı hangisidir?",
+      "o1": "sürekli yenilenme",
+      "o2": "yoktur",
+      "o3": "Bilimsellik",
+      "o4": "Kuvay-ı Milliye",
+      "correctOption": "o1"
+    },
+    {
+      "id": 471,
+      "question": "Bütün okulları Millî Eğitim Bakanlığına bağlayan kanun nedir?",
+      "o1": "Hıyanet-i Vataniye Kanunu",
+      "o2": "Tevhid-i Tedrisat Kanunu",
+      "o3": "Türk Medeni Kanunu",
+      "o4": "Kabotaj Kanunu",
+      "correctOption": "o2"
+    },
+    {
+      "id": 472,
+      "question": "Aşağıdakilerden hangisi bütün okulları millî eğitim bakanlığına bağlayan kanun?",
+      "o1": "Tevhid-i Tedrisat Kanunu",
+      "o2": "Kabotaj Kanunu",
+      "o3": "Başkomutanlık Yasası",
+      "o4": "Hıyanet-i Vataniye Kanunu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 473,
+      "question": "Bütün okulları Millî Eğitim Bakanlığına bağlayan kanun olarak doğru seçenek hangisidir?",
+      "o1": "Tevhid-i Tedrisat Kanunu",
+      "o2": "Hıyanet-i Vataniye Kanunu",
+      "o3": "Başkomutanlık Yasası",
+      "o4": "Türk Medeni Kanunu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 474,
+      "question": "Boşluğu doğru tamamlayınız: Bütün okulları Millî Eğitim Bakanlığına bağlayan kanun ____.",
+      "o1": "Hıyanet-i Vataniye Kanunu",
+      "o2": "Tevhid-i Tedrisat Kanunu",
+      "o3": "Kabotaj Kanunu",
+      "o4": "Başkomutanlık Yasası",
+      "correctOption": "o2"
+    },
+    {
+      "id": 475,
+      "question": "Bütün okulları Millî Eğitim Bakanlığına bağlayan kanun sorusunun cevabı hangisidir?",
+      "o1": "Tevhid-i Tedrisat Kanunu",
+      "o2": "Türk Medeni Kanunu",
+      "o3": "Kabotaj Kanunu",
+      "o4": "Hıyanet-i Vataniye Kanunu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 476,
+      "question": "Türk karasularında gemi işletme hakkını düzenleyen kanun nedir?",
+      "o1": "Kabotaj Kanunu",
+      "o2": "Türk Medeni Kanunu",
+      "o3": "Tevhid-i Tedrisat Kanunu",
+      "o4": "Hıyanet-i Vataniye Kanunu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 477,
+      "question": "Aşağıdakilerden hangisi türk karasularında gemi işletme hakkını düzenleyen kanun?",
+      "o1": "Başkomutanlık Yasası",
+      "o2": "Kabotaj Kanunu",
+      "o3": "Tevhid-i Tedrisat Kanunu",
+      "o4": "Hıyanet-i Vataniye Kanunu",
+      "correctOption": "o2"
+    },
+    {
+      "id": 478,
+      "question": "Türk karasularında gemi işletme hakkını düzenleyen kanun olarak doğru seçenek hangisidir?",
+      "o1": "Kabotaj Kanunu",
+      "o2": "Başkomutanlık Yasası",
+      "o3": "Türk Medeni Kanunu",
+      "o4": "Tevhid-i Tedrisat Kanunu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 479,
+      "question": "Boşluğu doğru tamamlayınız: Türk karasularında gemi işletme hakkını düzenleyen kanun ____.",
+      "o1": "Tevhid-i Tedrisat Kanunu",
+      "o2": "Hıyanet-i Vataniye Kanunu",
+      "o3": "Başkomutanlık Yasası",
+      "o4": "Kabotaj Kanunu",
+      "correctOption": "o4"
+    },
+    {
+      "id": 480,
+      "question": "Türk karasularında gemi işletme hakkını düzenleyen kanun sorusunun cevabı hangisidir?",
+      "o1": "Kabotaj Kanunu",
+      "o2": "Türk Medeni Kanunu",
+      "o3": "Tevhid-i Tedrisat Kanunu",
+      "o4": "Hıyanet-i Vataniye Kanunu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 481,
+      "question": "Türk kadınına seçme ve seçilme hakkı veren alan nedir?",
+      "o1": "çok partili hayat",
+      "o2": "siyasal alan",
+      "o3": "savaşı kanun dışı saymak",
+      "o4": "Saltanat",
+      "correctOption": "o2"
+    },
+    {
+      "id": 482,
+      "question": "Aşağıdakilerden hangisi türk kadınına seçme ve seçilme hakkı veren alan?",
+      "o1": "ekonomi",
+      "o2": "siyasal alan",
+      "o3": "İngiliz mandası",
+      "o4": "Akılcılık",
+      "correctOption": "o2"
+    },
+    {
+      "id": 483,
+      "question": "Türk kadınına seçme ve seçilme hakkı veren alan olarak doğru seçenek hangisidir?",
+      "o1": "Büyük Yunanistan'ı kurmak",
+      "o2": "savaşı kanun dışı saymak",
+      "o3": "İngiliz mandası",
+      "o4": "siyasal alan",
+      "correctOption": "o4"
+    },
+    {
+      "id": 484,
+      "question": "Boşluğu doğru tamamlayınız: Türk kadınına seçme ve seçilme hakkı veren alan ____.",
+      "o1": "siyasal alan",
+      "o2": "Saltanat",
+      "o3": "yoktur",
+      "o4": "Milliyetçilik",
+      "correctOption": "o1"
+    },
+    {
+      "id": 485,
+      "question": "Türk kadınına seçme ve seçilme hakkı veren alan sorusunun cevabı hangisidir?",
+      "o1": "siyasal alan",
+      "o2": "Musul meselesi",
+      "o3": "ekonomi",
+      "o4": "Amerikan mandası",
+      "correctOption": "o1"
+    },
+    {
+      "id": 486,
+      "question": "I. TBMM'nin görev yaptığı tarih aralığının başlangıcı nedir?",
+      "o1": "23 Nisan 1920",
+      "o2": "30 Ekim 1918",
+      "o3": "1916",
+      "o4": "19 Şubat 1915",
+      "correctOption": "o1"
+    },
+    {
+      "id": 487,
+      "question": "Aşağıdakilerden hangisi i. tbmm'nin görev yaptığı tarih aralığının başlangıcı?",
+      "o1": "7-8 Ağustos 1921",
+      "o2": "27 Aralık 1919",
+      "o3": "23 Aralık 1930",
+      "o4": "23 Nisan 1920",
+      "correctOption": "o4"
+    },
+    {
+      "id": 488,
+      "question": "I. TBMM'nin görev yaptığı tarih aralığının başlangıcı olarak doğru seçenek hangisidir?",
+      "o1": "1919",
+      "o2": "1936",
+      "o3": "5 Eylül 1919",
+      "o4": "23 Nisan 1920",
+      "correctOption": "o4"
+    },
+    {
+      "id": 489,
+      "question": "Boşluğu doğru tamamlayınız: I. TBMM'nin görev yaptığı tarih aralığının başlangıcı ____.",
+      "o1": "1921",
+      "o2": "23 Nisan 1920",
+      "o3": "22 Haziran 1919",
+      "o4": "30 Nisan 1939",
+      "correctOption": "o2"
+    },
+    {
+      "id": 490,
+      "question": "I. TBMM'nin görev yaptığı tarih aralığının başlangıcı sorusunun cevabı hangisidir?",
+      "o1": "1932",
+      "o2": "5 Eylül 1919",
+      "o3": "23 Nisan 1920",
+      "o4": "1929",
+      "correctOption": "o3"
+    },
+    {
+      "id": 491,
+      "question": "Mustafa Kemal'in kurduğu meclis grubu nedir?",
+      "o1": "Papalık",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o3": "Kafkas İslam Ordusu",
+      "o4": "Yavuz",
+      "correctOption": "o2"
+    },
+    {
+      "id": 492,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in kurduğu meclis grubu?",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o2": "Vatan ve Hürriyet Cemiyeti",
+      "o3": "Cemiyet-i Akvam",
+      "o4": "Anadolu Ajansı",
+      "correctOption": "o1"
+    },
+    {
+      "id": 493,
+      "question": "Mustafa Kemal'in kurduğu meclis grubu olarak doğru seçenek hangisidir?",
+      "o1": "İrade-i Milliye",
+      "o2": "Vatan ve Hürriyet Cemiyeti",
+      "o3": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o3"
+    },
+    {
+      "id": 494,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in kurduğu meclis grubu ____.",
+      "o1": "Nusret Mayın Gemisi",
+      "o2": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o3": "Vatan ve Hürriyet Cemiyeti",
+      "o4": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "correctOption": "o4"
+    },
+    {
+      "id": 495,
+      "question": "Mustafa Kemal'in kurduğu meclis grubu sorusunun cevabı hangisidir?",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o2": "Yavuz",
+      "o3": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Nusret Mayın Gemisi",
+      "correctOption": "o1"
+    },
+    {
+      "id": 496,
+      "question": "Seçimlerde başarısız olan meclis grubu nedir?",
+      "o1": "II. Grup",
+      "o2": "Temsil Heyeti",
+      "o3": "Felah-ı Vatan Grubu",
+      "o4": "Müdafaa-i Hukuk Grubu",
+      "correctOption": "o1"
+    },
+    {
+      "id": 497,
+      "question": "Aşağıdakilerden hangisi seçimlerde başarısız olan meclis grubu?",
+      "o1": "I. Grup",
+      "o2": "II. Grup",
+      "o3": "Müdafaa-i Hukuk Grubu",
+      "o4": "Temsil Heyeti",
+      "correctOption": "o2"
+    },
+    {
+      "id": 498,
+      "question": "Seçimlerde başarısız olan meclis grubu olarak doğru seçenek hangisidir?",
+      "o1": "II. Grup",
+      "o2": "Müdafaa-i Hukuk Grubu",
+      "o3": "Temsil Heyeti",
+      "o4": "I. Grup",
+      "correctOption": "o1"
+    },
+    {
+      "id": 499,
+      "question": "Boşluğu doğru tamamlayınız: Seçimlerde başarısız olan meclis grubu ____.",
+      "o1": "Felah-ı Vatan Grubu",
+      "o2": "Müdafaa-i Hukuk Grubu",
+      "o3": "II. Grup",
+      "o4": "I. Grup",
+      "correctOption": "o3"
+    },
+    {
+      "id": 500,
+      "question": "Seçimlerde başarısız olan meclis grubu sorusunun cevabı hangisidir?",
+      "o1": "I. Grup",
+      "o2": "II. Grup",
+      "o3": "Müdafaa-i Hukuk Grubu",
+      "o4": "Felah-ı Vatan Grubu",
+      "correctOption": "o2"
+    },
+    {
+      "id": 501,
+      "question": "Mustafa Kemal'in 9 Eylül 1923'te kurduğu parti nedir?",
+      "o1": "Halk Fırkası",
+      "o2": "Terakkiperver Cumhuriyet Fırkası",
+      "o3": "Serbest Cumhuriyet Fırkası",
+      "o4": "Cumhuriyet Halk Fırkası",
+      "correctOption": "o1"
+    },
+    {
+      "id": 502,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'in 9 eylül 1923'te kurduğu parti?",
+      "o1": "Cumhuriyet Halk Fırkası",
+      "o2": "Halk Fırkası",
+      "o3": "Terakkiperver Cumhuriyet Fırkası",
+      "o4": "Serbest Cumhuriyet Fırkası",
+      "correctOption": "o2"
+    },
+    {
+      "id": 503,
+      "question": "Mustafa Kemal'in 9 Eylül 1923'te kurduğu parti olarak doğru seçenek hangisidir?",
+      "o1": "Halk Fırkası",
+      "o2": "Cumhuriyet Halk Fırkası",
+      "o3": "Terakkiperver Cumhuriyet Fırkası",
+      "o4": "Serbest Cumhuriyet Fırkası",
+      "correctOption": "o1"
+    },
+    {
+      "id": 504,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'in 9 Eylül 1923'te kurduğu parti ____.",
+      "o1": "Terakkiperver Cumhuriyet Fırkası",
+      "o2": "Serbest Cumhuriyet Fırkası",
+      "o3": "Cumhuriyet Halk Fırkası",
+      "o4": "Halk Fırkası",
+      "correctOption": "o4"
+    },
+    {
+      "id": 505,
+      "question": "Mustafa Kemal'in 9 Eylül 1923'te kurduğu parti sorusunun cevabı hangisidir?",
+      "o1": "Halk Fırkası",
+      "o2": "Terakkiperver Cumhuriyet Fırkası",
+      "o3": "Serbest Cumhuriyet Fırkası",
+      "o4": "Cumhuriyet Halk Fırkası",
+      "correctOption": "o1"
+    },
+    {
+      "id": 506,
+      "question": "Halk Fırkası'nın yeni adı nedir?",
+      "o1": "Halk Fırkası",
+      "o2": "Serbest Cumhuriyet Fırkası",
+      "o3": "Cumhuriyet Halk Fırkası",
+      "o4": "Terakkiperver Cumhuriyet Fırkası",
+      "correctOption": "o3"
+    },
+    {
+      "id": 507,
+      "question": "Aşağıdakilerden hangisi halk fırkası'nın yeni adı?",
+      "o1": "Serbest Cumhuriyet Fırkası",
+      "o2": "Halk Fırkası",
+      "o3": "Cumhuriyet Halk Fırkası",
+      "o4": "Terakkiperver Cumhuriyet Fırkası",
+      "correctOption": "o3"
+    },
+    {
+      "id": 508,
+      "question": "Halk Fırkası'nın yeni adı olarak doğru seçenek hangisidir?",
+      "o1": "Halk Fırkası",
+      "o2": "Serbest Cumhuriyet Fırkası",
+      "o3": "Terakkiperver Cumhuriyet Fırkası",
+      "o4": "Cumhuriyet Halk Fırkası",
+      "correctOption": "o4"
+    },
+    {
+      "id": 509,
+      "question": "Boşluğu doğru tamamlayınız: Halk Fırkası'nın yeni adı ____.",
+      "o1": "Terakkiperver Cumhuriyet Fırkası",
+      "o2": "Cumhuriyet Halk Fırkası",
+      "o3": "Serbest Cumhuriyet Fırkası",
+      "o4": "Halk Fırkası",
+      "correctOption": "o2"
+    },
+    {
+      "id": 510,
+      "question": "Halk Fırkası'nın yeni adı sorusunun cevabı hangisidir?",
+      "o1": "Serbest Cumhuriyet Fırkası",
+      "o2": "Terakkiperver Cumhuriyet Fırkası",
+      "o3": "Cumhuriyet Halk Fırkası",
+      "o4": "Halk Fırkası",
+      "correctOption": "o3"
+    },
+    {
+      "id": 511,
+      "question": "Terakkiperver Cumhuriyet Fırkası'nın kuruluş tarihi nedir?",
+      "o1": "29 Ekim 1923",
+      "o2": "1914",
+      "o3": "17 Kasım 1924",
+      "o4": "24 Temmuz 1923",
+      "correctOption": "o3"
+    },
+    {
+      "id": 512,
+      "question": "Aşağıdakilerden hangisi terakkiperver cumhuriyet fırkası'nın kuruluş tarihi?",
+      "o1": "17 Kasım 1924",
+      "o2": "1926",
+      "o3": "1881",
+      "o4": "30 Nisan 1939",
+      "correctOption": "o1"
+    },
+    {
+      "id": 513,
+      "question": "Terakkiperver Cumhuriyet Fırkası'nın kuruluş tarihi olarak doğru seçenek hangisidir?",
+      "o1": "20-22 Ekim 1919",
+      "o2": "1922",
+      "o3": "17 Kasım 1924",
+      "o4": "19 Mayıs 1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 514,
+      "question": "Boşluğu doğru tamamlayınız: Terakkiperver Cumhuriyet Fırkası'nın kuruluş tarihi ____.",
+      "o1": "10 Ocak 1920",
+      "o2": "17 Kasım 1924",
+      "o3": "1934",
+      "o4": "1914",
+      "correctOption": "o2"
+    },
+    {
+      "id": 515,
+      "question": "Terakkiperver Cumhuriyet Fırkası'nın kuruluş tarihi sorusunun cevabı hangisidir?",
+      "o1": "17 Kasım 1924",
+      "o2": "5 Eylül 1919",
+      "o3": "27 Aralık 1919",
+      "o4": "23 Temmuz 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 516,
+      "question": "Terakkiperver Cumhuriyet Fırkası'nın savunduğu ekonomik anlayış nedir?",
+      "o1": "Faşizm",
+      "o2": "Nazizm",
+      "o3": "liberalizm",
+      "o4": "Bolşevizm",
+      "correctOption": "o3"
+    },
+    {
+      "id": 517,
+      "question": "Aşağıdakilerden hangisi terakkiperver cumhuriyet fırkası'nın savunduğu ekonomik anlayış?",
+      "o1": "Faşizm",
+      "o2": "Bolşevizm",
+      "o3": "liberalizm",
+      "o4": "Nazizm",
+      "correctOption": "o3"
+    },
+    {
+      "id": 518,
+      "question": "Terakkiperver Cumhuriyet Fırkası'nın savunduğu ekonomik anlayış olarak doğru seçenek hangisidir?",
+      "o1": "liberalizm",
+      "o2": "Nazizm",
+      "o3": "Bolşevizm",
+      "o4": "Faşizm",
+      "correctOption": "o1"
+    },
+    {
+      "id": 519,
+      "question": "Boşluğu doğru tamamlayınız: Terakkiperver Cumhuriyet Fırkası'nın savunduğu ekonomik anlayış ____.",
+      "o1": "Nazizm",
+      "o2": "Bolşevizm",
+      "o3": "liberalizm",
+      "o4": "Faşizm",
+      "correctOption": "o3"
+    },
+    {
+      "id": 520,
+      "question": "Terakkiperver Cumhuriyet Fırkası'nın savunduğu ekonomik anlayış sorusunun cevabı hangisidir?",
+      "o1": "liberalizm",
+      "o2": "Nazizm",
+      "o3": "Bolşevizm",
+      "o4": "Faşizm",
+      "correctOption": "o1"
+    },
+    {
+      "id": 521,
+      "question": "Mustafa Kemal'e yönelik suikast girişiminin planlandığı şehir nedir?",
+      "o1": "İzmir",
+      "o2": "Sivastopol",
+      "o3": "San Remo",
+      "o4": "Lozan",
+      "correctOption": "o1"
+    },
+    {
+      "id": 522,
+      "question": "Aşağıdakilerden hangisi mustafa kemal'e yönelik suikast girişiminin planlandığı şehir?",
+      "o1": "Samsun",
+      "o2": "İzmir",
+      "o3": "Dörtyol",
+      "o4": "Lozan",
+      "correctOption": "o2"
+    },
+    {
+      "id": 523,
+      "question": "Mustafa Kemal'e yönelik suikast girişiminin planlandığı şehir olarak doğru seçenek hangisidir?",
+      "o1": "Locarno",
+      "o2": "İzmir",
+      "o3": "İstanbul",
+      "o4": "Kars",
+      "correctOption": "o2"
+    },
+    {
+      "id": 524,
+      "question": "Boşluğu doğru tamamlayınız: Mustafa Kemal'e yönelik suikast girişiminin planlandığı şehir ____.",
+      "o1": "Sivastopol",
+      "o2": "İstanbul",
+      "o3": "Locarno",
+      "o4": "İzmir",
+      "correctOption": "o4"
+    },
+    {
+      "id": 525,
+      "question": "Mustafa Kemal'e yönelik suikast girişiminin planlandığı şehir sorusunun cevabı hangisidir?",
+      "o1": "Halep",
+      "o2": "Havza",
+      "o3": "San Remo",
+      "o4": "İzmir",
+      "correctOption": "o4"
+    },
+    {
+      "id": 526,
+      "question": "Suikast planının bozulmasında ihbarı yapan kişi nedir?",
+      "o1": "Kazım Karabekir",
+      "o2": "Giritli Şevki",
+      "o3": "Topçu Ferik Rıza Paşa",
+      "o4": "Fahrettin Paşa",
+      "correctOption": "o2"
+    },
+    {
+      "id": 527,
+      "question": "Aşağıdakilerden hangisi suikast planının bozulmasında ihbarı yapan kişi?",
+      "o1": "Kubilay",
+      "o2": "Salih Paşa",
+      "o3": "Giritli Şevki",
+      "o4": "Şerif Bey",
+      "correctOption": "o3"
+    },
+    {
+      "id": 528,
+      "question": "Suikast planının bozulmasında ihbarı yapan kişi olarak doğru seçenek hangisidir?",
+      "o1": "Ali Rıza Efendi",
+      "o2": "Ali Fuat Cebesoy",
+      "o3": "Giritli Şevki",
+      "o4": "Wilson",
+      "correctOption": "o3"
+    },
+    {
+      "id": 529,
+      "question": "Boşluğu doğru tamamlayınız: Suikast planının bozulmasında ihbarı yapan kişi ____.",
+      "o1": "Zübeyde Hanım",
+      "o2": "Giritli Şevki",
+      "o3": "Fahrettin Paşa",
+      "o4": "Salih Paşa",
+      "correctOption": "o2"
+    },
+    {
+      "id": 530,
+      "question": "Suikast planının bozulmasında ihbarı yapan kişi sorusunun cevabı hangisidir?",
+      "o1": "Mustafa Kemal",
+      "o2": "Topçu Ferik Rıza Paşa",
+      "o3": "Giritli Şevki",
+      "o4": "Hasan Tahsin",
+      "correctOption": "o3"
+    },
+    {
+      "id": 531,
+      "question": "Serbest Cumhuriyet Fırkası'nı kuran kişi nedir?",
+      "o1": "Wilson",
+      "o2": "Salih Paşa",
+      "o3": "Fethi Okyar",
+      "o4": "Giritli Şevki",
+      "correctOption": "o3"
+    },
+    {
+      "id": 532,
+      "question": "Aşağıdakilerden hangisi serbest cumhuriyet fırkası'nı kuran kişi?",
+      "o1": "Giritli Şevki",
+      "o2": "Fethi Okyar",
+      "o3": "Kubilay",
+      "o4": "Ali Rıza Efendi",
+      "correctOption": "o2"
+    },
+    {
+      "id": 533,
+      "question": "Serbest Cumhuriyet Fırkası'nı kuran kişi olarak doğru seçenek hangisidir?",
+      "o1": "Hasan Tahsin",
+      "o2": "Ali Rıza Efendi",
+      "o3": "Fethi Okyar",
+      "o4": "Mustafa Kemal",
+      "correctOption": "o3"
+    },
+    {
+      "id": 534,
+      "question": "Boşluğu doğru tamamlayınız: Serbest Cumhuriyet Fırkası'nı kuran kişi ____.",
+      "o1": "Fahrettin Paşa",
+      "o2": "Mustafa Kemal",
+      "o3": "Fethi Okyar",
+      "o4": "Kazım Karabekir",
+      "correctOption": "o3"
+    },
+    {
+      "id": 535,
+      "question": "Serbest Cumhuriyet Fırkası'nı kuran kişi sorusunun cevabı hangisidir?",
+      "o1": "Fahrettin Paşa",
+      "o2": "Giritli Şevki",
+      "o3": "Fethi Okyar",
+      "o4": "Ali Fuat Cebesoy",
+      "correctOption": "o3"
+    },
+    {
+      "id": 536,
+      "question": "Serbest Cumhuriyet Fırkası'nın kuruluş tarihi nedir?",
+      "o1": "1936",
+      "o2": "12 Ağustos 1930",
+      "o3": "1922",
+      "o4": "19 Mayıs 1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 537,
+      "question": "Aşağıdakilerden hangisi serbest cumhuriyet fırkası'nın kuruluş tarihi?",
+      "o1": "12 Ağustos 1930",
+      "o2": "1918",
+      "o3": "30 Nisan 1939",
+      "o4": "9 Ocak 1916",
+      "correctOption": "o1"
+    },
+    {
+      "id": 538,
+      "question": "Serbest Cumhuriyet Fırkası'nın kuruluş tarihi olarak doğru seçenek hangisidir?",
+      "o1": "24 Temmuz 1923",
+      "o2": "19 Şubat 1915",
+      "o3": "12 Ağustos 1930",
+      "o4": "1926",
+      "correctOption": "o3"
+    },
+    {
+      "id": 539,
+      "question": "Boşluğu doğru tamamlayınız: Serbest Cumhuriyet Fırkası'nın kuruluş tarihi ____.",
+      "o1": "16 Mart 1920",
+      "o2": "5 Eylül 1919",
+      "o3": "12 Ağustos 1930",
+      "o4": "1914",
+      "correctOption": "o3"
+    },
+    {
+      "id": 540,
+      "question": "Serbest Cumhuriyet Fırkası'nın kuruluş tarihi sorusunun cevabı hangisidir?",
+      "o1": "1936",
+      "o2": "12 Ağustos 1930",
+      "o3": "1930",
+      "o4": "24 Temmuz 1923",
+      "correctOption": "o2"
+    },
+    {
+      "id": 541,
+      "question": "Menemen Olayı'nın tarihi nedir?",
+      "o1": "23 Aralık 1930",
+      "o2": "1926",
+      "o3": "7-8 Ağustos 1921",
+      "o4": "8 Temmuz 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 542,
+      "question": "Aşağıdakilerden hangisi menemen olayı'nın tarihi?",
+      "o1": "23 Aralık 1930",
+      "o2": "1936",
+      "o3": "1920",
+      "o4": "27 Aralık 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 543,
+      "question": "Menemen Olayı'nın tarihi olarak doğru seçenek hangisidir?",
+      "o1": "20-22 Ekim 1919",
+      "o2": "1924",
+      "o3": "1930",
+      "o4": "23 Aralık 1930",
+      "correctOption": "o4"
+    },
+    {
+      "id": 544,
+      "question": "Boşluğu doğru tamamlayınız: Menemen Olayı'nın tarihi ____.",
+      "o1": "23 Aralık 1930",
+      "o2": "1925",
+      "o3": "5 Eylül 1919",
+      "o4": "9 Ocak 1916",
+      "correctOption": "o1"
+    },
+    {
+      "id": 545,
+      "question": "Menemen Olayı'nın tarihi sorusunun cevabı hangisidir?",
+      "o1": "1934",
+      "o2": "23 Aralık 1930",
+      "o3": "4 Eylül 1919",
+      "o4": "1925",
+      "correctOption": "o2"
+    },
+    {
+      "id": 546,
+      "question": "Menemen Olayı'nda şehit edilen subay nedir?",
+      "o1": "Salih Paşa",
+      "o2": "Ali Rıza Efendi",
+      "o3": "Topçu Ferik Rıza Paşa",
+      "o4": "Kubilay",
+      "correctOption": "o4"
+    },
+    {
+      "id": 547,
+      "question": "Aşağıdakilerden hangisi menemen olayı'nda şehit edilen subay?",
+      "o1": "Kubilay",
+      "o2": "Ali Rıza Efendi",
+      "o3": "Fahrettin Paşa",
+      "o4": "Topçu Ferik Rıza Paşa",
+      "correctOption": "o1"
+    },
+    {
+      "id": 548,
+      "question": "Menemen Olayı'nda şehit edilen subay olarak doğru seçenek hangisidir?",
+      "o1": "Rauf Orbay",
+      "o2": "Kazım Karabekir",
+      "o3": "Kubilay",
+      "o4": "Giritli Şevki",
+      "correctOption": "o3"
+    },
+    {
+      "id": 549,
+      "question": "Boşluğu doğru tamamlayınız: Menemen Olayı'nda şehit edilen subay ____.",
+      "o1": "Wilson",
+      "o2": "Fethi Okyar",
+      "o3": "Ali Rıza Efendi",
+      "o4": "Kubilay",
+      "correctOption": "o4"
+    },
+    {
+      "id": 550,
+      "question": "Menemen Olayı'nda şehit edilen subay sorusunun cevabı hangisidir?",
+      "o1": "Fethi Okyar",
+      "o2": "Kubilay",
+      "o3": "Wilson",
+      "o4": "Ali Fuat Cebesoy",
+      "correctOption": "o2"
+    },
+    {
+      "id": 551,
+      "question": "Yabancı okullar sorununda Türkiye'nin taviz vermediği dış aktörlerden biri nedir?",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Vatan ve Hürriyet Cemiyeti",
+      "o3": "Papalık",
+      "o4": "Boğazlar Komisyonu",
+      "correctOption": "o3"
+    },
+    {
+      "id": 552,
+      "question": "Aşağıdakilerden hangisi yabancı okullar sorununda türkiye'nin taviz vermediği dış aktörlerden biri?",
+      "o1": "Hakimiyet-i Milliye",
+      "o2": "Papalık",
+      "o3": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o2"
+    },
+    {
+      "id": 553,
+      "question": "Yabancı okullar sorununda Türkiye'nin taviz vermediği dış aktörlerden biri olarak doğru seçenek hangisidir?",
+      "o1": "Vatan ve Hürriyet Cemiyeti",
+      "o2": "Kafkas İslam Ordusu",
+      "o3": "Papalık",
+      "o4": "Boğazlar Komisyonu",
+      "correctOption": "o3"
+    },
+    {
+      "id": 554,
+      "question": "Boşluğu doğru tamamlayınız: Yabancı okullar sorununda Türkiye'nin taviz vermediği dış aktörlerden biri ____.",
+      "o1": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o2": "Vatan ve Hürriyet Cemiyeti",
+      "o3": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o4": "Papalık",
+      "correctOption": "o4"
+    },
+    {
+      "id": 555,
+      "question": "Yabancı okullar sorununda Türkiye'nin taviz vermediği dış aktörlerden biri sorusunun cevabı hangisidir?",
+      "o1": "Yavuz",
+      "o2": "Hareket Ordusu",
+      "o3": "Papalık",
+      "o4": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o3"
+    },
+    {
+      "id": 556,
+      "question": "Nüfus mübadelesi sorununun çözüldüğü yıl nedir?",
+      "o1": "30 Nisan 1939",
+      "o2": "20-22 Ekim 1919",
+      "o3": "1938",
+      "o4": "1930",
+      "correctOption": "o4"
+    },
+    {
+      "id": 557,
+      "question": "Aşağıdakilerden hangisi nüfus mübadelesi sorununun çözüldüğü yıl?",
+      "o1": "1938",
+      "o2": "23 Nisan 1920",
+      "o3": "16 Mart 1920",
+      "o4": "1930",
+      "correctOption": "o4"
+    },
+    {
+      "id": 558,
+      "question": "Nüfus mübadelesi sorununun çözüldüğü yıl olarak doğru seçenek hangisidir?",
+      "o1": "1921",
+      "o2": "1924",
+      "o3": "1930",
+      "o4": "1916",
+      "correctOption": "o3"
+    },
+    {
+      "id": 559,
+      "question": "Boşluğu doğru tamamlayınız: Nüfus mübadelesi sorununun çözüldüğü yıl ____.",
+      "o1": "19 Mayıs 1919",
+      "o2": "1930",
+      "o3": "1925",
+      "o4": "10 Ocak 1920",
+      "correctOption": "o2"
+    },
+    {
+      "id": 560,
+      "question": "Nüfus mübadelesi sorununun çözüldüğü yıl sorusunun cevabı hangisidir?",
+      "o1": "10 Ocak 1920",
+      "o2": "4 Eylül 1919",
+      "o3": "1915",
+      "o4": "1930",
+      "correctOption": "o4"
+    },
+    {
+      "id": 561,
+      "question": "Musul sorununun çözüldüğü antlaşma nedir?",
+      "o1": "Montrö Boğazlar Sözleşmesi",
+      "o2": "Mondros Ateşkes Antlaşması",
+      "o3": "Brest Litowsk Antlaşması",
+      "o4": "Ankara Antlaşması (1926)",
+      "correctOption": "o4"
+    },
+    {
+      "id": 562,
+      "question": "Aşağıdakilerden hangisi musul sorununun çözüldüğü antlaşma?",
+      "o1": "Ankara Antlaşması",
+      "o2": "Uşi Antlaşması",
+      "o3": "Mudanya Ateşkes Antlaşması",
+      "o4": "Ankara Antlaşması (1926)",
+      "correctOption": "o4"
+    },
+    {
+      "id": 563,
+      "question": "Musul sorununun çözüldüğü antlaşma olarak doğru seçenek hangisidir?",
+      "o1": "Ankara Antlaşması (1926)",
+      "o2": "Montrö Boğazlar Sözleşmesi",
+      "o3": "Lozan Barış Antlaşması",
+      "o4": "Mondros Ateşkes Antlaşması",
+      "correctOption": "o1"
+    },
+    {
+      "id": 564,
+      "question": "Boşluğu doğru tamamlayınız: Musul sorununun çözüldüğü antlaşma ____.",
+      "o1": "Londra Antlaşması",
+      "o2": "Lozan Barış Antlaşması",
+      "o3": "Paris Barış Konferansı",
+      "o4": "Ankara Antlaşması (1926)",
+      "correctOption": "o4"
+    },
+    {
+      "id": 565,
+      "question": "Musul sorununun çözüldüğü antlaşma sorusunun cevabı hangisidir?",
+      "o1": "Montrö Boğazlar Sözleşmesi",
+      "o2": "Mudanya Ateşkes Antlaşması",
+      "o3": "Ankara Antlaşması (1926)",
+      "o4": "Brest Litowsk Antlaşması",
+      "correctOption": "o3"
+    },
+    {
+      "id": 566,
+      "question": "Dış borçlar sorununun yaşandığı devlet nedir?",
+      "o1": "ABD",
+      "o2": "Rusya",
+      "o3": "Japonya",
+      "o4": "Fransa",
+      "correctOption": "o4"
+    },
+    {
+      "id": 567,
+      "question": "Aşağıdakilerden hangisi dış borçlar sorununun yaşandığı devlet?",
+      "o1": "Fransa",
+      "o2": "Mısır",
+      "o3": "Romanya",
+      "o4": "Yunanistan",
+      "correctOption": "o1"
+    },
+    {
+      "id": 568,
+      "question": "Dış borçlar sorununun yaşandığı devlet olarak doğru seçenek hangisidir?",
+      "o1": "Irak",
+      "o2": "İran",
+      "o3": "Fransa",
+      "o4": "ABD",
+      "correctOption": "o3"
+    },
+    {
+      "id": 569,
+      "question": "Boşluğu doğru tamamlayınız: Dış borçlar sorununun yaşandığı devlet ____.",
+      "o1": "İtalya",
+      "o2": "Mısır",
+      "o3": "Fransa",
+      "o4": "İran",
+      "correctOption": "o3"
+    },
+    {
+      "id": 570,
+      "question": "Dış borçlar sorununun yaşandığı devlet sorusunun cevabı hangisidir?",
+      "o1": "ABD",
+      "o2": "Yunanistan",
+      "o3": "Mısır",
+      "o4": "Fransa",
+      "correctOption": "o4"
+    },
+    {
+      "id": 571,
+      "question": "Türkiye'nin Milletler Cemiyeti'ne girdiği yıl nedir?",
+      "o1": "30 Nisan 1939",
+      "o2": "1915",
+      "o3": "27 Aralık 1919",
+      "o4": "1932",
+      "correctOption": "o4"
+    },
+    {
+      "id": 572,
+      "question": "Aşağıdakilerden hangisi türkiye'nin milletler cemiyeti'ne girdiği yıl?",
+      "o1": "1932",
+      "o2": "1920",
+      "o3": "3 Mart 1924",
+      "o4": "2 Eylül 1938",
+      "correctOption": "o1"
+    },
+    {
+      "id": 573,
+      "question": "Türkiye'nin Milletler Cemiyeti'ne girdiği yıl olarak doğru seçenek hangisidir?",
+      "o1": "1932",
+      "o2": "24 Temmuz 1923",
+      "o3": "12-28 Ocak 1920",
+      "o4": "1926",
+      "correctOption": "o1"
+    },
+    {
+      "id": 574,
+      "question": "Boşluğu doğru tamamlayınız: Türkiye'nin Milletler Cemiyeti'ne girdiği yıl ____.",
+      "o1": "1908",
+      "o2": "24 Temmuz 1923",
+      "o3": "30 Nisan 1939",
+      "o4": "1932",
+      "correctOption": "o4"
+    },
+    {
+      "id": 575,
+      "question": "Türkiye'nin Milletler Cemiyeti'ne girdiği yıl sorusunun cevabı hangisidir?",
+      "o1": "1 Kasım 1922",
+      "o2": "23 Aralık 1930",
+      "o3": "1918",
+      "o4": "1932",
+      "correctOption": "o4"
+    },
+    {
+      "id": 576,
+      "question": "Balkan Antantı'nın kuruluş yılı nedir?",
+      "o1": "1934",
+      "o2": "1930",
+      "o3": "22 Haziran 1919",
+      "o4": "1938",
+      "correctOption": "o1"
+    },
+    {
+      "id": 577,
+      "question": "Aşağıdakilerden hangisi balkan antantı'nın kuruluş yılı?",
+      "o1": "29 Ekim 1923",
+      "o2": "16 Mart 1920",
+      "o3": "1934",
+      "o4": "7-8 Ağustos 1921",
+      "correctOption": "o3"
+    },
+    {
+      "id": 578,
+      "question": "Balkan Antantı'nın kuruluş yılı olarak doğru seçenek hangisidir?",
+      "o1": "19 Şubat 1915",
+      "o2": "1881",
+      "o3": "1934",
+      "o4": "20-22 Ekim 1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 579,
+      "question": "Boşluğu doğru tamamlayınız: Balkan Antantı'nın kuruluş yılı ____.",
+      "o1": "1908",
+      "o2": "16 Mart 1920",
+      "o3": "1934",
+      "o4": "7-8 Ağustos 1921",
+      "correctOption": "o3"
+    },
+    {
+      "id": 580,
+      "question": "Balkan Antantı'nın kuruluş yılı sorusunun cevabı hangisidir?",
+      "o1": "16 Mart 1920",
+      "o2": "1934",
+      "o3": "1939",
+      "o4": "27 Aralık 1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 581,
+      "question": "Montrö Boğazlar Sözleşmesi'nin yılı nedir?",
+      "o1": "24 Temmuz 1923",
+      "o2": "1936",
+      "o3": "4 Eylül 1919",
+      "o4": "19 Mayıs 1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 582,
+      "question": "Aşağıdakilerden hangisi montrö boğazlar sözleşmesi'nin yılı?",
+      "o1": "1939",
+      "o2": "9 Ocak 1916",
+      "o3": "7-8 Ağustos 1921",
+      "o4": "1936",
+      "correctOption": "o4"
+    },
+    {
+      "id": 583,
+      "question": "Montrö Boğazlar Sözleşmesi'nin yılı olarak doğru seçenek hangisidir?",
+      "o1": "1924",
+      "o2": "30 Ekim 1918",
+      "o3": "1 Kasım 1922",
+      "o4": "1936",
+      "correctOption": "o4"
+    },
+    {
+      "id": 584,
+      "question": "Boşluğu doğru tamamlayınız: Montrö Boğazlar Sözleşmesi'nin yılı ____.",
+      "o1": "17 Kasım 1924",
+      "o2": "1936",
+      "o3": "1930",
+      "o4": "1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 585,
+      "question": "Montrö Boğazlar Sözleşmesi'nin yılı sorusunun cevabı hangisidir?",
+      "o1": "19 Şubat 1915",
+      "o2": "1908",
+      "o3": "20-22 Ekim 1919",
+      "o4": "1936",
+      "correctOption": "o4"
+    },
+    {
+      "id": 586,
+      "question": "Montrö ile kaldırılan yapı nedir?",
+      "o1": "Nusret Mayın Gemisi",
+      "o2": "Anadolu ve Rumeli Müdafaa-i Hukuk Grubu",
+      "o3": "Boğazlar Komisyonu",
+      "o4": "Yavuz",
+      "correctOption": "o3"
+    },
+    {
+      "id": 587,
+      "question": "Aşağıdakilerden hangisi montrö ile kaldırılan yapı?",
+      "o1": "Yavuz",
+      "o2": "Hareket Ordusu",
+      "o3": "Kafkas İslam Ordusu",
+      "o4": "Boğazlar Komisyonu",
+      "correctOption": "o4"
+    },
+    {
+      "id": 588,
+      "question": "Montrö ile kaldırılan yapı olarak doğru seçenek hangisidir?",
+      "o1": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "o2": "Yavuz",
+      "o3": "Hakimiyet-i Milliye",
+      "o4": "Boğazlar Komisyonu",
+      "correctOption": "o4"
+    },
+    {
+      "id": 589,
+      "question": "Boşluğu doğru tamamlayınız: Montrö ile kaldırılan yapı ____.",
+      "o1": "Kafkas İslam Ordusu",
+      "o2": "Halifelik Ordusu",
+      "o3": "Boğazlar Komisyonu",
+      "o4": "Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti",
+      "correctOption": "o3"
+    },
+    {
+      "id": 590,
+      "question": "Montrö ile kaldırılan yapı sorusunun cevabı hangisidir?",
+      "o1": "İrade-i Milliye",
+      "o2": "Hakimiyet-i Milliye",
+      "o3": "Halifelik Ordusu",
+      "o4": "Boğazlar Komisyonu",
+      "correctOption": "o4"
+    },
+    {
+      "id": 591,
+      "question": "Sadabat Paktı'na sonradan katılan ülke nedir?",
+      "o1": "Irak",
+      "o2": "Afganistan",
+      "o3": "Fransa",
+      "o4": "Mısır",
+      "correctOption": "o1"
+    },
+    {
+      "id": 592,
+      "question": "Aşağıdakilerden hangisi sadabat paktı'na sonradan katılan ülke?",
+      "o1": "Irak",
+      "o2": "Almanya",
+      "o3": "Romanya",
+      "o4": "ABD",
+      "correctOption": "o1"
+    },
+    {
+      "id": 593,
+      "question": "Sadabat Paktı'na sonradan katılan ülke olarak doğru seçenek hangisidir?",
+      "o1": "Irak",
+      "o2": "Mısır",
+      "o3": "İtalya",
+      "o4": "Yugoslavya",
+      "correctOption": "o1"
+    },
+    {
+      "id": 594,
+      "question": "Boşluğu doğru tamamlayınız: Sadabat Paktı'na sonradan katılan ülke ____.",
+      "o1": "Fransa",
+      "o2": "İran",
+      "o3": "Irak",
+      "o4": "Yugoslavya",
+      "correctOption": "o3"
+    },
+    {
+      "id": 595,
+      "question": "Sadabat Paktı'na sonradan katılan ülke sorusunun cevabı hangisidir?",
+      "o1": "Rusya",
+      "o2": "Afganistan",
+      "o3": "Irak",
+      "o4": "Bulgaristan",
+      "correctOption": "o3"
+    },
+    {
+      "id": 596,
+      "question": "Hatay'ın bağımsız devlet olduğunun ilan edildiği tarih nedir?",
+      "o1": "2 Eylül 1938",
+      "o2": "1918",
+      "o3": "1934",
+      "o4": "1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 597,
+      "question": "Aşağıdakilerden hangisi hatay'ın bağımsız devlet olduğunun ilan edildiği tarih?",
+      "o1": "2 Eylül 1938",
+      "o2": "3 Mart 1924",
+      "o3": "1924",
+      "o4": "1934",
+      "correctOption": "o1"
+    },
+    {
+      "id": 598,
+      "question": "Hatay'ın bağımsız devlet olduğunun ilan edildiği tarih olarak doğru seçenek hangisidir?",
+      "o1": "29 Ekim 1923",
+      "o2": "17 Kasım 1924",
+      "o3": "1925",
+      "o4": "2 Eylül 1938",
+      "correctOption": "o4"
+    },
+    {
+      "id": 599,
+      "question": "Boşluğu doğru tamamlayınız: Hatay'ın bağımsız devlet olduğunun ilan edildiği tarih ____.",
+      "o1": "2 Eylül 1938",
+      "o2": "1919",
+      "o3": "29 Ekim 1923",
+      "o4": "1920",
+      "correctOption": "o1"
+    },
+    {
+      "id": 600,
+      "question": "Hatay'ın bağımsız devlet olduğunun ilan edildiği tarih sorusunun cevabı hangisidir?",
+      "o1": "1881",
+      "o2": "1926",
+      "o3": "19 Mayıs 1919",
+      "o4": "2 Eylül 1938",
+      "correctOption": "o4"
+    },
+    {
+      "id": 601,
+      "question": "Hatay'ın anavatana katılma kararının alındığı tarih nedir?",
+      "o1": "23 Nisan 1920",
+      "o2": "29 Ekim 1923",
+      "o3": "1915",
+      "o4": "30 Nisan 1939",
+      "correctOption": "o4"
+    },
+    {
+      "id": 602,
+      "question": "Aşağıdakilerden hangisi hatay'ın anavatana katılma kararının alındığı tarih?",
+      "o1": "30 Nisan 1939",
+      "o2": "30 Ekim 1918",
+      "o3": "22 Haziran 1919",
+      "o4": "17 Kasım 1924",
+      "correctOption": "o1"
+    },
+    {
+      "id": 603,
+      "question": "Hatay'ın anavatana katılma kararının alındığı tarih olarak doğru seçenek hangisidir?",
+      "o1": "10 Ocak 1920",
+      "o2": "30 Nisan 1939",
+      "o3": "1923",
+      "o4": "1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 604,
+      "question": "Boşluğu doğru tamamlayınız: Hatay'ın anavatana katılma kararının alındığı tarih ____.",
+      "o1": "3 Mart 1924",
+      "o2": "1932",
+      "o3": "30 Nisan 1939",
+      "o4": "12 Ağustos 1930",
+      "correctOption": "o3"
+    },
+    {
+      "id": 605,
+      "question": "Hatay'ın anavatana katılma kararının alındığı tarih sorusunun cevabı hangisidir?",
+      "o1": "1920",
+      "o2": "30 Nisan 1939",
+      "o3": "24 Temmuz 1923",
+      "o4": "12-28 Ocak 1920",
+      "correctOption": "o2"
+    },
+    {
+      "id": 606,
+      "question": "Milletler Cemiyeti'nin kuruluş tarihi nedir?",
+      "o1": "1921",
+      "o2": "1916",
+      "o3": "1919",
+      "o4": "10 Ocak 1920",
+      "correctOption": "o4"
+    },
+    {
+      "id": 607,
+      "question": "Aşağıdakilerden hangisi milletler cemiyeti'nin kuruluş tarihi?",
+      "o1": "5 Eylül 1919",
+      "o2": "10 Ocak 1920",
+      "o3": "23 Temmuz 1919",
+      "o4": "20-22 Ekim 1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 608,
+      "question": "Milletler Cemiyeti'nin kuruluş tarihi olarak doğru seçenek hangisidir?",
+      "o1": "9 Ocak 1916",
+      "o2": "1881",
+      "o3": "10 Ocak 1920",
+      "o4": "1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 609,
+      "question": "Boşluğu doğru tamamlayınız: Milletler Cemiyeti'nin kuruluş tarihi ____.",
+      "o1": "23 Aralık 1930",
+      "o2": "10 Ocak 1920",
+      "o3": "1914",
+      "o4": "23 Temmuz 1919",
+      "correctOption": "o2"
+    },
+    {
+      "id": 610,
+      "question": "Milletler Cemiyeti'nin kuruluş tarihi sorusunun cevabı hangisidir?",
+      "o1": "27 Aralık 1919",
+      "o2": "7-8 Ağustos 1921",
+      "o3": "10 Ocak 1920",
+      "o4": "5 Eylül 1919",
+      "correctOption": "o3"
+    },
+    {
+      "id": 611,
+      "question": "Milletler Cemiyeti fikrini ortaya atan kişi nedir?",
+      "o1": "Wilson",
+      "o2": "Ali Fuat Cebesoy",
+      "o3": "Giritli Şevki",
+      "o4": "Hasan Tahsin",
+      "correctOption": "o1"
+    },
+    {
+      "id": 612,
+      "question": "Aşağıdakilerden hangisi milletler cemiyeti fikrini ortaya atan kişi?",
+      "o1": "Wilson",
+      "o2": "Giritli Şevki",
+      "o3": "Enver Paşa",
+      "o4": "İsmet İnönü",
+      "correctOption": "o1"
+    },
+    {
+      "id": 613,
+      "question": "Milletler Cemiyeti fikrini ortaya atan kişi olarak doğru seçenek hangisidir?",
+      "o1": "Fahrettin Paşa",
+      "o2": "Enver Paşa",
+      "o3": "Şerif Bey",
+      "o4": "Wilson",
+      "correctOption": "o4"
+    },
+    {
+      "id": 614,
+      "question": "Boşluğu doğru tamamlayınız: Milletler Cemiyeti fikrini ortaya atan kişi ____.",
+      "o1": "Ali Rıza Efendi",
+      "o2": "Wilson",
+      "o3": "Enver Paşa",
+      "o4": "Şerif Bey",
+      "correctOption": "o2"
+    },
+    {
+      "id": 615,
+      "question": "Milletler Cemiyeti fikrini ortaya atan kişi sorusunun cevabı hangisidir?",
+      "o1": "Fahrettin Paşa",
+      "o2": "Wilson",
+      "o3": "İsmet İnönü",
+      "o4": "Mustafa Kemal",
+      "correctOption": "o2"
+    },
+    {
+      "id": 616,
+      "question": "Briand-Kellogg Paktı'nın temel ilkesi nedir?",
+      "o1": "Amerikan mandası",
+      "o2": "savaşı kanun dışı saymak",
+      "o3": "İngiliz mandası",
+      "o4": "siyasal alan",
+      "correctOption": "o2"
+    },
+    {
+      "id": 617,
+      "question": "Aşağıdakilerden hangisi briand-kellogg paktı'nın temel ilkesi?",
+      "o1": "Cumhuriyet",
+      "o2": "savaşı kanun dışı saymak",
+      "o3": "yoktur",
+      "o4": "Kara Perşembe",
+      "correctOption": "o2"
+    },
+    {
+      "id": 618,
+      "question": "Briand-Kellogg Paktı'nın temel ilkesi olarak doğru seçenek hangisidir?",
+      "o1": "siyasal alan",
+      "o2": "Cumhuriyetçilik",
+      "o3": "çok partili hayat",
+      "o4": "savaşı kanun dışı saymak",
+      "correctOption": "o4"
+    },
+    {
+      "id": 619,
+      "question": "Boşluğu doğru tamamlayınız: Briand-Kellogg Paktı'nın temel ilkesi ____.",
+      "o1": "bölgesel",
+      "o2": "Musul meselesi",
+      "o3": "sürekli yenilenme",
+      "o4": "savaşı kanun dışı saymak",
+      "correctOption": "o4"
+    },
+    {
+      "id": 620,
+      "question": "Briand-Kellogg Paktı'nın temel ilkesi sorusunun cevabı hangisidir?",
+      "o1": "savaşı kanun dışı saymak",
+      "o2": "sürekli yenilenme",
+      "o3": "yasama ve yürütme",
+      "o4": "ekonomi",
+      "correctOption": "o1"
+    },
+    {
+      "id": 621,
+      "question": "1929 borsa çöküşünün adı nedir?",
+      "o1": "Saraybosna Suikastı",
+      "o2": "Sarıkamış Harekâtı",
+      "o3": "Menemen Olayı",
+      "o4": "Kara Perşembe",
+      "correctOption": "o4"
+    },
+    {
+      "id": 622,
+      "question": "Aşağıdakilerden hangisi 1929 borsa çöküşünün adı?",
+      "o1": "Menemen Olayı",
+      "o2": "Saraybosna Suikastı",
+      "o3": "Sarıkamış Harekâtı",
+      "o4": "Kara Perşembe",
+      "correctOption": "o4"
+    },
+    {
+      "id": 623,
+      "question": "1929 borsa çöküşünün adı olarak doğru seçenek hangisidir?",
+      "o1": "Saraybosna Suikastı",
+      "o2": "Sarıkamış Harekâtı",
+      "o3": "Menemen Olayı",
+      "o4": "Kara Perşembe",
+      "correctOption": "o4"
+    },
+    {
+      "id": 624,
+      "question": "Boşluğu doğru tamamlayınız: 1929 borsa çöküşünün adı ____.",
+      "o1": "Saraybosna Suikastı",
+      "o2": "Sarıkamış Harekâtı",
+      "o3": "Menemen Olayı",
+      "o4": "Kara Perşembe",
+      "correctOption": "o4"
+    },
+    {
+      "id": 625,
+      "question": "1929 borsa çöküşünün adı sorusunun cevabı hangisidir?",
+      "o1": "Kara Perşembe",
+      "o2": "Menemen Olayı",
+      "o3": "Sarıkamış Harekâtı",
+      "o4": "Saraybosna Suikastı",
+      "correctOption": "o1"
+    },
+    {
+      "id": 626,
+      "question": "Kara Perşembe'nin tarihi nedir?",
+      "o1": "19 Mayıs 1919",
+      "o2": "19 Şubat 1915",
+      "o3": "24 Ekim 1929",
+      "o4": "1920",
+      "correctOption": "o3"
+    },
+    {
+      "id": 627,
+      "question": "Aşağıdakilerden hangisi kara perşembe'nin tarihi?",
+      "o1": "24 Ekim 1929",
+      "o2": "2 Eylül 1938",
+      "o3": "1934",
+      "o4": "4 Eylül 1919",
+      "correctOption": "o1"
+    },
+    {
+      "id": 628,
+      "question": "Kara Perşembe'nin tarihi olarak doğru seçenek hangisidir?",
+      "o1": "19 Şubat 1915",
+      "o2": "22 Haziran 1919",
+      "o3": "27 Aralık 1919",
+      "o4": "24 Ekim 1929",
+      "correctOption": "o4"
+    },
+    {
+      "id": 629,
+      "question": "Boşluğu doğru tamamlayınız: Kara Perşembe'nin tarihi ____.",
+      "o1": "1920",
+      "o2": "1914",
+      "o3": "9 Ocak 1916",
+      "o4": "24 Ekim 1929",
+      "correctOption": "o4"
+    },
+    {
+      "id": 630,
+      "question": "Kara Perşembe'nin tarihi sorusunun cevabı hangisidir?",
+      "o1": "1938",
+      "o2": "1936",
+      "o3": "24 Ekim 1929",
+      "o4": "1922",
+      "correctOption": "o3"
+    },
+    {
+      "id": 631,
+      "question": "Almanya'da Hitler öncülüğündeki ideoloji nedir?",
+      "o1": "Bolşevizm",
+      "o2": "Faşizm",
+      "o3": "Nazizm",
+      "o4": "liberalizm",
+      "correctOption": "o3"
+    },
+    {
+      "id": 632,
+      "question": "Aşağıdakilerden hangisi almanya'da hitler öncülüğündeki ideoloji?",
+      "o1": "Nazizm",
+      "o2": "Bolşevizm",
+      "o3": "Faşizm",
+      "o4": "liberalizm",
+      "correctOption": "o1"
+    },
+    {
+      "id": 633,
+      "question": "Almanya'da Hitler öncülüğündeki ideoloji olarak doğru seçenek hangisidir?",
+      "o1": "Nazizm",
+      "o2": "liberalizm",
+      "o3": "Faşizm",
+      "o4": "Bolşevizm",
+      "correctOption": "o1"
+    },
+    {
+      "id": 634,
+      "question": "Boşluğu doğru tamamlayınız: Almanya'da Hitler öncülüğündeki ideoloji ____.",
+      "o1": "Nazizm",
+      "o2": "liberalizm",
+      "o3": "Faşizm",
+      "o4": "Bolşevizm",
+      "correctOption": "o1"
+    },
+    {
+      "id": 635,
+      "question": "Almanya'da Hitler öncülüğündeki ideoloji sorusunun cevabı hangisidir?",
+      "o1": "Bolşevizm",
+      "o2": "Faşizm",
+      "o3": "liberalizm",
+      "o4": "Nazizm",
+      "correctOption": "o4"
+    },
+    {
+      "id": 636,
+      "question": "İtalya'da Mussolini öncülüğündeki ideoloji nedir?",
+      "o1": "Nazizm",
+      "o2": "Faşizm",
+      "o3": "Bolşevizm",
+      "o4": "liberalizm",
+      "correctOption": "o2"
+    },
+    {
+      "id": 637,
+      "question": "Aşağıdakilerden hangisi i̇talya'da mussolini öncülüğündeki ideoloji?",
+      "o1": "Faşizm",
+      "o2": "Nazizm",
+      "o3": "liberalizm",
+      "o4": "Bolşevizm",
+      "correctOption": "o1"
+    },
+    {
+      "id": 638,
+      "question": "İtalya'da Mussolini öncülüğündeki ideoloji olarak doğru seçenek hangisidir?",
+      "o1": "Bolşevizm",
+      "o2": "Nazizm",
+      "o3": "Faşizm",
+      "o4": "liberalizm",
+      "correctOption": "o3"
+    },
+    {
+      "id": 639,
+      "question": "Boşluğu doğru tamamlayınız: İtalya'da Mussolini öncülüğündeki ideoloji ____.",
+      "o1": "Bolşevizm",
+      "o2": "Nazizm",
+      "o3": "Faşizm",
+      "o4": "liberalizm",
+      "correctOption": "o3"
+    },
+    {
+      "id": 640,
+      "question": "İtalya'da Mussolini öncülüğündeki ideoloji sorusunun cevabı hangisidir?",
+      "o1": "Nazizm",
+      "o2": "Faşizm",
+      "o3": "liberalizm",
+      "o4": "Bolşevizm",
+      "correctOption": "o2"
+    },
+    {
+      "id": 641,
+      "question": "Rusya'da Lenin öncülüğündeki ideoloji nedir?",
+      "o1": "Nazizm",
+      "o2": "liberalizm",
+      "o3": "Faşizm",
+      "o4": "Bolşevizm",
+      "correctOption": "o4"
+    },
+    {
+      "id": 642,
+      "question": "Aşağıdakilerden hangisi rusya'da lenin öncülüğündeki ideoloji?",
+      "o1": "Bolşevizm",
+      "o2": "liberalizm",
+      "o3": "Faşizm",
+      "o4": "Nazizm",
+      "correctOption": "o1"
+    },
+    {
+      "id": 643,
+      "question": "Rusya'da Lenin öncülüğündeki ideoloji olarak doğru seçenek hangisidir?",
+      "o1": "Faşizm",
+      "o2": "Nazizm",
+      "o3": "Bolşevizm",
+      "o4": "liberalizm",
+      "correctOption": "o3"
+    },
+    {
+      "id": 644,
+      "question": "Boşluğu doğru tamamlayınız: Rusya'da Lenin öncülüğündeki ideoloji ____.",
+      "o1": "Nazizm",
+      "o2": "Faşizm",
+      "o3": "liberalizm",
+      "o4": "Bolşevizm",
+      "correctOption": "o4"
+    },
+    {
+      "id": 645,
+      "question": "Rusya'da Lenin öncülüğündeki ideoloji sorusunun cevabı hangisidir?",
+      "o1": "Bolşevizm",
+      "o2": "Nazizm",
+      "o3": "liberalizm",
+      "o4": "Faşizm",
+      "correctOption": "o1"
+    }
+  ]
+}
